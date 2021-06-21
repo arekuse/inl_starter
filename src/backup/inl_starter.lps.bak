@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Release"/>
+    <Units Count="5">
+      <Unit0>
+        <Filename Value="inl_starter.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="4"/>
+        <CursorPos X="43" Y="20"/>
+        <UsageCount Value="134"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="inl_starter_src.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form1"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="784"/>
+        <CursorPos X="43" Y="835"/>
+        <UsageCount Value="134"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="int_loading.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Form2"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <EditorIndex Value="3"/>
+        <UsageCount Value="104"/>
+        <Loaded Value="True"/>
+        <LoadedDesigner Value="True"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="inl_starter_src.lfm"/>
+        <EditorIndex Value="2"/>
+        <UsageCount Value="53"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:\Apps\lazarus\fpc\3.0.4\source\packages\fcl-xml\src\xpath.pp"/>
+        <UnitName Value="XPath"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="2744"/>
+        <CursorPos X="10" Y="498"/>
+        <UsageCount Value="40"/>
+        <Loaded Value="True"/>
+      </Unit4>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="249" Column="3" TopLine="243"/>
+      </Position1>
+      <Position2>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="248" Column="3" TopLine="242"/>
+      </Position2>
+      <Position3>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="247" Column="3" TopLine="241"/>
+      </Position3>
+      <Position4>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="254" Column="44" TopLine="175"/>
+      </Position4>
+      <Position5>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="611" TopLine="606"/>
+      </Position5>
+      <Position6>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="636" Column="3" TopLine="633"/>
+      </Position6>
+      <Position7>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="619" Column="15" TopLine="606"/>
+      </Position7>
+      <Position8>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="455" Column="15" TopLine="441"/>
+      </Position8>
+      <Position9>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="456" Column="15" TopLine="442"/>
+      </Position9>
+      <Position10>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="464" Column="15" TopLine="464"/>
+      </Position10>
+      <Position11>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="453" TopLine="451"/>
+      </Position11>
+      <Position12>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="516" Column="41" TopLine="493"/>
+      </Position12>
+      <Position13>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="1027" TopLine="1026"/>
+      </Position13>
+      <Position14>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="1092" Column="7" TopLine="1052"/>
+      </Position14>
+      <Position15>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="310" Column="11" TopLine="288"/>
+      </Position15>
+      <Position16>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="1042" TopLine="1041"/>
+      </Position16>
+      <Position17>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="1137" Column="74" TopLine="1090"/>
+      </Position17>
+      <Position18>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="435" TopLine="434"/>
+      </Position18>
+      <Position19>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="468" Column="21" TopLine="434"/>
+      </Position19>
+      <Position20>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="829" Column="13" TopLine="1114"/>
+      </Position20>
+      <Position21>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="452" Column="150" TopLine="434"/>
+      </Position21>
+      <Position22>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="6" Column="14"/>
+      </Position22>
+      <Position23>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="452" Column="150" TopLine="1131"/>
+      </Position23>
+      <Position24>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="150" Column="11" TopLine="112"/>
+      </Position24>
+      <Position25>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="144" Column="9" TopLine="106"/>
+      </Position25>
+      <Position26>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="210" Column="3" TopLine="178"/>
+      </Position26>
+      <Position27>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="202" Column="211" TopLine="180"/>
+      </Position27>
+      <Position28>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="201" Column="14" TopLine="180"/>
+      </Position28>
+      <Position29>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="1175" Column="57" TopLine="1143"/>
+      </Position29>
+      <Position30>
+        <Filename Value="inl_starter_src.pas"/>
+        <Caret Line="536" TopLine="530"/>
+      </Position30>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>

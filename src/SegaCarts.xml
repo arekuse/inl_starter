@@ -1,0 +1,4989 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database version="1.0" conformance="strict" agent="SegaCartDB" author="arekuse">
+	<game name="10 Super Jogos">
+		<publisher>Tectoy</publisher>
+		<region>Brazil</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="3 Ninjas Kick Back">
+		<publisher>Sony Imagesoft</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="6-Pak">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="688 Attack Sub">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Aaahh!!! Real Monsters">
+		<publisher>Viacom New Media</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Aaahh!!! Real Monsters">
+		<publisher>Viacom New Media</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Addams Family Values">
+		<publisher>Ocean Software</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Addams Family, The">
+		<publisher>Flying Edge</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Adventures of Batman &amp; Robin, The">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Adventures of Batman &amp; Robin, The">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Adventures of Mighty Max, The">
+		<publisher>Ocean Software Ltd.</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Adventures of Mighty Max, The">
+		<publisher>Ocean Software Ltd.</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Adventures of Rocky and Bullwinkle and Friends, The">
+		<publisher>Absolute Entertainment</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Aero the Acro-Bat">
+		<publisher>Sunsoft</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Aero the Acro-Bat">
+		<publisher>Sunsoft</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Aero the Acro-Bat 2">
+		<publisher>Sunsoft</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Aero the Acro-Bat 2">
+		<publisher>Sunsoft</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Aerobiz">
+		<publisher>Koei</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Aerobiz Supersonic">
+		<publisher>Koei</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="After Burner II">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Air Buster">
+		<publisher>Kaneko</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Air Diver">
+		<publisher>Seismic</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Al Michaels Announces HardBall III">
+		<publisher>Accolade</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Aladdin">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Aladdin">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Alex Kidd: Cheongong Maseong">
+		<publisher>Sega</publisher>
+		<region>Korea</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Alex Kidd in the Enchanted Castle">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Alex Kidd in the Enchanted Castle">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Alien 3">
+		<publisher>Arena</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Alien Soldier">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Alien Storm">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Alisia Dragoon">
+		<publisher>Game Arts</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Alisia Dragoon">
+		<publisher>Game Arts</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Altered Beast">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="American Gladiators">
+		<publisher>GameTek</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Andre Agassi Tennis">
+		<publisher>TecMagik</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>	
+	<game name="Andre Agassi Tennis">
+		<publisher>TecMagik</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Animaniacs">
+		<publisher>Konami</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>	
+	<game name="Animaniacs">
+		<publisher>Konami</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Another World">
+		<publisher>Virgin Games</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Aquatic Games Starring James Pond and the Aquabats, The">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Arcade Classics">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Arch Rivals: The Arcade Game">
+		<publisher>Flying Edge</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Arcus Odyssey">
+		<publisher>Renovation</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ariel the Little Mermaid">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Arnold Palmer Tournament Golf">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Arrow Flash">
+		<publisher>Renovation</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Art Alive">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>128 KB</size>
+	</game>
+	<game name="Art of Fighting">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Art of Fighting">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Asterix and the Great Rescue">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Asterix and the Great Rescue">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Asterix and the Power of the Gods">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Atomic Robo-Kid">
+		<publisher>Treco</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Atomic Runner">
+		<publisher>Data East</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>	
+	<game name="Atomic Runner">
+		<publisher>Data East</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="ATP Tour">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ATP Tour Championship Tennis">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Australian Rugby League">
+		<publisher>Electronic Arts</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Awesome Possum... ...Kicks Dr. Machino's Butt">
+		<publisher>Tengen</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Ayrton Senna's Super Monaco GP II">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="B.O.B.">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Back to the Future Part III">
+		<publisher>Arena</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>	
+	<game name="Back to the Future Part III">
+		<publisher>Image Works</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ballz 3D: Fighting at its Ballziest ~ Ballz 3D: The Battle of the Ballz">
+		<publisher>Accolade</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Barbie Super Model">
+		<publisher>Hi Tech Expressions</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bare Knuckle: Ikari no Tekken ~ Streets of Rage">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Barkley Shut Up and Jam 2">
+		<publisher>Accolade</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Barkley Shut Up and Jam!">
+		<publisher>Accolade</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Barney's Hide &amp; Seek Game">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bass Masters Classic: Pro Edition">
+		<publisher>Black Pearl Software</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Bass Masters Classic">
+		<publisher>Black Pearl Software</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Batman: Revenge of the Joker">
+		<publisher>Sunsoft</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Batman: The Video Game">
+		<publisher>Sunsoft</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Batman">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Batman Forever">
+		<publisher>Acclaim Entertainment</publisher>
+		<region>World</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Batman Returns">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Battle Squadron">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Battlemaster">
+		<publisher>Arena</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="BattleTech: A Game of Armored Combat">
+		<publisher>Extreme Entertainment Group</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Battletoads">
+		<publisher>Tradewest (US), Sega (EU/JP)</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Battletoads/Double Dragon: The Ultimate Team">
+		<publisher>Tradewest</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Beast Wrestler">
+		<publisher>Renovation</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Beauty and the Beast: Belle's Quest">
+		<publisher>Sunsoft</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Beauty and the Beast: Roar of the Beast">
+		<publisher>Sunsoft</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Beavis and Butt-Head">
+		<publisher>Viacom New Media</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Beavis and Butt-Head">
+		<publisher>Viacom New Media</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Berenstain Bears' Camping Adventure, The">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Best of the Best: Championship Karate">
+		<publisher>Electro Brain</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Beyond Oasis">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Bill Walsh College Football">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bill Walsh College Football 95">
+		<publisher>Electronic Arts</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Bimini Run">
+		<publisher>Nuvision Entertainment</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Bio Hazard Battle">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Blades of Vengeance">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Blaster Master 2">
+		<publisher>Sunsoft</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Blockbuster World Video Game Championship II">
+		<publisher>Acclaim</publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Blockout">
+		<publisher>Electronic Arts (US/EU), Sega (JP), TecToy (BR)</publisher>
+		<region>World</region>
+		<size>128 KB</size>
+	</game>
+	<game name="Bloodshot">
+		<publisher>Acclaim</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Body Count">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bonanza Bros.">
+		<publisher>Sega</publisher>
+		<region>USA, Europe, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Bonkers">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Boogerman: A Pick and Flick Adventure">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Boogerman: A Pick and Flick Adventure">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Boxing Legends of the Ring">
+		<publisher>Electro Brain</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bram Stoker's Dracula">
+		<publisher>Sony Imagesoft</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bram Stoker's Dracula">
+		<publisher>Sony Imagesoft</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Brett Hull Hockey 95">
+		<publisher>Accolade</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Brian Lara Cricket">
+		<publisher>Codemasters</publisher>
+		<region>Australia</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Brian Lara Cricket">
+		<publisher>Codemasters</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Brian Lara Cricket 96">
+		<publisher>Codemasters</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Brutal: Paws of Fury">
+		<publisher>GameTek</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Brutal: Paws of Fury">
+		<publisher>GameTek</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Bubba 'N' Stix">
+		<publisher>Core Design</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bubba 'N' Stix">
+		<publisher>Core Design</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bubble and Squeak">
+		<publisher>Sunsoft</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Bubble and Squeak">
+		<publisher>Sunsoft</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Bubsy II">
+		<publisher>Accolade</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Bubsy in Claws Encounters of the Furred Kind">
+		<publisher>Accolade</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Buck Rogers: Countdown to Doomsday">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Budokan: The Martial Spirit">
+		<publisher>Electronic Arts</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Budokan: The Martial Spirit">
+		<publisher>Electronic Arts</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Bugs Bunny in Double Trouble">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Bugs Bunny in Double Trouble">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Bulls versus Blazers and the NBA Playoffs">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bulls vs Lakers and the NBA Playoffs">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Burning Force">
+		<publisher>Namco</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Burning Force">
+		<publisher>Namco</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Cadash">
+		<publisher>Taito (US), Samsung (KR)</publisher>
+		<region>USA, Asia, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Caesars Palace">
+		<publisher>Virgin Interactive</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Cal Ripken Jr. Baseball">
+		<publisher>Mindscape</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Caliber.50">
+		<publisher>Mentrix Software</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="California Games">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Cannon Fodder">
+		<publisher>Virgin Interactive</publisher>
+		<region>Europe</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Captain America and the Avengers">
+		<publisher>Data East</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Captain America and the Avengers">
+		<publisher>Data East</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Captain Planet and the Planeteers">
+		<publisher>Sega</publisher>
+		<region>Asia</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Captain Planet and the Planeteers">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Castle of Illusion Starring Mickey Mouse">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Castlevania: Bloodlines">
+		<publisher>Konami</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Castlevania: The New Generation">
+		<publisher>Konami</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Centurion: Defender of Rome">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Chakan">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Champions World Class Soccer">
+		<publisher>Flying Edge</publisher>
+		<region>World</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Championship Bowling">
+		<publisher>Mentrix Software</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Championship Pool">
+		<publisher>Mindscape</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Championship Pro-Am">
+		<publisher>Tradewest</publisher>
+		<region>USA</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Chaos Engine, The">
+		<publisher>Renegade Software, Microprose</publisher>
+		<region>Europe</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Chase H.Q. II">
+		<publisher>Taito</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Chavez II">
+		<publisher>American Softworks</publisher>
+		<region>Mexico</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Cheese Cat-Astrophe Starring Speedy Gonzales">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Chester Cheetah: Too Cool to Fool">
+		<publisher>Kaneko</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chester Cheetah: Wild Wild Quest">
+		<publisher>Kaneko</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chi Chi's Pro Challenge Golf">
+		<publisher> Virgin Interactive/Coconuts Japan</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chiki Chiki Boys">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chuck Rock">
+		<publisher>Virgin Games</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chuck Rock">
+		<publisher>Virgin Games</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chuck Rock II: Son of Chuck">
+		<publisher>Core Design, Sega</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chuck Rock II: Son of Chuck">
+		<publisher>Virgin Games</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Classic Collection">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ClayFighter">
+		<publisher>Interplay</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ClayFighter">
+		<publisher>Interplay</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Cliffhanger">
+		<publisher>Sony Imagesoft</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Cliffhanger">
+		<publisher>Sony Imagesoft</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Clue">
+		<publisher>Parker Brothers</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Coach K College Basketball">
+		<publisher>Electronic Arts</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="College Football USA 96">
+		<publisher>Electronic Arts</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="College Football USA 97">
+		<publisher>Electronic Arts</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="College Football's National Championship">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="College Football's National Championship II">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="College Slam">
+		<publisher>Acclaim</publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Columns">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>128 KB</size>
+	</game>
+	<game name="Columns III">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Combat Cars">
+		<publisher>Accolade</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Comix Zone">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Comix Zone">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Contra: Hard Corps">
+		<publisher>Konami</publisher>
+		<region>USA, Korea</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Cool Spot">
+		<publisher>Virgin Games</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Cool Spot">
+		<publisher>Virgin Games</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Corporation">
+		<publisher>Virgin Games</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Cosmic Spacehead">
+		<publisher>Codemasters</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Cosmic Spacehead">
+		<publisher>Codemasters</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Crack Down">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Crack Down">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="CrossFire">
+		<publisher>Kyugo</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Crue Ball: Heavy Metal Pinball">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Crusader of Centy">
+		<publisher>Atlus</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Crystal's Pony Tale">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="CutThroat Island">
+		<publisher>Acclaim</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Cyber-Cop">
+		<publisher>Virgin Games</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Cyberball">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Cyborg Justice">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Daffy Duck in Hollywood">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dahna">
+		<publisher>IGS, SJC (South Korea)</publisher>
+		<region>Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Daimakaimura ~ Ghouls'n Ghosts">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>64 KB</size>
+	</game>
+	<game name="Dark Castle">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Dashin' Desperadoes">
+		<publisher>Data East</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="David Crane's Amazing Tennis">
+		<publisher>Absolute Entertainment</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="David Robinson's Supreme Court">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Davis Cup Tennis ~ Davis Cup World Tour">
+		<publisher>Tengen</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Daze Before Christmas">
+		<publisher>Sunsoft</publisher>
+		<region>Australia</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Deadly Moves">
+		<publisher>Kaneko</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Death and Return of Superman, The">
+		<publisher>Acclaim</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Death and Return of Superman, The">
+		<publisher>Sunsoft</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Death Duel">
+		<publisher>RazorSoft</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="DEcapAttack">
+		<publisher>Sega</publisher>
+		<region>USA, Europe, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Demolition Man">
+		<publisher>Acclaim</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Desert Demolition Starring Road Runner and Wile E. Coyote">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Desert Strike: Return to the Gulf">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Devilish: The Next Possession">
+		<publisher>Sage's Creation</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Dick Tracy">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Dick Vitale's 'Awesome, Baby!' College Hoops">
+		<publisher>Time Warner Interactive</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dino Dini's Soccer">
+		<publisher>Virgin Interactive</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dino Land">
+		<publisher>Renovation</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Dinosaur's Tale, A">
+		<publisher>Hi-Tech Entertainment</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Disney Collection, The: QuackShot Starring Donald Duck + Castle of Illusion Starring Mickey Mouse">
+		<publisher>Sega, Disney Interactive</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="DJ Boy">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="DJ Boy">
+		<publisher>Kaneko</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Donald in Maui Mallard">
+		<publisher>Disney Interactive, Sega</publisher>
+		<region>Brazil</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Donald in Maui Mallard">
+		<publisher>Disney Interactive, Sega</publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Dong Gu Ri Te Chi Jak Jeon">
+		<publisher>Sega</publisher>
+		<region>Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Doom Troopers">
+		<publisher>Playmates Interactive Entertainment</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Double Clutch">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Double Dragon 3: The Arcade Game">
+		<publisher>Flying Edge</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Double Dragon V: The Shadow Falls">
+		<publisher>Tradewest</publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Double Dribble: The Playoff Edition">
+		<publisher>Konami</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dr. Robotnik's Mean Bean Machine">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dr. Robotnik's Mean Bean Machine">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dragon: The Bruce Lee Story">
+		<publisher>Virgin Interactive</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dragon: The Bruce Lee Story">
+		<publisher>Acclaim Entertainment</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dragon Ball Z: L'Appel du Destin">
+		<publisher>Bandai</publisher>
+		<region>France</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dragon's Fury">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Dragon's Revenge">
+		<publisher>Tengen</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Duke Nukem 3D">
+		<publisher>Sega</publisher>
+		<region>Brazil</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Dune: The Battle for Arrakis">
+		<publisher>Virgin Interactive</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dune II: Kampf um den Wuestenplaneten">
+		<publisher>Virgin Interactive</publisher>
+		<region>Germany</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dune II: The Battle for Arrakis">
+		<publisher>Virgin Interactive</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dungeons &amp; Dragons: Warriors of the Eternal Sun">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dynamite Duke">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Dynamite Headdy">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="EA Hockey">
+		<publisher>Electronic Arts</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="EA Sports Double Header">
+		<publisher>Electronic Arts</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Earnest Evans">
+		<publisher>Renovation</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Earthworm Jim">
+		<publisher>Playmates</publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Earthworm Jim">
+		<publisher>Playmates</publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Earthworm Jim 2">
+		<publisher>Virgin Interactive</publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Earthworm Jim 2">
+		<publisher>Playmates Interactive Entertainment</publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Ecco: The Tides of Time">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Ecco: The Tides of Time">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Ecco Jr.">
+		<publisher>Sega</publisher>
+		<region>USA, Australia</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ecco the Dolphin">
+		<publisher>Sega</publisher>
+		<region>USA, Europe, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="El.Viento">
+		<publisher>Renovation</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Elemental Master">
+		<publisher>Renovation</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Elitserien 95">
+		<publisher>Electronic Arts</publisher>
+		<region>Sweden</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Elitserien 96">
+		<publisher>Electronic Arts</publisher>
+		<region>Sweden</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Empire of Steel">
+		<publisher>Flying Edge</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="ESPN Baseball Tonight">
+		<publisher>Sony Imagesoft</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ESPN National Hockey Night">
+		<publisher>Sony Imagesoft</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ESPN Speed World">
+		<publisher>Sony Imagesoft</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ESPN Sunday Night NFL">
+		<publisher>Sony Imagesoft</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ESWAT: City under Siege">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Eternal Champions">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Eternal Champions">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="European Club Soccer">
+		<publisher>Virgin Games</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Evander Holyfield's 'Real Deal' Boxing">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ex-Mutants">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Exile">
+		<publisher>Renovation</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Exo Squad">
+		<publisher>Virgin Interactive</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Exo Squad">
+		<publisher>Playmates Interactive Entertainment</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="F-117 Night Storm">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="F-15 Strike Eagle II">
+		<publisher>MicroProse</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="F-15 Strike Eagle II">
+		<publisher>MicroProse</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="F-22 Interceptor: Advanced Tactical Fighter">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>768 KB</size>
+	</game>
+	<game name="F-22 Interceptor: Advanced Tactical Fighter">
+		<publisher>Electronic Arts</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="F1: World Championship Edition">
+		<publisher>Domark</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="F1">
+		<publisher>Domark</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Faery Tale Adventure, The">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Family Feud">
+		<publisher>GameTek</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fantasia">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fantastic Dizzy">
+		<publisher>Codemasters</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fatal Fury">
+		<publisher>Sega</publisher>
+		<region>Europe, Korea</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Fatal Fury">
+		<publisher>Takara</publisher>
+		<region>USA</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Fatal Fury 2">
+		<publisher></publisher>
+		<region>USA, Korea</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Fatal Labyrinth">
+		<publisher>Takara</publisher>
+		<region>USA, Europe</region>
+		<size>128 KB</size>
+	</game>
+	<game name="Fatal Rewind">
+		<publisher>Electronic Arts</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fatal Rewind">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ferias Frustradas do Pica Pau">
+		<publisher>Tectoy</publisher>
+		<region>Brazil</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ferrari Grand Prix Challenge">
+		<publisher>Flying Edge</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ferrari Grand Prix Challenge">
+		<publisher>Flying Edge</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Fever Pitch Soccer">
+		<publisher>U.S. Gold</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="FIFA 98: Road to World Cup">
+		<publisher>Electronic Arts</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="FIFA International Soccer">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="FIFA Soccer 95">
+		<publisher>Electronic Arts</publisher>
+		<region>Korea</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="FIFA Soccer 95">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="FIFA Soccer 96">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="FIFA Soccer 97">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Fighting Masters">
+		<publisher>Treco</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fire Shark">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fire Shark">
+		<publisher>DreamWorks</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Flashback: The Quest for Identity">
+		<publisher>U.S. Gold</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Flashback">
+		<publisher>U.S. Gold</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Flicky">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>128 KB</size>
+	</game>
+	<game name="Flink">
+		<publisher>Sony Electronic Publishing</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Flintstones, The">
+		<publisher>Taito</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Flintstones, The">
+		<publisher>Taito</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Foreman for Real">
+		<publisher>Acclaim</publisher>
+		<region>World</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Forgotten Worlds">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Formula One">
+		<publisher>Domark</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Frank Thomas Big Hurt Baseball">
+		<publisher>Acclaim</publisher>
+		<region>USA, Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Frogger">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fun 'n Games">
+		<publisher>Sony Electronic Publishing</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Fun 'n' Games">
+		<publisher>Tradewest</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="G-LOC: Air Battle">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gadget Twins">
+		<publisher>GameTek</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gain Ground">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Gain Ground">
+		<publisher>Renovation</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Galaxy Force II">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Garfield: Caught in the Act">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Gargoyles">
+		<publisher>Buena Vista Interactive</publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Garry Kitchen's Super Battletank: War in the Gulf">
+		<publisher>Absolute Entertainment</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Gauntlet IV">
+		<publisher>Tengen</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gemfire">
+		<publisher>Koei</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="General Chaos">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Generations Lost">
+		<publisher>Time Warner Interactive</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Genghis Khan II: Clan of the Gray Wolf">
+		<publisher>KOEI Co., Ltd.</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="George Foreman's KO Boxing">
+		<publisher>Flying Edge</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="George Foreman's KO Boxing">
+		<publisher>Flying Edge</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ghostbusters">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Global Gladiators">
+		<publisher>Virgin Games, Ltd.</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gods">
+		<publisher>Mindscape</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gods">
+		<publisher>Mindscape</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Golden Axe">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Golden Axe II">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Goofy's Hysterical History Tour">
+		<publisher>Absolute Entertainment</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="GrandSlam: The Tennis Tournament">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Great Circus Mystery Starring Mickey &amp; Minnie, The">
+		<publisher>Capcom Co., Ltd.</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Great Waldo Search, The">
+		<publisher>THQ, Inc.</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Greatest Heavyweights">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Greatest Heavyweights">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Greendog: The Beached Surfer Dude!">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Grind Stormer">
+		<publisher>Tengen Ltd.</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Growl">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Gunship">
+		<publisher>MicroProse Ltd.</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gunstar Heroes">
+		<publisher>Sega</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gunstar Heroes">
+		<publisher>Sega</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gynoug">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Hard Drivin'">
+		<publisher>Tengen Ltd.</publisher>
+		<region>World</region>
+		<size>256 KB</size>
+	</game>
+	<game name="HardBall '94">
+		<publisher>Accolade</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="HardBall '95">
+		<publisher>Accolade</publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Haunting Starring Polterguy">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Havoc">
+		<publisher>Data East Corporation</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Head-On Soccer">
+		<publisher>U.S. Gold Ltd.</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Heavy Nova">
+		<publisher>Micronet</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Hellfire">
+		<publisher>Seismic Software</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Hellfire">
+		<publisher>Seismic Software</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Herzog Zwei">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="High Seas Havoc">
+		<publisher>Data East Corporation</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Hit the Ice - VHL: The Official Video Hockey League">
+		<publisher>Taito</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Home Alone">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Home Alone 2: Lost in New York">
+		<publisher>THQ, Inc.</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Hook">
+		<publisher>Sony Computer Entertainment</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Hook">
+		<publisher>Sony Computer Entertainment</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Humans, The">
+		<publisher>Sony Computer Entertainment</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Hurricanes">
+		<publisher>U.S. Gold Ltd.</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Hyper Dunk">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="IMG International Tour Tennis">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Immortal, The">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Incredible Crash Dummies, The">
+		<publisher>LJN, Ltd.</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Incredible Hulk, The">
+		<publisher>U.S. Gold Ltd.</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Indiana Jones and the Last Crusade">
+		<publisher>U.S. Gold Ltd.</publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Indiana Jones and the Last Crusade">
+		<publisher>U.S. Gold Ltd.</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Insector X">
+		<publisher>Sage's Creation</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Instruments of Chaos Starring Young Indiana Jones">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="International Rugby">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="International Sensible Soccer">
+		<publisher>Sony Computer Entertainment</publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="International Superstar Soccer Deluxe">
+		<publisher>Konami</publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Izzy's Quest for the Olympic Rings">
+		<publisher>U.S. Gold Ltd.</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Jack Nicklaus' Power Challenge Golf">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="James 'Buster' Douglas Knockout Boxing">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="James Bond 007: The Duel">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="James Bond 007: The Duel">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="James Pond: Underwater Agent">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="James Pond 3">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="James Pond II: Codename - Robocod">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jammit">
+		<publisher>Virgin Games, Ltd.</publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Jennifer Capriati Tennis">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jeopardy!: Deluxe Edition">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jeopardy!: Sports Edition">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jeopardy!">
+		<publisher>Gametek</publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jerry Glanville's Pigskin Footbrawl">
+		<publisher>Midway Games</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Jewel Master">
+		<publisher>Sega</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jimmy White's Whirlwind Snooker">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Joe &amp; Mac">
+		<publisher>TAKARA Co., Ltd.</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Joe Montana Football">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Joe Montana II Sports Talk Football">
+		<publisher>Sega</publisher>
+		<region>World</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="John Madden Football: Championship Edition">
+		<publisher>Electronic Arts</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="John Madden Football '92">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="John Madden Football '93">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="John Madden Football">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jordan vs Bird">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jordan vs Bird">
+		<publisher>Electronic Arts</publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Journey from Darkness: Strider Returns">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Judge Dredd">
+		<publisher></publisher>
+		<region>World</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Jungle Book, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Jungle Book, The">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Jungle Strike">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Jurassic Park: Rampage Edition">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Jurassic Park">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Jurassic Park">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Justice League Task Force">
+		<publisher></publisher>
+		<region>World</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Ka-Ge-Ki: Fists of Steel">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Kawasaki Superbike Challenge">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Kick Off 3: European Challenge">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Kid Chameleon">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="King of the Monsters">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="King of the Monsters">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="King of the Monsters 2">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="King Salmon: The Big Catch">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="King's Bounty: The Conqueror's Quest">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Klax">
+		<publisher></publisher>
+		
+		<publisher>Tengen</publisher>
+		<region>USA, Europe</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Krusty's Super Fun House">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Krusty's Super Fun House">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="La Russa Baseball 95">
+		<publisher></publisher>
+		<region>USA, Australia</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Lakers versus Celtics and the NBA Playoffs">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Landstalker: Die Schatze von Konig Nolo">
+		<publisher></publisher>
+		<region>Germany</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Landstalker: Le Tresor du Roi Nole">
+		<publisher></publisher>
+		<region>France</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Landstalker: The Treasures of King Nole">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Landstalker">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Last Action Hero">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Last Battle">
+		<publisher></publisher>
+		<region>USA, Europe, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Lawnmower Man, The">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Legend of Galahad, The ~ Galahad">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Legende de Thor, La">
+		<publisher></publisher>
+		<region>France</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Lemmings">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Lemmings 2: The Tribes">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Lemmings 2: The Tribes">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Lethal Enforcers">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Lethal Enforcers">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Lethal Enforcers II: Gun Fighters">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Lethal Enforcers II: Gun Fighters">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="LHX Attack Chopper">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Liberty or Death">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Light Crusader">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Light Crusader">
+		<publisher></publisher>
+		<region>Korea</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Light Crusader">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Lightening Force: Quest for the Darkstar">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Lion King, The">
+		<publisher></publisher>
+		<region>World</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Lost Vikings, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Lost Vikings, The">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Lost World, The: Jurassic Park">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Lotus II">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Lotus Turbo Challenge">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="M-1 Abrams Battle Tank">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Madden NFL '94">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Madden NFL 95">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Madden NFL 96">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Madden NFL 97">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Madden NFL 98">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Magic School Bus, The: Space Exploration Game">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Man Overboard!">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Marble Madness">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mario Andretti Racing">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mario Lemieux Hockey">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Marko">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Marko's Magic Football">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Marsupilami">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Marsupilami">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Marvel Land">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mary Shelley's Frankenstein">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Master of Monsters">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Math Blaster: Episode 1">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mazin Saga: Mutant Fighter">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mazin Saga">
+		<publisher></publisher>
+		<region>Asia</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mazin Wars">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="McDonald's Treasure Land Adventure">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="McDonald's Treasure Land Adventure">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mega 6 Vol. 3">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Mega Bomberman">
+		<publisher></publisher>
+		<region>Europe, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mega Bomberman">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mega Games 2">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mega Games 3">
+		<publisher></publisher>
+		<region>Europe, Asia</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mega Games 6">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Mega Games 6 Vol. 2">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Mega Games I">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mega Man: The Wily Wars">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mega SWIV">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mega Turrican">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mega Turrican">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mega-lo-Mania">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mega-lo-Mania">
+		<publisher></publisher>
+		<region>France</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Menacer 6-Game Cartridge">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Michael Jackson's Moonwalker">
+		<publisher></publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mick &amp; Mack as the Global Gladiators">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mickey Mania: The Timeless Adventures of Mickey Mouse">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mickey Mania">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mickey's Ultimate Challenge">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Micro Machines">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Micro Machines">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Micro Machines 2: Turbo Tournament">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Micro Machines 2: Turbo Tournament (J-Cart)">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Micro Machines Military (J-Cart)">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Micro Machines Turbo Tournament 96 (J-Cart)">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Midnight Resistance">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Midway Presents Arcade's Greatest Hits">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mig-29 Fighter Pilot">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mig-29 Fighter Pilot">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Might and Magic: Gates to Another World">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Mighty Morphin Power Rangers: The Movie">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mighty Morphin Power Rangers: The Movie">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mighty Morphin Power Rangers">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mighty Morphin Power Rangers">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Minnesota Fats: Pool Legend">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Miracle Piano Teaching System, The">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="MLBPA Baseball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Monopoly">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mortal Kombat">
+		<publisher></publisher>
+		<region>World</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mortal Kombat 3">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Mortal Kombat 3">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Mortal Kombat II">
+		<publisher></publisher>
+		<region>World</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Mr. Nutz">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ms. Pac-Man">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>128 KB</size>
+	</game>
+	<game name="Muhammad Ali Heavyweight Boxing">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Muhammad Ali Heavyweight Boxing">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="MUSHA: Metallic Uniframe Super Hybrid Armor">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mutant League Football">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mutant League Hockey">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mystic Defender">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mystic Defender">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mystical Fighter">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="NBA Action '94">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA Action '95 Starring David Robinson">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA All-Star Challenge">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="NBA Hang Time">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="NBA Hang Time">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="NBA Jam: Tournament Edition">
+		<publisher></publisher>
+		<region>World</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="NBA Jam">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA Jam">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA Live 95">
+		<publisher></publisher>
+		<region>Korea</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA Live 95">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA Live 96">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA Live 97">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA Live 98">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA Showdown '94">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NCAA Final Four Basketball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="NCAA Football">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="New Horizons">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Newman Haas IndyCar featuring Nigel Mansell">
+		<publisher></publisher>
+		<region>World</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NFL '95">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NFL 98">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NFL Football '94 Starring Joe Montana">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NFL Quarterback Club">
+		<publisher></publisher>
+		<region>World</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="NFL Quarterback Club 96">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="NFL Sports Talk Football '93 Starring Joe Montana">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="NFL Sports Talk Football '93 Starring Joe Montana">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="NHL '94">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="NHL 95">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NHL 96">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NHL 97">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NHL 98">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NHL All-Star Hockey 95">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NHL Hockey">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="NHLPA Hockey 93">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="NHLPA Hockey 93">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Nigel Mansell's World Championship Racing">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Nigel Mansell's World Championship Racing">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Nightmare Circus">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="No Escape">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Nobunaga's Ambition">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Normy's Beach Babe-O-Rama">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Olympic Gold">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Olympic Summer Games">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="On Dal Jang Goon">
+		<publisher></publisher>
+		<region>Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ooze, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Operation Europe: Path to Victory 1939-45">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ottifants, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Out of this World">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Outlander">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="OutRun">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="OutRun 2019">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="OutRun 2019">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="OutRunners">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="P.T.O.: Pacific Theater of Operations">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pac-Attack">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pac-Man 2: The New Adventures">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pac-Mania">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Pac-Panic">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pagemaster, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pagemaster, The">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Paperboy">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Paperboy 2">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pat Riley Basketball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Pebble Beach Golf Links">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pebble Beach Golf Links">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pele II: World Tournament Soccer">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pele!">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pete Sampras Tennis">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="PGA European Tour">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="PGA Tour 96">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="PGA Tour Golf">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="PGA Tour Golf II">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="PGA Tour Golf II">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="PGA Tour Golf III">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Phantasy Star II">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Phantasy Star II">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Phantasy Star II">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Phantasy Star III: Generations of Doom">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Phantasy Star III: Generations of Doom">
+		<publisher></publisher>
+		<region>USA, Europe, Korea</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Phantasy Star IV">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Phantasy Star IV">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Phantom 2040">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Phantom 2040">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Phelios">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Phelios">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Pink Goes to Hollywood">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pinocchio">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Pinocchio">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Pirates of Dark Water, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pirates of Dark Water, The">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pirates! Gold">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pit-Fighter">
+		<publisher></publisher>
+		<region>World</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pitfall: The Mayan Adventure">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pitfall: The Mayan Adventure">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pocahontas">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Pocahontas">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Populous">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Power Drive">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Power Monger">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Powerball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Predator 2">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Premier Manager">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Premier Manager 97">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Primal Rage">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Prime Time NFL Starring Deion Sanders">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Prince of Persia">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Prince of Persia">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pro Moves Soccer">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Pro Quarterback">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Probotector">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Psycho Pinball">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Puggsy">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Puggsy">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Punisher, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Punisher, The">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="QuackShot Starring Donald Duck ~ QuackShot - I Love Donald Duck: Guruzia Ou no Hihou">
+		<publisher></publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Quad Challenge">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="R.B.I. Baseball '93">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="R.B.I. Baseball '94">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="R.B.I. Baseball 3">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="R.B.I. Baseball 4">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Race Drivin'">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Radical Rex">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Radical Rex">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ragnacenty">
+		<publisher></publisher>
+		<region>Korea</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Rambo III">
+		<publisher></publisher>
+		<region>World</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Rampart">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ranger X">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ranger X">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rastan Saga II">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Red Zone">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Ren &amp; Stimpy Show Presents, The: Stimpy's Invention">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ren &amp; Stimpy Show Presents, The: Stimpy's Invention">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Revenge of Shinobi, The">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Revenge of Shinobi, The">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Revolution X">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Richard Scarry's Busytown">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Rings of Power">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rise of the Robots">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Risk">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Risky Woods">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ristar">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Road Rash">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Road Rash 3">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Road Rash II">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="RoadBlasters">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="RoboCop 3">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="RoboCop versus The Terminator">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="RoboCop versus The Terminator">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Rock 'n' Roll Racing">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rock n' Roll Racing">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rocket Knight Adventures">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rocket Knight Adventures">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Roger Clemens' MVP Baseball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rolling Thunder 2">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rolling Thunder 2">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rolling Thunder 3">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Rolo to the Rescue">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Romance of the Three Kingdoms II">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Romance of the Three Kingdoms III: Dragon of Destiny">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1310720</size>
+	</game>
+	<game name="Rugby World Cup 95">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sagaia">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Saint Sword">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Sampras Tennis 96 (J-Cart)">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Samurai Shodown">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Samurai Shodown">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="San Guo Zhi Lie Zhuan: Luan Shi Qun Ying">
+		<publisher></publisher>
+		<region>Hong Kong</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Saturday Night Slammasters">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Saturday Night Slammasters">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Scooby-Doo Mystery">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="seaQuest DSV">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="seaQuest DSV">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Second Samurai">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sega Sports 1">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Sega Top Five">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Senjou no Ookami II ~ Mercs">
+		<publisher></publisher>
+		<region>World</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sensible Soccer">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Sesame Street Counting Cafe">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shadow Blasters">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Shadow Dancer: The Secret of Shinobi">
+		<publisher></publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Shadow of the Beast">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shadow of the Beast II">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shadowrun">
+		<publisher></publisher>
+		<region>Asia</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Shadowrun">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Shane Warne Cricket">
+		<publisher></publisher>
+		<region>Australia</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shanghai II: Dragon's Eye">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shaq-Fu">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Shining Force">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Shining Force">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Shining Force II">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Shining Force II">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Shining in the Darkness">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shining in the Darkness">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shinobi III: Return of the Ninja Master">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shinobi III: Return of the Ninja Master">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shove It! ...The Warehouse Game">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>128 KB</size>
+	</game>
+	<game name="Show do Milhao">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Show do Milhao Volume 2">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Side Pocket">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Side Pocket">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Simpsons, The: Bart vs. the Space Mutants">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Simpsons, The: Bart vs. the Space Mutants">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Simpsons, The: Bart's Nightmare">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Skeleton Krew">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Skeleton Krew">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Skitchin'">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Slaughter Sport">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>64 KB</size>
+	</game>
+	<game name="Smurfs Travel the World, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Smurfs, The">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Smurfs, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Snake Rattle n Roll">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Socket">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sol-Deace">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Soldiers of Fortune">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Soleil">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Soleil">
+		<publisher></publisher>
+		<region>France</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Soleil">
+		<publisher></publisher>
+		<region>Germany</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Soleil">
+		<publisher></publisher>
+		<region>Spain</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sonic &amp; Knuckles">
+		<publisher></publisher>
+		<region>World</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog 2">
+		<publisher></publisher>
+		<region>World</region>
+		<size>3328 KB</size>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog 3">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog 3">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Sonic 3">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sonic 3D Blast ~ Sonic 3D Flickies' Island">
+		<publisher></publisher>
+		<region>USA, Europe, Korea</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Sonic Compilation">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Sonic Compilation ~ Sonic Classics">
+		<publisher></publisher>
+		<region>USA, Europe, Korea</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Sonic Spinball">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sonic Spinball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sonic The Hedgehog">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Sonic The Hedgehog 2">
+		<publisher></publisher>
+		<region>World</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sonic The Hedgehog 3">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sorcerer's Kingdom">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Space Harrier II">
+		<publisher></publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Space Invaders '91">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Sparkster">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sparkster">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Speedball 2: Brutal Deluxe">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Speedball 2">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Spider-Man . Venom: Maximum Carnage">
+		<publisher></publisher>
+		<region>World</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Spider-Man">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Spider-Man">
+		<publisher></publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Spider-Man X-Men: Arcade's Revenge">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Spider-Man X-Men: Arcade's Revenge">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Spirou">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Splatterhouse 2">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Splatterhouse 2">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Splatterhouse 3">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sport Games">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Sports Talk Baseball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Spot Goes to Hollywood">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Spot Goes to Hollywood">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Star Trek: Deep Space Nine - Crossroads of Time">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Star Trek: Deep Space Nine - Crossroads of Time">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Star Trek: The Next Generation - Echoes from the Past">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Starflight">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Starflight">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Stargate">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Steel Empire">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Steel Talons">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Stormlord">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Story of Thor, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Story of Thor, The">
+		<publisher></publisher>
+		<region>Germany</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Story of Thor, The">
+		<publisher></publisher>
+		<region>Korea</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Story of Thor, The">
+		<publisher></publisher>
+		<region>Spain</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Street Fighter II': Special Champion Edition">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Street Fighter II': Special Champion Edition">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Street Racer">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Streets of Rage 2">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Streets of Rage 3">
+		<publisher></publisher>
+		<region>Asia, Korea</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Streets of Rage 3">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Streets of Rage 3">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Strider">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Strider II">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Striker">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sub-Terrania">
+		<publisher></publisher>
+		<region>Asia</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sub-Terrania">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sub-Terrania">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sunset Riders">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Sunset Riders">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Baseball 2020">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Super Battleship: The Classic Naval Combat Game">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Fantasy Zone">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Super Hang-On">
+		<publisher></publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super High Impact">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Super Hydlide">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Hydlide">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Kick Off">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super League">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Monaco GP">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Real Basketball">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Skidmarks (J-Cart)">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Super Smash T.V.">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Street Fighter II">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Street Fighter II">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Thunder Blade">
+		<publisher></publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Volleyball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Superman: The Man of Steel">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Superman">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sword of Sodan">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Sword of Vermilion">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>64 KB</size>
+	</game>
+	<game name="Syd of Valis">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Sylvester and Tweety in Cagey Capers ~ Sylvester &amp; Tweety in Cagey Capers">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Syndicate">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="T2 - Terminator 2: Judgment Day">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="T2: The Arcade Game">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="TaleSpin">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Talmit's Adventure">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Target Earth">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Task Force Harrier EX">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tatsujin ~ Truxton">
+		<publisher></publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Taz in Escape from Mars">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Taz in Escape from Mars">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Taz-Mania">
+		<publisher></publisher>
+		<region>World</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Team USA Basketball">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="TechnoClash">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Technocop">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Tecmo Super Baseball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tecmo Super Bowl">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tecmo Super Bowl II: Special Edition">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Tecmo Super Bowl III: Final Edition">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Tecmo Super Hockey">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tecmo Super NBA Basketball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tecmo World Cup">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Teenage Mutant Hero Turtles: The Hyperstone Heist">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Teenage Mutant Hero Turtles: Tournament Fighters">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles: The Hyperstone Heist">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles: Tournament Fighters">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Terminator, The">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Terminator, The">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Theme Park">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Thomas the Tank Engine &amp; Friends">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Thunder Force II">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Thunder Force IV">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Thunder Fox">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tick, The">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Time Killers">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Time Killers">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Tinhead">
+		<publisher></publisher>
+		
+		<publisher>Ballistic</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tinhead">
+		<publisher></publisher>
+		
+		<publisher>Spectrum Holobyte</publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tintin in Tibet">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Tiny Toon Adventures: Acme All-Stars">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tiny Toon Adventures: Acme All-Stars">
+		<publisher></publisher>
+		<region>USA, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tiny Toon Adventures: Buster's Hidden Treasure">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Tiny Toon Adventures: Buster's Hidden Treasure">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Tiny Toon Adventures">
+		<publisher></publisher>
+		<region>Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="TNN Bass Tournament of Champions">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="TNN Outdoors Bass Tournament '96">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Todd's Adventures in Slime World">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="ToeJam &amp; Earl">
+		<publisher></publisher>
+		<region>USA, Europe, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="ToeJam &amp; Earl in Panic auf Funkotron">
+		<publisher></publisher>
+		<region>Germany</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ToeJam &amp; Earl in Panic on Funkotron">
+		<publisher></publisher>
+		<region>Asia</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ToeJam &amp; Earl in Panic on Funkotron">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="ToeJam &amp; Earl in Panic on Funkotron">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Toki: Going Ape Spit">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Tom and Jerry: Frantic Antics!">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tom Mason's Dinosaurs for Hire">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tommy Lasorda Baseball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Tony La Russa Baseball">
+		<publisher></publisher>
+		<region>USA, Australia</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Top Gear 2">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Total Football">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Toughman Contest">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Toxic Crusaders">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Toy Story">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Toy Story">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Toys: Let the Toy Wars begin!">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Trampoline Terror!">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Traysia">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Triple Play: Gold Edition">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Triple Play 96 [b]">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Trouble Shooter">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Troy Aikman NFL Football">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="True Lies">
+		<publisher></publisher>
+		<region>World</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Turma da Monica na Terra dos Monstros">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Twin Cobra: Desert Attack Helicopter">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>64 KB</size>
+	</game>
+	<game name="Two Crude Dudes">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Two Crude Dudes">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Two Tribes: Populous II">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tyrants: Fight through Time">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ultimate Mortal Kombat 3">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Ultimate Mortal Kombat 3">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Ultimate QIX">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Ultimate Soccer">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Uncharted Waters">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Unnecessary Roughness '95">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Urban Strike">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Uzu Keobukseon">
+		<publisher></publisher>
+		<region>Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Valis">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Valis III">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Vapor Trail">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Vectorman">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Vectorman 2">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Venom . Spider-Man: Separation Anxiety">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Viewpoint">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Virtua Fighter 2">
+		<publisher></publisher>
+		<region>Korea</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Virtua Fighter 2">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Virtua Racing">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Virtua Racing">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Virtual Bart">
+		<publisher></publisher>
+		<region>World</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Virtual Pinball">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="VR Troopers">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Wacky Worlds Creativity Studio">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Wardner">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Warlock">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Warrior of Rome">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Warrior of Rome II">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Warsong">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Wayne Gretzky and the NHLPA All-Stars">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Wayne's World">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="WeaponLord">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Wheel of Fortune">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Where in the World Is Carmen Sandiego">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Where in the World Is Carmen Sandiego">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Where in Time Is Carmen Sandiego">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Where in Time Is Carmen Sandiego">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Whip Rush">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Williams Arcade's Greatest Hits">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Wimbledon">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Wimbledon Championship Tennis">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Wings of Wor">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Winter Challenge">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Winter Olympic Games">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Winter Olympics">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Wiz 'n' Liz: The Frantic Wabbit Wescue">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Wiz 'N' Liz">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Wolfchild">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Wolverine: Adamantium Rage">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Wonder Boy in Monster World">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>768 KB</size>
+	</game>
+	<game name="World Championship Soccer II">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="World Championship Soccer II">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="World Class Leader Board">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="World Class Leaderboard Golf">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="World Cup Italia '90">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>256 KB</size>
+	</game>
+	<game name="World Cup USA 94">
+		<publisher></publisher>
+		<region>USA, Europe, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="World Heroes">
+		<publisher></publisher>
+		<region>Asia</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="World Heroes">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="World of Illusion Starring Mickey Mouse and Donald Duck">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="World of Illusion Starring Mickey Mouse and Donald Duck">
+		<publisher></publisher>
+		<region>USA, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="World Series Baseball '95">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="World Series Baseball '96">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="World Series Baseball">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="World Series Baseball 98">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="World Trophy Soccer">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Worms">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="WWF Raw">
+		<publisher></publisher>
+		<region>World</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="WWF Royal Rumble">
+		<publisher></publisher>
+		<region>World</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="WWF Super WrestleMania">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="WWF WrestleMania: The Arcade Game">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="X-Men">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="X-Men">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="X-Men 2: Clone Wars">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="X-Perts">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Xenon 2: Megablast">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Yogi Bear: Cartoon Capers">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ys III">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="YuYu Hakusho: Sunset Fighters">
+		<publisher></publisher>
+		<region>Brazil</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Zany Golf">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Zero the Kamikaze Squirrel">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Zero the Kamikaze Squirrel">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Zero Tolerance">
+		<publisher></publisher>
+		<region>USA, Europe</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Zero Wing">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Zombies">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Zombies Ate My Neighbors">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Zool: Ninja of the 'Nth' Dimension">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Zool: Ninja of the 'Nth' Dimension">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Zoom!">
+		<publisher></publisher>
+		<region>World</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Zoop">
+		<publisher></publisher>
+		<region>Europe</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Zoop">
+		<publisher></publisher>
+		<region>USA</region>
+		<size>512 KB</size>
+	</game>
+</database>

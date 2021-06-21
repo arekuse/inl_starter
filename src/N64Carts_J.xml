@@ -1,0 +1,983 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database version="1.0" conformance="strict" agent="N64CartDB" author="arekuse">
+	<game name="1080 TenEighty Snowboarding">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="64 de Hakken!! Tamagotchi: Minna de Tamagotchi World">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="64 Hanafuda: Tenshi no Yakusoku">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="64 Oozumou">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="64 Oozumou 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="64 Trump Collection: Alice no Wakuwaku Trump World">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="AeroGauge">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="AI Shougi 3">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Air Boarder 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Akumajou Dracula Mokushiroku: Real Action Adventure">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Akumajou Dracula Mokushiroku Gaiden: Legend of Cornell">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Baku Bomber Man">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Baku Bomber Man 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Bakuretsu Muteki Bangaioh">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bakushou Jinsei 64: Mezase! Resort Ou">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Banjo to Kazooie no Daibouken">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Banjo to Kazooie no Daibouken 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Bass Rush: ECOGEAR PowerWorm Championship">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Beetle Adventure Racing!">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Biohazard 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Blastdozer">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Bokujou Monogatari 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Bomberman 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bomberman Hero: Mirian Oujo o Sukue!">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Buck Bumble">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Chameleon Twist">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Chameleon Twist 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Choro Q 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Choro Q 64 2: Hacha Mecha Grand Prix Race">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Chou Kuukan Nighter Pro Yakyuu King">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Chou Kuukan Nighter Pro Yakyuu King 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Chou Snobo Kids">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="City-Tour GP: Zen-Nihon GT Senshuken">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Custom Robo">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Custom Robo V2">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Dance Dance Revolution: Disney Dancing Museum">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Densha de Go! 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Derby Stallion 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Dezaemon 3D">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Diddy Kong Racing">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Donkey Kong 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Doom 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Doraemon: Nobita to 3tsu no Seireiseki">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Doraemon 2: Nobita to Hikari no Shinden">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Doraemon 3: Nobita no Machi SOS!">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Doubutsu no Mori">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Dual Heroes">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Eikou no Saint Andrews">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Eltale Monsters">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Excitebike 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Extreme-G">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Extreme-G XG2">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="F-1 World Grand Prix">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="F-Zero X">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Famista 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="FIFA: Road to World Cup 98: World Cup e no Michi">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Fighting Cup">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Fushigi no Dungeon: Fuurai no Shiren 2 - Oni Shuurai! Shiren Jou!">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="G.A.S.P!! Fighters' NEXTream">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Ganbare Goemon: Dero Dero Douchuu Obake Tenkomori">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Ganbare Goemon: Neo Momoyama Bakufu no Odori">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Ganbare! Nippon! Olympics 2000">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Gauntlet Legends">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Getter Love!!: Cho Renai Party Game Tanjou">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Goemon: Mononoke Sugoroku">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="GoldenEye 007">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Hamster Monogatari 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Harukanaru Augusta: Masters '98">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Heiwa Pachinko World 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Hexen">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Hiryuu no Ken Twin">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Hoshi no Kirby 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Human Grand Prix: The New Generation">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Hybrid Heaven">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Hyper Olympics in Nagano 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Ide Yosuke no Mahjong Juku">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Iggy-kun no Bura Bura Poyon">
+		<region>Japan</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Itoi Shigesato no Bass Tsuri No. 1 Kettei Ban!">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="J.League Dynamite Soccer 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="J.League Eleven Beat 1997">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="J.League Live 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="J.League Tactics Soccer">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Jangou Simulation Mahjong Dou 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Jikkyou G1 Stable">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Jikkyou J.League 1999: Perfect Striker 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Jikkyou J.League Perfect Striker">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu: Basic Ban 2001">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu 2000">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu 4">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu 5">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Jikkyou Powerful Pro Yakyuu 6">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Jikkyou World Soccer: World Cup France '98">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Jikkyou World Soccer 3">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Jikuu Senshi Turok">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Jinsei Game 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="John Romero's Daikatana">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Kakutou Denshou: F-Cup Maniax">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="King Hill 64: Extreme Snowboarding">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Kiratto Kaiketsu! 64 Tanteidan">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Knife Edge: Nose Gunner">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Last Legion UX">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Let's Smash">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Lode Runner 3-D">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Magical Tetris Challenge featuring Mickey">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mahjong 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Mahjong Hourouki Classic">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mahjong Master">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Mario Golf 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Kart 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mario no Photopie">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mario Party">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Party 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Party 3">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Story">
+		<region>Japan</region>
+		<publisher/>
+		<size>41943040</size>
+	</game>
+	<game name="Mario Tennis 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mickey no Racing Challenge USA">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Morita Shougi 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="MRC: Multi-Racing Championship">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA in the Zone '98">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA in the Zone 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Neon Genesis Evangelion">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Nintama Rantarou 64 Game Gallery">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Nintendo All-Star! Dairantou Smash Brothers">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Nushi Zuri 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Nushi Zuri 64: Shiokaze ni Notte">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Ogre Battle 64: Person of Lordly Caliber">
+		<region>Japan</region>
+		<publisher/>
+		<size>41943040</size>
+	</game>
+	<game name="Olympic Hockey 98">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Onegai Monsters">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pachinko 365 Nichi">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Parlor! Pro 64: Pachinko Jikki Simulation Game">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="PD Ultraman Battle Collection 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Perfect Dark">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pikachuu Genki de Chuu">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pilotwings 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Pokemon Snap">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pokemon Stadium">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pokemon Stadium 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Stadium Kin Gin">
+		<region>Japan</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Power League 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Pro Mahjong Kiwame 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Pro Mahjong Tsuwamono 64: Jansou Battle ni Chousen">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Puyo Puyo Sun 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Puyo Puyoon Party">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Puzzle Bobble 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Rakugakids">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Rally '99">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Robot Poncots 64: 7tsu no Umi no Caramel">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Rockman Dash: Hagane no Boukenshin">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Saikyou Habu Shougi">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="SD Hiryuu no Ken Densetsu">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Shadowgate 64: Trials of the Four Towers">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Shin Nihon Pro Wrestling Toukon Road: Brave Spirits">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Shin Nihon Pro Wrestling Toukon Road 2: The Next Generation">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="SimCity 2000">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Snobo Kids">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Snow Speeder">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Sonic Wings Assault">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Space Dynamites">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Star Fox 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Star Soldier: Vanishing Earth">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Star Twins">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Star Wars: Shutsugeki! Rogue Chuutai">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Star Wars: Teikoku no Kage">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Star Wars Episode I: Racer">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Super B-Daman: Battle Phoenix 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Super Bowling">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Super Mario 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Super Robot Spirits">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Super Robot Taisen 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Super Speed Race 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Susume! Taisen Puzzle Dama: Toukon! Marutama Chou">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Tetris 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Top Gear Hyper Bike">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Top Gear Overdrive">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Top Gear Rally">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Top Gear Rally 2">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Transformers: Beast Wars Metals 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Tsumi to Batsu: Hoshi no Keishousha">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Utchan Nanchan no Hono no Challenger: Denryuu Ira Ira Bou">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="V-Rally Edition 99">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Violence Killer: Turok New Generation">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Virtual Pro Wrestling 2: Oudou Keishou">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Virtual Pro Wrestling 64">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Wave Race 64: Kawasaki Jet Ski">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wayne Gretzky's 3D Hockey">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wetrix">
+		<region>Japan</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Wild Choppers">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="WinBack">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Wonder Project J2: Koruro no Mori no Jozet">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="WWF WrestleMania 2000">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Yakouchuu II: Satsujin Kouro">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Yoshi Story">
+		<region>Japan</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Yuke Yuke!! Trouble Makers">
+		<region>Japan</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Zelda no Densetsu: Mujura no Kamen">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Zelda no Densetsu: Toki no Ocarina">
+		<region>Japan</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Zool: Majuu Tsukai Densetsu">
+		<region>Japan</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+</database>

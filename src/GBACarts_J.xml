@@ -1,0 +1,5827 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database version="1.0" conformance="strict" agent="GBACartDB" author="arekuse">
+	<game name="007: Everything or Nothing">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1488</id>
+	</game>
+	<game name="Acrobat Kid">
+		<region>Japan</region>
+		<publisher>Metro3D</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>820</id>
+	</game>
+	<game name="Advance GT2">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>411</id>
+	</game>
+	<game name="Advance GTA">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>English</language>
+		<id>8</id>
+	</game>
+	<game name="Advance Guardian Heroes">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1662</id>
+	</game>
+	<game name="Advance Rally">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>English</language>
+		<id>231</id>
+	</game>
+	<game name="Adventure of Tokyo Disney Sea">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>195</id>
+	</game>
+	<game name="Airforce Delta II">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English-French-German-Japanese</language>
+		<id>646</id>
+	</game>
+	<game name="Aka-chan Doubutsuen">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1732</id>
+	</game>
+	<game name="Akumajou Dracula: Circle of the Moon">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>7</id>
+	</game>
+	<game name="Aladdin">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1115</id>
+	</game>
+	<game name="Aleck Bordon Adventure: Tower &amp; Shaft Advance">
+		<region>Japan</region>
+		<publisher>Aruze Corp.</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2058</id>
+	</game>
+	<game name="Angel Collection 2: Pichimo ni Narou">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1663</id>
+	</game>
+	<game name="Angel Collection: Mezase! Gakuen no Fashion Leader">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1051</id>
+	</game>
+	<game name="Angelique">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>355</id>
+	</game>
+	<game name="Animal Mania: Dokidoki Aishou Check">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>428</id>
+	</game>
+	<game name="Ao-Zoura to Nakamatachi: Yume no Bouken">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>946</id>
+	</game>
+	<game name="Ashita no Joe: Makka ni Moeagare!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1342</id>
+	</game>
+	<game name="Astro Boy: Tetsuwan Atom - Atom Heart no Himitsu">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1332</id>
+	</game>
+	<game name="Azumanga Daiou Advance">
+		<region>Japan</region>
+		<publisher>King Records</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>986</id>
+	</game>
+	<game name="B-Legends! Battle B-Daman: Moero! B-Damashii!!">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1606</id>
+	</game>
+	<game name="BB Booru">
+		<region>Japan</region>
+		<publisher>Micott &amp; Basara Inc.</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1551</id>
+	</game>
+	<game name="Bakunetsu Dodge Ball Fighters">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>32mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>10</id>
+	</game>
+	<game name="Bakuten Shoot Beyblade 2002: Gekisen! Team Battle!! Kouryuu no Shou - Daichi Hen">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>838</id>
+	</game>
+	<game name="Bakuten Shoot Beyblade 2002: Gekisen! Team Battle!! Seiryuu no Shou - Takao Hen">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>839</id>
+	</game>
+	<game name="Bakuten Shoot Beyblade 2002: Ikuze! Bakutou! Chou Jiryoku Battle!!">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>495</id>
+	</game>
+	<game name="Bakuten Shoot Beyblade: Gekitou! Saikyou Blader">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>254</id>
+	</game>
+	<game name="Bass Tsuri Shiyouze!: Tournament ha Senryaku da!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>973</id>
+	</game>
+	<game name="Battle Network Rockman EXE 2">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>243</id>
+	</game>
+	<game name="Battle Network Rockman EXE 3 Black">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>865</id>
+	</game>
+	<game name="Battle Network Rockman EXE 3">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>787</id>
+	</game>
+	<game name="Battle Network Rockman EXE">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>3</id>
+	</game>
+	<game name="Battle X Battle: Kyodai Gyo Densetsu">
+		<region>Japan</region>
+		<publisher>Starfish</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1192</id>
+	</game>
+	<game name="Beast Shooter: Mezase Beast King!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>699</id>
+	</game>
+	<game name="Best Play Pro Yakyuu">
+		<region>Japan</region>
+		<publisher>Enterbrain</publisher>
+		<size>32mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>701</id>
+	</game>
+	<game name="Black Black: Bura Bura">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>328</id>
+	</game>
+	<game name="Black Matrix Zero">
+		<region>Japan</region>
+		<publisher>NEC</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>564</id>
+	</game>
+	<game name="Boboboubo Boubobo: 9 Kyoku Senshi Gag Yuugou">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1440</id>
+	</game>
+	<game name="Boboboubo Boubobo: Bakutou Hajike Taisen">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1643</id>
+	</game>
+	<game name="Boboboubo Boubobo: Maji de!! Shinken Battle">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1137</id>
+	</game>
+	<game name="Boboboubo Boubobo: Ougi 87.5 Bakuretsu Hanage Shinken">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>835</id>
+	</game>
+	<game name="Boku ha Koukuu Kanseikan">
+		<region>Japan</region>
+		<publisher>TAM</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>21</id>
+	</game>
+	<game name="Bokujou Monogatari: Mineral Town no Nakamatachi for Girl">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1324</id>
+	</game>
+	<game name="Bokujou Monogatari: Mineral Town no Nakamatachi">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>956</id>
+	</game>
+	<game name="Bokura no Taiyou: Taiyou Action RPG">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1102</id>
+	</game>
+	<game name="Bomberman Jetters: Densetsu no Bomberman">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>688</id>
+	</game>
+	<game name="Bomberman Jetters: Game Collection">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1206</id>
+	</game>
+	<game name="Bomberman Max 2: Bomberman Version">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>318</id>
+	</game>
+	<game name="Bomberman Max 2: Max Version">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>333</id>
+	</game>
+	<game name="Bomberman Story">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>32mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>27</id>
+	</game>
+	<game name="Bouken Yuuki PlaStar World Densetsu no Plust Gate EX">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>2027</id>
+	</game>
+	<game name="Bouken Yuuki Pluster World: Densetsu no Plust Gate">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1035</id>
+	</game>
+	<game name="Bouken Yuuki Pluster World: Pluston GP">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>988</id>
+	</game>
+	<game name="Bouken-Ou Beet: Busters Road">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1870</id>
+	</game>
+	<game name="Boukyaku no Senritsu: The Melody of Oblivion">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1838</id>
+	</game>
+	<game name="Boulder Dash EX">
+		<region>Japan</region>
+		<publisher>Kemco</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>859</id>
+	</game>
+	<game name="Breath of Fire II: Shimei no Ko">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>257</id>
+	</game>
+	<game name="Breath of Fire: Ryuu no Senshi">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>60</id>
+	</game>
+	<game name="Bubble Bobble: Old &amp; New">
+		<region>Japan</region>
+		<publisher>Mediakite</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>505</id>
+	</game>
+	<game name="Bura Bura Donkey">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>2008</id>
+	</game>
+	<game name="Captain Tsubasa: Eikou no Kiseki">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>309</id>
+	</game>
+	<game name="Card Party">
+		<region>Japan</region>
+		<publisher>Mediakite</publisher>
+		<size>64mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>766</id>
+	</game>
+	<game name="Card e-Reader">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Flash_v124</type>
+		<language>English</language>
+		<id>400</id>
+	</game>
+	<game name="Card e-Reader+">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Flash1M_v103</type>
+		<language>Japanese</language>
+		<id>1123</id>
+	</game>
+	<game name="Cardcaptor Sakura: Card Friends">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1461</id>
+	</game>
+	<game name="Cardcaptor Sakura: Sakura Card de Mini Game">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1322</id>
+	</game>
+	<game name="Castlevania: Akatsuki no Minuet">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>996</id>
+	</game>
+	<game name="Castlevania: Byakuya no Concerto">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>460</id>
+	</game>
+	<game name="Chinmoku no Iseki: Estpolis Gaiden">
+		<region>Japan</region>
+		<publisher>Taito</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>344</id>
+	</game>
+	<game name="Chobits: Atashi Dake no Hito">
+		<region>Japan</region>
+		<publisher>MMV</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>623</id>
+	</game>
+	<game name="Chocobo Land: A Game of Dice">
+		<region>Japan</region>
+		<publisher>Squaresoft</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>824</id>
+	</game>
+	<game name="Choro Q Advance 2">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>32mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>781</id>
+	</game>
+	<game name="Choro Q Advance">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>55</id>
+	</game>
+	<game name="Chou Makaimura R">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>503</id>
+	</game>
+	<game name="Chu Chu Rocket!">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>32mb</size>
+		<type>Flash_v121</type>
+		<language>English-French-German-Japanese-Spanish</language>
+		<id>6</id>
+	</game>
+	<game name="Cinnamon: Yume no Daibouken">
+		<region>Japan</region>
+		<publisher>Imagineer</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1814</id>
+	</game>
+	<game name="Cinnamoroll Kokoniiruyo">
+		<region>Japan</region>
+		<publisher>Imagineer</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1317</id>
+	</game>
+	<game name="Columns Crown">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>246</id>
+	</game>
+	<game name="Combat Choro Q: Advance Daisakusen">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>544</id>
+	</game>
+	<game name="Contra Hard Spirits">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>English</language>
+		<id>735</id>
+	</game>
+	<game name="Crash Bandicoot Advance 2: Gurugurusaimin Dai Panic!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1334</id>
+	</game>
+	<game name="Crash Bandicoot Advance">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>545</id>
+	</game>
+	<game name="Crash Bandicoot Advance: Wakuwaku Tomodachi Daisakusen!">
+		<region>Japan</region>
+		<publisher>Vivendi</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1837</id>
+	</game>
+	<game name="Crash Bandicoot: Bakusou! Nitro Cart">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1632</id>
+	</game>
+	<game name="Crayon Shin-chan: Arashi wo Yobu Cinema Land no Daibouken!">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1479</id>
+	</game>
+	<game name="Croket! 2: Yami no Bank to Banqueen">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1097</id>
+	</game>
+	<game name="Croket! 3: Guranyuu Oukoku no Nazo">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1326</id>
+	</game>
+	<game name="Croket! 4: Bank no Mori no Mamorigami">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1588</id>
+	</game>
+	<game name="Croket!: Yume no Banker Survival!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>742</id>
+	</game>
+	<game name="Custom Robo GX">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>509</id>
+	</game>
+	<game name="Cyberdrive Zoids: Kijuu no Senshi Hyuu">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>1127</id>
+	</game>
+	<game name="Dai-Mahjong">
+		<region>Japan</region>
+		<publisher>Hori Electric</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>375</id>
+	</game>
+	<game name="Daisenryaku">
+		<region>Japan</region>
+		<publisher>Mediakite</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>219</id>
+	</game>
+	<game name="Daisuki Teddy">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>625</id>
+	</game>
+	<game name="Dan Doh!! Xi">
+		<region>Japan</region>
+		<publisher>NetVillage</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>732</id>
+	</game>
+	<game name="Dan Doh!!: Tobase Shouri no Smile Shot!!">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1664</id>
+	</game>
+	<game name="Dancing Sword: Senkou">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>952</id>
+	</game>
+	<game name="Darius R">
+		<region>Japan</region>
+		<publisher>Pacific Century</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>803</id>
+	</game>
+	<game name="Denki Blocks!">
+		<region>Japan</region>
+		<publisher>Global A</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>666</id>
+	</game>
+	<game name="Densetsu no Stafy 2">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1143</id>
+	</game>
+	<game name="Densetsu no Stafy 3">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1609</id>
+	</game>
+	<game name="Densetsu no Stafy">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>579</id>
+	</game>
+	<game name="Derby Stallion Advance">
+		<region>Japan</region>
+		<publisher>Enterbrain</publisher>
+		<size>32mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>795</id>
+	</game>
+	<game name="Di Gi Charat: DigiCommunication">
+		<region>Japan</region>
+		<publisher>Broccoli</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>704</id>
+	</game>
+	<game name="Diadroids World: Evil Teikoku no Yabou">
+		<region>Japan</region>
+		<publisher>Epoch</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>373</id>
+	</game>
+	<game name="Digi Communication 2: Datou! Black Gemagema Dan">
+		<region>Japan</region>
+		<publisher>Broccoli</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1573</id>
+	</game>
+	<game name="Digimon Racing">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1441</id>
+	</game>
+	<game name="Disney Sports: American Football">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>580</id>
+	</game>
+	<game name="Disney Sports: Basketball">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>966</id>
+	</game>
+	<game name="Disney Sports: Motocross">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1058</id>
+	</game>
+	<game name="Disney Sports: Skateboarding">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>581</id>
+	</game>
+	<game name="Disney Sports: Snowboarding">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1059</id>
+	</game>
+	<game name="Disney Sports: Soccer">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>502</id>
+	</game>
+	<game name="Disney&quot;s Kim Possible">
+		<region>Japan</region>
+		<publisher>D3</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2061</id>
+	</game>
+	<game name="Disney&quot;s Lilo &amp; Stitch">
+		<region>Japan</region>
+		<publisher>D3</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2062</id>
+	</game>
+	<game name="Dokapon Q: Monster Hunter!">
+		<region>Japan</region>
+		<publisher>Asmik</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>80</id>
+	</game>
+	<game name="Dokidoki Cooking Series 1: Komugi-chan no Happy Cake">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>840</id>
+	</game>
+	<game name="Dokidoki Cooking Series 2: Gourmet Kitchen - Suteki na Obentou">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1003</id>
+	</game>
+	<game name="Dokodemo Taikyoku: Yakuman Advance">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>156</id>
+	</game>
+	<game name="Domo-kun no Fushigi Terebi">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>331</id>
+	</game>
+	<game name="Donald Duck Advance">
+		<region>Japan</region>
+		<publisher>Ubi Soft</publisher>
+		<size>64mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>343</id>
+	</game>
+	<game name="Donchan Puzzle Hanabi de Dohn Advance">
+		<region>Japan</region>
+		<publisher>Aruze Corp.</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1600</id>
+	</game>
+	<game name="Doraemon: Dokodemo Walker">
+		<region>Japan</region>
+		<publisher>Epoch</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>427</id>
+	</game>
+	<game name="Doraemon: Midori no Wakusei Dokidoki Daikyuushutsu!">
+		<region>Japan</region>
+		<publisher>Epoch</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>72</id>
+	</game>
+	<game name="Double Dragon Advance">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>English</language>
+		<id>1428</id>
+	</game>
+	<game name="Doubutsu Shima no Chobi Gurumi">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>64mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1166</id>
+	</game>
+	<game name="Doubutsujima no Chobi Gurumi 2: Tamachan Monogatari">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1605</id>
+	</game>
+	<game name="Downtown: Nekketsu Monogatari EX">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1400</id>
+	</game>
+	<game name="Dr. Mario &amp; Panel de Pon">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2127</id>
+	</game>
+	<game name="Dragon Ball Z: Bukuu Tougeki">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1427</id>
+	</game>
+	<game name="Dragon Ball Z: The Legacy of Goku II International">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1591</id>
+	</game>
+	<game name="Dragon Ball: Advanced Adventure">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1782</id>
+	</game>
+	<game name="Dragon Drive: World D Break">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1112</id>
+	</game>
+	<game name="Dragon Quest Characters: Torneco no Daibouken 2 Advance - Fushigi no Dungeon">
+		<region>Japan</region>
+		<publisher>Enix</publisher>
+		<size>64mb</size>
+		<type>Flash_v121</type>
+		<language>Japanese</language>
+		<id>258</id>
+	</game>
+	<game name="Dragon Quest Characters: Torneco no Daibouken 3 Advance - Fushigi no Dungeon">
+		<region>Japan</region>
+		<publisher>Square Enix</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1545</id>
+	</game>
+	<game name="Dragon Quest Monsters: Caravan Heart">
+		<region>Japan</region>
+		<publisher>Enix</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>930</id>
+	</game>
+	<game name="Dual Blades">
+		<region>Japan</region>
+		<publisher>Metro3D</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>831</id>
+	</game>
+	<game name="Duel Masters 2: Invisible Advance">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1438</id>
+	</game>
+	<game name="Duel Masters 2: Kirifuda Shoubu Version">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1586</id>
+	</game>
+	<game name="Duel Masters 3">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1842</id>
+	</game>
+	<game name="Duel Masters">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>32mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1128</id>
+	</game>
+	<game name="ESPN Winter X-Games Snowboarding 2002">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>261</id>
+	</game>
+	<game name="ESPN X-Games Skateboarding">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>English</language>
+		<id>152</id>
+	</game>
+	<game name="EX Monopoly">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>66</id>
+	</game>
+	<game name="EZ-Talk: Shokyuu Hen 1">
+		<region>Japan</region>
+		<publisher>KeyNet</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>221</id>
+	</game>
+	<game name="EZ-Talk: Shokyuu Hen 2">
+		<region>Japan</region>
+		<publisher>KeyNet</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>222</id>
+	</game>
+	<game name="EZ-Talk: Shokyuu Hen 3">
+		<region>Japan</region>
+		<publisher>KeyNet</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>268</id>
+	</game>
+	<game name="EZ-Talk: Shokyuu Hen 4">
+		<region>Japan</region>
+		<publisher>KeyNet</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>269</id>
+	</game>
+	<game name="EZ-Talk: Shokyuu Hen 5">
+		<region>Japan</region>
+		<publisher>KeyNet</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>306</id>
+	</game>
+	<game name="EZ-Talk: Shokyuu Hen 6">
+		<region>Japan</region>
+		<publisher>KeyNet</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>307</id>
+	</game>
+	<game name="Egg Mania">
+		<region>Japan</region>
+		<publisher>Kemco</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>764</id>
+	</game>
+	<game name="Elemix!">
+		<region>Japan</region>
+		<publisher>Sims</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>861</id>
+	</game>
+	<game name="Elevator Action: Old &amp; New">
+		<region>Japan</region>
+		<publisher>Mediakite</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>823</id>
+	</game>
+	<game name="Erementar Gerad">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2047</id>
+	</game>
+	<game name="Exciting Bass">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>957</id>
+	</game>
+	<game name="F-Zero">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>1</id>
+	</game>
+	<game name="F-Zero: Climax">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Flash1M_v102</type>
+		<language>Japanese</language>
+		<id>1718</id>
+	</game>
+	<game name="F-Zero: Falcon Densetsu">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1292</id>
+	</game>
+	<game name="Famicom Mini Vol. 01: Super Mario Bros.">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1383</id>
+	</game>
+	<game name="Famicom Mini Vol. 02: Donkey Kong">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1385</id>
+	</game>
+	<game name="Famicom Mini Vol. 03: Ice Climber">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1381</id>
+	</game>
+	<game name="Famicom Mini Vol. 04: Excitebike">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>1391</id>
+	</game>
+	<game name="Famicom Mini Vol. 05: The Hyrule Fantasy - Zelda no Densetsu 1">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1386</id>
+	</game>
+	<game name="Famicom Mini Vol. 06: Pac-Man">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1393</id>
+	</game>
+	<game name="Famicom Mini Vol. 07: Xevious">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1382</id>
+	</game>
+	<game name="Famicom Mini Vol. 08: Mappy">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1387</id>
+	</game>
+	<game name="Famicom Mini Vol. 09: Bomberman">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1392</id>
+	</game>
+	<game name="Famicom Mini Vol. 10: Star Soldier">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1390</id>
+	</game>
+	<game name="Famicom Mini Vol. 11: Mario Bros.">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1496</id>
+	</game>
+	<game name="Famicom Mini Vol. 12: Clu Clu Land">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1501</id>
+	</game>
+	<game name="Famicom Mini Vol. 13: Balloon Fight">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1493</id>
+	</game>
+	<game name="Famicom Mini Vol. 14: Wrecking Crew">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1499</id>
+	</game>
+	<game name="Famicom Mini Vol. 15: Dr. Mario">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1500</id>
+	</game>
+	<game name="Famicom Mini Vol. 16: Dig Dug">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1495</id>
+	</game>
+	<game name="Famicom Mini Vol. 17: Takahashi Meijin no Bouken Shima">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1497</id>
+	</game>
+	<game name="Famicom Mini Vol. 18: Makaimura">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1494</id>
+	</game>
+	<game name="Famicom Mini Vol. 19: Twin Bee">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1492</id>
+	</game>
+	<game name="Famicom Mini Vol. 20: Ganbare Goemon! Karakuri Douchuu">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1498</id>
+	</game>
+	<game name="Famicom Mini Vol. 21: Super Mario Bros. 2">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1615</id>
+	</game>
+	<game name="Famicom Mini Vol. 22: Nazo no Murasame Jou">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1616</id>
+	</game>
+	<game name="Famicom Mini Vol. 23: Metroid">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1617</id>
+	</game>
+	<game name="Famicom Mini Vol. 24: Hikari Shinwa - Palthena no Kagami">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1618</id>
+	</game>
+	<game name="Famicom Mini Vol. 25: The Legend of Zelda 2 - Link no Bouken">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1619</id>
+	</game>
+	<game name="Famicom Mini Vol. 26: Famicom Mukashi Banashi - Shin Onigashima - Zen Kou Hen">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1620</id>
+	</game>
+	<game name="Famicom Mini Vol. 27: Famicom Tantei Club - Kieta Koukeisha - Zen Kou Hen">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1621</id>
+	</game>
+	<game name="Famicom Mini Vol. 28: Famicom Tantei Club Part II - Ushiro ni Tatsu Shoujo - Zen Kou Hen">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1622</id>
+	</game>
+	<game name="Famicom Mini Vol. 29: Akumajou Dracule">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1623</id>
+	</game>
+	<game name="Famicom Mini Vol. 30: SD Gundam World - Gachapon Senshi Scramble Wars">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1624</id>
+	</game>
+	<game name="Family Tennis Advance">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>477</id>
+	</game>
+	<game name="Famista Advance">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>546</id>
+	</game>
+	<game name="Fancy Pocket">
+		<region>Japan</region>
+		<publisher>Jordan</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>975</id>
+	</game>
+	<game name="Fantastic Children">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2040</id>
+	</game>
+	<game name="Fantastic Maerchen: Cake-yasan Monogatari">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>761</id>
+	</game>
+	<game name="Field of Nine: Digital Edition 2001">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>117</id>
+	</game>
+	<game name="Final Fantasy I &amp; II Advance">
+		<region>Japan</region>
+		<publisher>Square Enix</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1597</id>
+	</game>
+	<game name="Final Fantasy Tactics Advance">
+		<region>Japan</region>
+		<publisher>Squaresoft</publisher>
+		<size>128mb</size>
+		<type>Flash512_v130</type>
+		<language>Japanese</language>
+		<id>866</id>
+	</game>
+	<game name="Final Fight One">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v120</type>
+		<language>Japanese</language>
+		<id>26</id>
+	</game>
+	<game name="Final Fire Pro Wrestling: Yume no Dantai Unei!">
+		<region>Japan</region>
+		<publisher>Spike</publisher>
+		<size>128mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>504</id>
+	</game>
+	<game name="Finding Nemo">
+		<region>Japan</region>
+		<publisher>THQ</publisher>
+		<size>64mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>1331</id>
+	</game>
+	<game name="Finding Nemo: Arata na Bouken">
+		<region>Japan</region>
+		<publisher>THQ</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1795</id>
+	</game>
+	<game name="Fire Emblem: Fuuin no Tsurugi">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>378</id>
+	</game>
+	<game name="Fire Emblem: Rekka no Ken">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>979</id>
+	</game>
+	<game name="Fire Emblem: Seima no Kouseki">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1692</id>
+	</game>
+	<game name="Fire Pro Wrestling A">
+		<region>Japan</region>
+		<publisher>Spike</publisher>
+		<size>64mb</size>
+		<type>Flash_v121</type>
+		<language>Japanese</language>
+		<id>15</id>
+	</game>
+	<game name="Formation Soccer 2002">
+		<region>Japan</region>
+		<publisher>Spike</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>426</id>
+	</game>
+	<game name="Frogger: Kodaibunmei no Nazo">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1788</id>
+	</game>
+	<game name="Frogger: Mahou no Kuni no Daibouken">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1087</id>
+	</game>
+	<game name="From TV Animation One Piece: Mezase! King of Berry">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>919</id>
+	</game>
+	<game name="From TV Animation One Piece: Nanatsu Shima no Daihihou">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>738</id>
+	</game>
+	<game name="Fruit Mura no Doubutsutachi">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1730</id>
+	</game>
+	<game name="Fushigi no Kuni no Alice">
+		<region>Japan</region>
+		<publisher>Global A</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>879</id>
+	</game>
+	<game name="Fushigi no Kuni no Angelique">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>32mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>522</id>
+	</game>
+	<game name="Futari ha Precure: Arienaai! Yume no Sono ha Daimeikyuu">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1829</id>
+	</game>
+	<game name="Futari wa Precure Max Heart: Maji Maji! Fight de IN Janai">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2067</id>
+	</game>
+	<game name="Gachaste! Dino Device 2: Dragon">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1303</id>
+	</game>
+	<game name="Gachaste! Dino Device 2: Phoenix">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1304</id>
+	</game>
+	<game name="Gachasute! Dino Device: Blue">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>628</id>
+	</game>
+	<game name="Gachasute! Dino Device: Red">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>573</id>
+	</game>
+	<game name="Gachinko Pro Yakyuu">
+		<region>Japan</region>
+		<publisher>Now Production</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>668</id>
+	</game>
+	<game name="Gakkou no Kaidan: Hyakuyobako no Fuuin">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1593</id>
+	</game>
+	<game name="Gakkou wo Tsukurou!! Advance">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>232</id>
+	</game>
+	<game name="Gakuen Alice: Dokidoki Fushigi Taiken">
+		<region>Japan</region>
+		<publisher>Kids Station</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1794</id>
+	</game>
+	<game name="Gakuen Senki Muryou">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1397</id>
+	</game>
+	<game name="Galaxy Angel: Moridakusan Tenshi no Full-Course - Okawari Jiyuu">
+		<region>Japan</region>
+		<publisher>MMV</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>662</id>
+	</game>
+	<game name="Gambler Densetsu Tetsuya: Yomigaeru Densetsu">
+		<region>Japan</region>
+		<publisher>Athena</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>553</id>
+	</game>
+	<game name="Game Boy Advance SP AV Adaptor">
+		<region>Japan</region>
+		<publisher>Blaze</publisher>
+		<size>1mb</size>
+		<type>None</type>
+		<language>English</language>
+		<id>1650</id>
+	</game>
+	<game name="Game Boy Wars Advance 1+2">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Flash1M_v102</type>
+		<language>Japanese</language>
+		<id>1802</id>
+	</game>
+	<game name="Ganbare Dodge Fighters">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1876</id>
+	</game>
+	<game name="Gegege no Kitarou: Kikiippatsu! Youkai Rettou">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>1327</id>
+	</game>
+	<game name="Gekitou Densetsu Noah: Dream Management">
+		<region>Japan</region>
+		<publisher>NetVillage</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1047</id>
+	</game>
+	<game name="Gekitou! Car Battler Go!!">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>431</id>
+	</game>
+	<game name="Genseishin Justirisers: Souchaku! Chikyuu no Senshitachi">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1848</id>
+	</game>
+	<game name="Gensou Maden Saiyuuki: Hangyaku no Toushin-taishi">
+		<region>Japan</region>
+		<publisher>Digital Kids</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1129</id>
+	</game>
+	<game name="Gensou Suikoden: Card Stories">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>109</id>
+	</game>
+	<game name="Get Ride AMDriver: Senkou no Hero Tanjou!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1589</id>
+	</game>
+	<game name="Get Ride! Amdriver Shuggeki! Battle Party">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>2107</id>
+	</game>
+	<game name="Get!: Boku no Mushi Tsukamaete">
+		<region>Japan</region>
+		<publisher>Kemco</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1099</id>
+	</game>
+	<game name="GetBackers Dakkanya: Jagan Fuuin!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1144</id>
+	</game>
+	<game name="GetBackers Dakkanya: Jigoku no Scaramouche">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Flash_v120</type>
+		<language>Japanese</language>
+		<id>68</id>
+	</game>
+	<game name="GetBackers Dakkanya: Metropolis Dakkan Sakusen!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1030</id>
+	</game>
+	<game name="Ghost Trap">
+		<region>Japan</region>
+		<publisher>Eidos Interactive</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>512</id>
+	</game>
+	<game name="Godzilla: Kaijuu Dairantou Advance">
+		<region>Japan</region>
+		<publisher>Atari</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>1350</id>
+	</game>
+	<game name="Goemon: New Age Shutsudou!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>320</id>
+	</game>
+	<game name="Gradius Generation">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>281</id>
+	</game>
+	<game name="Greatest Nine">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>531</id>
+	</game>
+	<game name="Groove Adventure Rave: Hikari to Yami no Daikessen 2">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>620</id>
+	</game>
+	<game name="Groove Adventure Rave: Hikari to Yami no Daikessen">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>363</id>
+	</game>
+	<game name="Guilty Gear X: Advance Edition">
+		<region>Japan</region>
+		<publisher>Sammy</publisher>
+		<size>64mb</size>
+		<type>Flash_v124</type>
+		<language>English</language>
+		<id>280</id>
+	</game>
+	<game name="Guranbo">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>291</id>
+	</game>
+	<game name="Guru Logic Champ">
+		<region>Japan</region>
+		<publisher>Compile</publisher>
+		<size>32mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>353</id>
+	</game>
+	<game name="Gyakuten Saiban 2">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>674</id>
+	</game>
+	<game name="Gyakuten Saiban 3">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>1357</id>
+	</game>
+	<game name="Gyakuten Saiban">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>140</id>
+	</game>
+	<game name="Gyakuten Saiban">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>2136</id>
+	</game>
+	<game name="Hachiemon">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1088</id>
+	</game>
+	<game name="Hagane no Renkinjutsushi: Meisou no Rondo">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1430</id>
+	</game>
+	<game name="Hagane no Renkinjutsushi: Omoide no Soumeikyoku">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1587</id>
+	</game>
+	<game name="Hajime no Ippo: The Fighting!">
+		<region>Japan</region>
+		<publisher>ESP</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>807</id>
+	</game>
+	<game name="Hamepane: Tokyo Mew Mew">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>32mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>567</id>
+	</game>
+	<game name="Hamster Club 3">
+		<region>Japan</region>
+		<publisher>Jordan</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>746</id>
+	</game>
+	<game name="Hamster Club 4">
+		<region>Japan</region>
+		<publisher>Jordan</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1108</id>
+	</game>
+	<game name="Hamster Monogatari 2 GBA">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>151</id>
+	</game>
+	<game name="Hamster Monogatari 3 GBA">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1027</id>
+	</game>
+	<game name="Hamster Monogatari Collection">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1089</id>
+	</game>
+	<game name="Hamster Paradise Advanchu">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>665</id>
+	</game>
+	<game name="Hamster Paradise: Pure Heart">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1100</id>
+	</game>
+	<game name="Hanabi Hyakkei Advance">
+		<region>Japan</region>
+		<publisher>Aruze Corp.</publisher>
+		<size>32mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1601</id>
+	</game>
+	<game name="Hanafuda Trump Mahjong: Depachika Wayouchuu">
+		<region>Japan</region>
+		<publisher>Global A</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>601</id>
+	</game>
+	<game name="Haro no Puyo Puyo">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2063</id>
+	</game>
+	<game name="Harobots: Robo Hero Battling!!">
+		<region>Japan</region>
+		<publisher>Sunrise</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>649</id>
+	</game>
+	<game name="Harry Potter to Azkaban no Shuujin">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1546</id>
+	</game>
+	<game name="Harry Potter to Himitsu no Heya">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>797</id>
+	</game>
+	<game name="Harry Potter to Kenja no Ishi">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>296</id>
+	</game>
+	<game name="Harry Potter: Quidditch World Cup">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1285</id>
+	</game>
+	<game name="Harukanaru Toki no Naka de">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>629</id>
+	</game>
+	<game name="Hatena Satena">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>32mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>135</id>
+	</game>
+	<game name="Hello Kitty Collection: Miracle Fashion Maker">
+		<region>Japan</region>
+		<publisher>Imagineer</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>147</id>
+	</game>
+	<game name="Hello!: Idol Debut">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1836</id>
+	</game>
+	<game name="Higanbana">
+		<region>Japan</region>
+		<publisher>Athena</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>842</id>
+	</game>
+	<game name="High Heat Major League Baseball 2003">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>663</id>
+	</game>
+	<game name="Hikaru no Go 2">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>506</id>
+	</game>
+	<game name="Hikaru no Go">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>170</id>
+	</game>
+	<game name="Himawari Doubutsu Byouin: Pet no Oishasan Ikusei Game">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1607</id>
+	</game>
+	<game name="Hime Kishi Monogatari: Princess Blue">
+		<region>Japan</region>
+		<publisher>Tonkin House</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>635</id>
+	</game>
+	<game name="Hitsuji no Kimochi">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>435</id>
+	</game>
+	<game name="Hobbit no Bouken: Lord of the Rings - Hajimari no Monogatari">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1869</id>
+	</game>
+	<game name="Hoshi no Kirby: Kagami no Daimeikyuu">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1454</id>
+	</game>
+	<game name="Hoshi no Kirby: Yume no Izumi Deluxe">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>682</id>
+	</game>
+	<game name="Hot Wheels Advance">
+		<region>Japan</region>
+		<publisher>Altron</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>English</language>
+		<id>523</id>
+	</game>
+	<game name="Hunter X Hunter: Minna Tomodachi Daisakusen!!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>983</id>
+	</game>
+	<game name="Hyokkori Hyoutanjima: Don Gabacho Daikatsuyaku no Maki">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1352</id>
+	</game>
+	<game name="Hyper Sports 2002 Winter">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>283</id>
+	</game>
+	<game name="Ice Age">
+		<region>Japan</region>
+		<publisher>Ubi Soft</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>655</id>
+	</game>
+	<game name="Initial D: Another Stage">
+		<region>Japan</region>
+		<publisher>Sammy</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>414</id>
+	</game>
+	<game name="Inukko Club">
+		<region>Japan</region>
+		<publisher>Jordan</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>929</id>
+	</game>
+	<game name="Inuyasha: Naraku no Wana! Mayoi no Mori no Shoutaijou">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>860</id>
+	</game>
+	<game name="Isseki Hattyou: Kore 1ppon de 8syurui!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>389</id>
+	</game>
+	<game name="J.League Pocket 2">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>321</id>
+	</game>
+	<game name="J.League Pocket">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>22</id>
+	</game>
+	<game name="J.League Pro Soccer Club wo Tsukurou! Advance">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>577</id>
+	</game>
+	<game name="J.League Winning Eleven Advance 2002">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>656</id>
+	</game>
+	<game name="JGTO Kounin Golf Master Mobile: Japan Golf Tour Game">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Flash_v124</type>
+		<language>Japanese</language>
+		<id>75</id>
+	</game>
+	<game name="JGTO Kounin Golf Master: Japan Golf Tour Game">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Flash_v121</type>
+		<language>Japanese</language>
+		<id>17</id>
+	</game>
+	<game name="Jajamaru Jr. Denshouki: Jalecolle mo Arisourou">
+		<region>Japan</region>
+		<publisher>Pacific Century</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1525</id>
+	</game>
+	<game name="Jikkyou World Soccer Pocket 2">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>782</id>
+	</game>
+	<game name="Jikkyou World Soccer Pocket">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>248</id>
+	</game>
+	<game name="Jinsei Game Advance">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>436</id>
+	</game>
+	<game name="Jissen Pachi-Slot Hisshouhou!: Juuou Advance">
+		<region>Japan</region>
+		<publisher>Sammy</publisher>
+		<size>32mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>374</id>
+	</game>
+	<game name="Jurassic Park III: Advanced Action">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>92</id>
+	</game>
+	<game name="Jurassic Park III: Kyouryuu ni Ainiikou!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>82</id>
+	</game>
+	<game name="Jurassic Park III: Ushinawareta Idenshi">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>574</id>
+	</game>
+	<game name="Jurassic Park Institute Tour: Dinosaur Rescue">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1184</id>
+	</game>
+	<game name="K-1 Pocket Grand Prix 2">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>846</id>
+	</game>
+	<game name="K-1 Pocket Grand Prix">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>368</id>
+	</game>
+	<game name="Kaeru B Back">
+		<region>Japan</region>
+		<publisher>Kadokawa Shoten</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>422</id>
+	</game>
+	<game name="Kaiketsu Zorori to Mahou no Yuuenchi: Ohimesama wo Sukue!">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1571</id>
+	</game>
+	<game name="Kamaitachi no Yoru Advance">
+		<region>Japan</region>
+		<publisher>ChunSoft</publisher>
+		<size>128mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>529</id>
+	</game>
+	<game name="Kami no Kijutsu: Illusion of the Evil Eyes">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>429</id>
+	</game>
+	<game name="Kappa no Kai-Kata: Katan Daibouken">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1937</id>
+	</game>
+	<game name="Kawa no Nushi Tsuri 5: Fushigi no Mori Kara">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>430</id>
+	</game>
+	<game name="Kawaii Koinu Wonderful">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2002</id>
+	</game>
+	<game name="Kawaii Pet Game Gallery 2">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2001</id>
+	</game>
+	<game name="Kawaii Pet Game Gallery">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1210</id>
+	</game>
+	<game name="Kawaii Pet Shop Monogatari 3">
+		<region>Japan</region>
+		<publisher>Pacific Century</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>724</id>
+	</game>
+	<game name="Kaze no Klonoa G2: Dream Champ Tournament">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>525</id>
+	</game>
+	<game name="Kaze no Klonoa: Yumemiru Teikoku">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>70</id>
+	</game>
+	<game name="Keitai Denjuu Telefang 2: Power">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>420</id>
+	</game>
+	<game name="Keitai Denjuu Telefang 2: Speed">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>421</id>
+	</game>
+	<game name="Keroro Gunsou: Taiketsu! Keroro Cart de Arimasu!!">
+		<region>Japan</region>
+		<publisher>Sunrise</publisher>
+		<size>32mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1835</id>
+	</game>
+	<game name="Kessakusen! Ganbare Goemon 1+2">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1973</id>
+	</game>
+	<game name="Kidou Senshi Gundam Seed Destiny">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1801</id>
+	</game>
+	<game name="Kidou Senshi Gundam Seed: Tomo to Kimi to koko de.">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1482</id>
+	</game>
+	<game name="Kidou Tenshi Angelic Layer: Misaki to Yume no Tenshi-tachi">
+		<region>Japan</region>
+		<publisher>Epoch</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>266</id>
+	</game>
+	<game name="Kikaika Guntai: Mech Platoon">
+		<region>Japan</region>
+		<publisher>Kemco</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>372</id>
+	</game>
+	<game name="Kiki Kaikai Advance">
+		<region>Japan</region>
+		<publisher>Altron</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>132</id>
+	</game>
+	<game name="King of Fighters EX, The: NeoBlood">
+		<region>Japan</region>
+		<publisher>MMV</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>265</id>
+	</game>
+	<game name="King of Fighters EX2, The: Howling Blood">
+		<region>Japan</region>
+		<publisher>MMV</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>832</id>
+	</game>
+	<game name="Kinniku Banzuke: Kimero! Kiseki no Kanzen Seiha">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>253</id>
+	</game>
+	<game name="Kinniku Banzuke: Kongou-kun no Daibouken!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>74</id>
+	</game>
+	<game name="Kinnikuman IIsei: Seigi Choujin heno Michi">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>796</id>
+	</game>
+	<game name="Kisekko Gurumi: Chesty to Nuigurumi-tachi no Mahou no Bouken">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>969</id>
+	</game>
+	<game name="Kiss x Kiss: Seirei Gakuen">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1858</id>
+	</game>
+	<game name="Kiwame Mahjong Deluxe: Mirai Senshi 21">
+		<region>Japan</region>
+		<publisher>Athena</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>87</id>
+	</game>
+	<game name="Klonoa Heroes: Densetsu no Star Medal">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>805</id>
+	</game>
+	<game name="Koinu to Issho 2">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1741</id>
+	</game>
+	<game name="Koinu to Issho: Aijou Monogatari">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1176</id>
+	</game>
+	<game name="Koinu-Chan no Hajimete no Osanpo: Koinu no Kokoro Ikusei Game">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1316</id>
+	</game>
+	<game name="Konami Arcade Game Collection">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>469</id>
+	</game>
+	<game name="Konami Wai Wai Racing Advance">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>9</id>
+	</game>
+	<game name="Konchu Monster: Battle Master">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1991</id>
+	</game>
+	<game name="Konchu Monster: Battle Stadium">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1992</id>
+	</game>
+	<game name="Konjiki no Gashbell!! The Card Battle for GBA">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2068</id>
+	</game>
+	<game name="Konjiki no Gashbell!!: Makai no Bookmark">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1580</id>
+	</game>
+	<game name="Konjiki no Gashbell!!: Unare! Yuujou no Zakeru 2">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1849</id>
+	</game>
+	<game name="Konjiki no Gashbell!!: Unare! Yuujou no Zakeru">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1323</id>
+	</game>
+	<game name="Koro Koro Puzzle: Happy Panechu!">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>418</id>
+	</game>
+	<game name="Korokke Great: Toki no Boukensha">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1830</id>
+	</game>
+	<game name="Kotoba no Puzzle: Mojipittan Advance">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>850</id>
+	</game>
+	<game name="Koukou Juken Advance Series Eigo Koubun Hen: 26 Units Shuuroku">
+		<region>Japan</region>
+		<publisher>KeyNet</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>398</id>
+	</game>
+	<game name="Koukou Juken Advance Series Eijukugo Hen: 650 Phrases Shuuroku">
+		<region>Japan</region>
+		<publisher>KeyNet</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>967</id>
+	</game>
+	<game name="Koukou Juken Advance Series Eitango Hen: 2000 Words Shuuroku">
+		<region>Japan</region>
+		<publisher>KeyNet</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>897</id>
+	</game>
+	<game name="Koutetsu Teikoku from HOT-B">
+		<region>Japan</region>
+		<publisher>Starfish</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1481</id>
+	</game>
+	<game name="Kunio kun Nekketsu Collection 1">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>2103</id>
+	</game>
+	<game name="Kurohige no Golf Shiyouyo">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>419</id>
+	</game>
+	<game name="Kurohige no Kurutto Jintori">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>524</id>
+	</game>
+	<game name="Kurukuru Kururin">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>4</id>
+	</game>
+	<game name="Kururin Paradise">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>847</id>
+	</game>
+	<game name="LEGO Star Wars: The Video Game">
+		<region>Japan</region>
+		<publisher>Eidos Interactive</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2052</id>
+	</game>
+	<game name="Legend of Dynamic Goushouden: Houkai no Rondo">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>1217</id>
+	</game>
+	<game name="Legendz: Sign of Nekuromu">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1902</id>
+	</game>
+	<game name="Licca-chan no Oshare Nikki">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1740</id>
+	</game>
+	<game name="Liliput Oukoku">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1439</id>
+	</game>
+	<game name="Little Buster Q">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>852</id>
+	</game>
+	<game name="Little Patissier: Cake no Oshiro">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1843</id>
+	</game>
+	<game name="Lode Runner">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>887</id>
+	</game>
+	<game name="Lord of the Rings, The: Futatsu no Tou">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>876</id>
+	</game>
+	<game name="Lord of the Rings, The: Ou no Kikan">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1471</id>
+	</game>
+	<game name="Lord of the Rings, The: Uchitsu Kuni Daisanki">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1850</id>
+	</game>
+	<game name="Love Hina Advance: Shukufuku no Kane ha Naru Kana">
+		<region>Japan</region>
+		<publisher>MMV</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>97</id>
+	</game>
+	<game name="Lunar Legend">
+		<region>Japan</region>
+		<publisher>Media Rings</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>401</id>
+	</game>
+	<game name="Made in Wario">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>909</id>
+	</game>
+	<game name="Magi Nation">
+		<region>Japan</region>
+		<publisher>Epoch</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v120</type>
+		<language>Japanese</language>
+		<id>804</id>
+	</game>
+	<game name="Magical Houshin">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>386</id>
+	</game>
+	<game name="Magical Vacation">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>230</id>
+	</game>
+	<game name="Mahjong Keiji">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>63</id>
+	</game>
+	<game name="Mahou Sensei Negima!: Private Lesson Damedesuu Toshokanjima">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>2024</id>
+	</game>
+	<game name="Mahou no Pumpkin: Ann to Greg no Daibouken">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1052</id>
+	</game>
+	<game name="Mail de Cute">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Flash_v121</type>
+		<language>Japanese</language>
+		<id>332</id>
+	</game>
+	<game name="Majokko Cream-chan no Gokko Series 1: Wannyan Idol Gakuen">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1738</id>
+	</game>
+	<game name="Majokko Cream-chan no Gokko Series 2: Kisekae Angel">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1736</id>
+	</game>
+	<game name="Manga-ka Debut Monogatari">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>878</id>
+	</game>
+	<game name="Marheaven: Knockin on Heaven&quot;s Door">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>2048</id>
+	</game>
+	<game name="Marie, Elie &amp; Anis no Atelier: Soyokaze Kara no Dengon">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>858</id>
+	</game>
+	<game name="Mario &amp; Luigi RPG">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1283</id>
+	</game>
+	<game name="Mario Golf: GBA Tour">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1458</id>
+	</game>
+	<game name="Mario Kart Advance">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Flash_v124</type>
+		<language>Japanese</language>
+		<id>71</id>
+	</game>
+	<game name="Mario Party Advance">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1866</id>
+	</game>
+	<game name="Mario Tennis Advance">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>2126</id>
+	</game>
+	<game name="Mario vs. Donkey Kong">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1526</id>
+	</game>
+	<game name="Matantei Loki Ragnarok: Gensou no Labyrinth">
+		<region>Japan</region>
+		<publisher>J-Wing</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1211</id>
+	</game>
+	<game name="Mawaru: Made in Wario">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1703</id>
+	</game>
+	<game name="Medal of Honor: Infiltrator">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1528</id>
+	</game>
+	<game name="Medarot G: Kabuto Version">
+		<region>Japan</region>
+		<publisher>Natsume</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>634</id>
+	</game>
+	<game name="Medarot G: Kuwagata Version">
+		<region>Japan</region>
+		<publisher>Natsume</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>561</id>
+	</game>
+	<game name="Medarot Navi: Kabuto">
+		<region>Japan</region>
+		<publisher>Imagineer</publisher>
+		<size>64mb</size>
+		<type>Flash_v124</type>
+		<language>Japanese</language>
+		<id>101</id>
+	</game>
+	<game name="Medarot Navi: Kuwagata">
+		<region>Japan</region>
+		<publisher>Imagineer</publisher>
+		<size>64mb</size>
+		<type>Flash_v124</type>
+		<language>Japanese</language>
+		<id>100</id>
+	</game>
+	<game name="Medarot Ni Core: Kabuto Version">
+		<region>Japan</region>
+		<publisher>Natsume</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>960</id>
+	</game>
+	<game name="Medarot Ni Core: Kuwagata Version">
+		<region>Japan</region>
+		<publisher>Natsume</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>970</id>
+	</game>
+	<game name="Meitantei Conan: Atasuki no Monument">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1974</id>
+	</game>
+	<game name="Meitantei Conan: Nerawareta Tantei">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1119</id>
+	</game>
+	<game name="Mermaid Melody Pichipichi Pitch Pichipichi Party">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1375</id>
+	</game>
+	<game name="Mermaid Melody: Pichi Pichi Pitch">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>1205</id>
+	</game>
+	<game name="Metal Max 2 Kai">
+		<region>Japan</region>
+		<publisher>Now Production</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1070</id>
+	</game>
+	<game name="Metal Max 2 Kai">
+		<region>Japan</region>
+		<publisher>Now Production</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>2005</id>
+	</game>
+	<game name="Metal Slug Advance">
+		<region>Japan</region>
+		<publisher>SNK Playmore</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1784</id>
+	</game>
+	<game name="Metalgun Slinger">
+		<region>Japan</region>
+		<publisher>Atmark</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>645</id>
+	</game>
+	<game name="Metroid Fusion">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>877</id>
+	</game>
+	<game name="Metroid: Zero Mission">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1527</id>
+	</game>
+	<game name="Mezase Koushien">
+		<region>Japan</region>
+		<publisher>Tasuke</publisher>
+		<size>64mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1930</id>
+	</game>
+	<game name="Mickey no Pocket Resort">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1531</id>
+	</game>
+	<game name="Mickey to Donald no Magical Quest 3">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1272</id>
+	</game>
+	<game name="Mickey to Minnie no Magical Quest 2">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1096</id>
+	</game>
+	<game name="Mickey to Minnie no Magical Quest">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>535</id>
+	</game>
+	<game name="Minami no Umi no Odyssey">
+		<region>Japan</region>
+		<publisher>Global A</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>702</id>
+	</game>
+	<game name="Minimoni: Mika no Happy Morning Chatty">
+		<region>Japan</region>
+		<publisher>Shogakukan</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>551</id>
+	</game>
+	<game name="Minimoni: Onegai Ohoshi-sama!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>864</id>
+	</game>
+	<game name="Minna de Puyo Puyo">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>English-Japanese</language>
+		<id>143</id>
+	</game>
+	<game name="Minna no Shiiku Series 1: Boku no Kabuto Mushi">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>67</id>
+	</game>
+	<game name="Minna no Shiiku Series 2: Boku no Kuwagata">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>81</id>
+	</game>
+	<game name="Minna no Shiiku Series: Boku no Kabuto-Kuwagata">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1090</id>
+	</game>
+	<game name="Minna no Soft Series: Happy Trump 20">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1982</id>
+	</game>
+	<game name="Minna no Soft Series: Minna no Mahjong">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1255</id>
+	</game>
+	<game name="Minna no Soft Series: Minna no Shogi">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1665</id>
+	</game>
+	<game name="Minna no Soft Series: Shanghai">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1247</id>
+	</game>
+	<game name="Minna no Soft Series: Zooo">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1257</id>
+	</game>
+	<game name="Mobile Pro Yakyuu: Kantoku no Saihai">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Flash_v124</type>
+		<language>Japanese</language>
+		<id>78</id>
+	</game>
+	<game name="Moero!! Jaleco Collection">
+		<region>Japan</region>
+		<publisher>Pacific Century</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1809</id>
+	</game>
+	<game name="Momotarou Densetsu G: Gold Deck wo Tsukure!">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2045</id>
+	</game>
+	<game name="Momotarou Matsuri">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>32mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>23</id>
+	</game>
+	<game name="Monster Farm Advance 2">
+		<region>Japan</region>
+		<publisher>Tecmo</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>703</id>
+	</game>
+	<game name="Monster Farm Advance">
+		<region>Japan</region>
+		<publisher>Tecmo</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>233</id>
+	</game>
+	<game name="Monster Gate">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>499</id>
+	</game>
+	<game name="Monster Gate: Ooinaru Dungeon - Fuuin no Orb">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>1063</id>
+	</game>
+	<game name="Monster Guardians">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>24</id>
+	</game>
+	<game name="Monster Maker 4: Flash Card">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>801</id>
+	</game>
+	<game name="Monster Maker 4: Killer Dice">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>802</id>
+	</game>
+	<game name="Monster Summoner">
+		<region>Japan</region>
+		<publisher>Ertain</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1581</id>
+	</game>
+	<game name="Monsters, Inc.">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>558</id>
+	</game>
+	<game name="Morita Shougi Advance">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>119</id>
+	</game>
+	<game name="Mother 1+2">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1069</id>
+	</game>
+	<game name="Moto GP">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>765</id>
+	</game>
+	<game name="Motocross Maniacs Advance">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>470</id>
+	</game>
+	<game name="Mr. Driller 2">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>32mb</size>
+		<type>Sram_F_v100</type>
+		<language>Japanese</language>
+		<id>5</id>
+	</game>
+	<game name="Mr. Driller A: Fushigi na Pacteria">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>555</id>
+	</game>
+	<game name="Mr. Incredible">
+		<region>Japan</region>
+		<publisher>D3</publisher>
+		<size>64mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>1983</id>
+	</game>
+	<game name="Mugenborg">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>882</id>
+	</game>
+	<game name="Mutsu: Water Looper Mutsu">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>559</id>
+	</game>
+	<game name="Nakayoshi Mahjong: Kaburiichi">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>150</id>
+	</game>
+	<game name="Nakayoshi Pet Advance Series 1: Kawaii Hamster">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>631</id>
+	</game>
+	<game name="Nakayoshi Pet Advance Series 2: Kawaii Koinu">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>632</id>
+	</game>
+	<game name="Nakayoshi Pet Advance Series 3: Kawaii Koneko">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>633</id>
+	</game>
+	<game name="Nakayoshi Pet Advance Series 4: Kawaii Koinu Mini - Wankoto Asobou!! Kogata Inu">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1098</id>
+	</game>
+	<game name="Nakayoshi Youchien: Sukoyaka Enji Ikusei Game">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>678</id>
+	</game>
+	<game name="Namco Museum">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>English</language>
+		<id>240</id>
+	</game>
+	<game name="Napoleon">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>13</id>
+	</game>
+	<game name="Narikiri Jockey Game: Yuushun Rhapsody">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>54</id>
+	</game>
+	<game name="Naruto RPG: Uketsugareshi Hi no Ishi">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1583</id>
+	</game>
+	<game name="Naruto: Konoha Senki">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1151</id>
+	</game>
+	<game name="Naruto: Ninjutsu Zenkai! Saikyou Ninja Daikesshuu">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>994</id>
+	</game>
+	<game name="Naruto: Saikyou Ninja Daikesshuu 2">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1469</id>
+	</game>
+	<game name="Natural 2: Duo">
+		<region>Japan</region>
+		<publisher>Dreamsoft</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>590</id>
+	</game>
+	<game name="Nippon Pro Mahjong Renmei Kounin Tetsuman Advance: Menkyo Kaiden Series">
+		<region>Japan</region>
+		<publisher>Naxat</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>964</id>
+	</game>
+	<game name="No no no Puzzle Chailien">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2034</id>
+	</game>
+	<game name="Nobunaga Ibun">
+		<region>Japan</region>
+		<publisher>Global A</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>572</id>
+	</game>
+	<game name="Nobunaga no Yabou">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>32mb</size>
+		<type>Flash_v125</type>
+		<language>Japanese</language>
+		<id>129</id>
+	</game>
+	<game name="Nyan Nyan Nyanko no Nyan Collection">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1951</id>
+	</game>
+	<game name="Ochaken Kururin: Honwaka Puzzle de Hotto Shiyo">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1733</id>
+	</game>
+	<game name="Ochaken no Heya">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1337</id>
+	</game>
+	<game name="Ochaken no Yumebouken">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1976</id>
+	</game>
+	<game name="Ohanaya-san Monogatari GBA: Iyashikei Ohanaya-san Ikusei Game">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>830</id>
+	</game>
+	<game name="Ojarumaru: Gekkouchou Sanpo de Ojaru">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1165</id>
+	</game>
+	<game name="Okumanchouja Game: Nottori Daisakusen!">
+		<region>Japan</region>
+		<publisher>Takara</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>294</id>
+	</game>
+	<game name="One Piece: Dragon Dream">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1977</id>
+	</game>
+	<game name="One Piece: Going Baseball">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1409</id>
+	</game>
+	<game name="Onimusha Tactics">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1107</id>
+	</game>
+	<game name="Onmyou Taisenki Zeroshiki">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1833</id>
+	</game>
+	<game name="Oriental Blue: Ao no Tengai">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>1214</id>
+	</game>
+	<game name="Oshaberi Inko Club">
+		<region>Japan</region>
+		<publisher>Alpha Unit</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>675</id>
+	</game>
+	<game name="Oshare Princess 2">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>976</id>
+	</game>
+	<game name="Oshare Princess 3">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1157</id>
+	</game>
+	<game name="Oshare Princess 5">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2049</id>
+	</game>
+	<game name="Oshare Princess">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>660</id>
+	</game>
+	<game name="Oshare Wanko">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1552</id>
+	</game>
+	<game name="Ougon no Taiyou: Hirakareshi Fuuin">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Flash_v123</type>
+		<language>Japanese</language>
+		<id>79</id>
+	</game>
+	<game name="Ougon no Taiyou: Ushinawareshi Toki">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Flash_v123</type>
+		<language>Japanese</language>
+		<id>489</id>
+	</game>
+	<game name="Pac-Man Collection">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>English</language>
+		<id>275</id>
+	</game>
+	<game name="Pazunin: Uminin no Puzzle de Nimu">
+		<region>Japan</region>
+		<publisher>Metro3D</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1310</id>
+	</game>
+	<game name="Phalanx: The Enforce Fighter A-144">
+		<region>Japan</region>
+		<publisher>Kemco</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>149</id>
+	</game>
+	<game name="Pia Carrot he Youkoso!! 3.3">
+		<region>Japan</region>
+		<publisher>Dreamsoft</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1464</id>
+	</game>
+	<game name="Pikapika Nurse Monogatari: Nurse Ikusei Game">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1453</id>
+	</game>
+	<game name="Pinball of the Dead, The">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>494</id>
+	</game>
+	<game name="Pinky Monkey Town">
+		<region>Japan</region>
+		<publisher>Starfish</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>295</id>
+	</game>
+	<game name="Pinobee &amp; Phoebee">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>521</id>
+	</game>
+	<game name="Pinobee no Daibouken">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>11</id>
+	</game>
+	<game name="Playan AV Player">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1913</id>
+	</game>
+	<game name="Pocket Monster: Emerald">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Flash1M_v103</type>
+		<language>Japanese</language>
+		<id>1649</id>
+	</game>
+	<game name="Pocket Monster: FireRed">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Flash1M_v103</type>
+		<language>Japanese</language>
+		<id>1360</id>
+	</game>
+	<game name="Pocket Monster: LeafGreen">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Flash1M_v103</type>
+		<language>Japanese</language>
+		<id>1362</id>
+	</game>
+	<game name="Pocket Monsters: Ruby">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Flash1M_v103</type>
+		<language>Japanese</language>
+		<id>760</id>
+	</game>
+	<game name="Pocket Monsters: Sapphire">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Flash1M_v103</type>
+		<language>Japanese</language>
+		<id>757</id>
+	</game>
+	<game name="Poke Inu: Poket Dogs">
+		<region>Japan</region>
+		<publisher>TAM</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2108</id>
+	</game>
+	<game name="Pokemon Pinball: Ruby &amp; Sapphire">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>1118</id>
+	</game>
+	<game name="Power Pro Kun Pocket 1+2">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>1595</id>
+	</game>
+	<game name="Power Pro Kun Pocket 3">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>12</id>
+	</game>
+	<game name="Power Pro Kun Pocket 4">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>356</id>
+	</game>
+	<game name="Power Pro Kun Pocket 5">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>857</id>
+	</game>
+	<game name="Power Pro Kun Pocket 6">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>1307</id>
+	</game>
+	<game name="Power Pro Kun Pocket 7">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1811</id>
+	</game>
+	<game name="Pro Mahjong Tsuwamono Advance">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2092</id>
+	</game>
+	<game name="Pro Yakyuu Team wo Tsukurou! Advance">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>556</id>
+	</game>
+	<game name="PukuPuku Tennen Kairanban">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>667</id>
+	</game>
+	<game name="PukuPuku Tennen Kairanban: Koi no Cupid Daisakusen">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1739</id>
+	</game>
+	<game name="PukuPuku Tennen Kairanban: Youkoso Illusion Land he">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1831</id>
+	</game>
+	<game name="Puyo Puyo Fever">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>English-French-German-Italian-Japanese-Spanish</language>
+		<id>1592</id>
+	</game>
+	<game name="Puzzle &amp; Tantei Collection">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1029</id>
+	</game>
+	<game name="Pyuu to Fuku! Jaguar: Byoo to Deru! Megane-kun">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1475</id>
+	</game>
+	<game name="RPG Tsukuru Advance">
+		<region>Japan</region>
+		<publisher>Enterbrain</publisher>
+		<size>64mb</size>
+		<type>Flash512_v130</type>
+		<language>Japanese</language>
+		<id>981</id>
+	</game>
+	<game name="Recca no Honoo: The Game">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>260</id>
+	</game>
+	<game name="Rejienzu: Yomigaeru Shiren no Shima">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1596</id>
+	</game>
+	<game name="Relaxuma na Mainichi">
+		<region>Japan</region>
+		<publisher>Imagineer</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1990</id>
+	</game>
+	<game name="Robot Ponkottsu 2: Cross Version">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>32mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>107</id>
+	</game>
+	<game name="Robot Ponkottsu 2: Ring Version">
+		<region>Japan</region>
+		<publisher>Hudson</publisher>
+		<size>32mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>106</id>
+	</game>
+	<game name="Rockman &amp; Forte">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>536</id>
+	</game>
+	<game name="Rockman EXE 4.5: Real Operation">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1604</id>
+	</game>
+	<game name="Rockman EXE 4: Tournament Blue Moon">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1319</id>
+	</game>
+	<game name="Rockman EXE 4: Tournament Red Sun">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1320</id>
+	</game>
+	<game name="Rockman EXE 4: Tournament Red Sun">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>2109</id>
+	</game>
+	<game name="Rockman EXE 5: Team of Blues">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1832</id>
+	</game>
+	<game name="Rockman EXE 5: Team of Colonel">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1914</id>
+	</game>
+	<game name="Rockman EXE Battle Chip GP">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1121</id>
+	</game>
+	<game name="Rockman Zero 2">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>990</id>
+	</game>
+	<game name="Rockman Zero 3">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1457</id>
+	</game>
+	<game name="Rockman Zero 4">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1971</id>
+	</game>
+	<game name="Rockman Zero">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>410</id>
+	</game>
+	<game name="SD Gundam Force">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1602</id>
+	</game>
+	<game name="SD Gundam G-Generation Advance">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1294</id>
+	</game>
+	<game name="SK8: Tony Hawk&quot;s Pro Skater 2">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>575</id>
+	</game>
+	<game name="Saibara Rieko no Dendou Mahjong">
+		<region>Japan</region>
+		<publisher>Media Rings</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>371</id>
+	</game>
+	<game name="Sakura Momoko no UkiUki Carnival">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>566</id>
+	</game>
+	<game name="Samurai Deeper Kyo">
+		<region>Japan</region>
+		<publisher>MMV</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>834</id>
+	</game>
+	<game name="Samurai Evolution: Oukoku Geist">
+		<region>Japan</region>
+		<publisher>Enix</publisher>
+		<size>32mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>609</id>
+	</game>
+	<game name="Sangokushi">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>212</id>
+	</game>
+	<game name="Sangokushi: Eiketsuden">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>32mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1875</id>
+	</game>
+	<game name="Sangokushi: Koumeiden">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>64mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1874</id>
+	</game>
+	<game name="Sanrio Puroland: All Characters">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1256</id>
+	</game>
+	<game name="Sansara Naga 1x2">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>267</id>
+	</game>
+	<game name="Scan Hunter: Sennen Kaigyo wo Oe!">
+		<region>Japan</region>
+		<publisher>Pacific Century</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>762</id>
+	</game>
+	<game name="Screw Breaker: Goushin Dorirurero">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Italian-Japanese</language>
+		<id>2154</id>
+	</game>
+	<game name="Sega Rally Championship">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>English</language>
+		<id>816</id>
+	</game>
+	<game name="Sengoku Kakumei Gaiden">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>959</id>
+	</game>
+	<game name="Sennen Kazoku">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Flash1M_v102</type>
+		<language>Japanese</language>
+		<id>1933</id>
+	</game>
+	<game name="Sentouin Yamada Hajime">
+		<region>Japan</region>
+		<publisher>Kids Station</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1724</id>
+	</game>
+	<game name="Shaman King Card Game: Chou Senjiryakketsu 2">
+		<region>Japan</region>
+		<publisher>King Records</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>511</id>
+	</game>
+	<game name="Shaman King Card Game: Chou Senjiryakketsu 3">
+		<region>Japan</region>
+		<publisher>King Records</publisher>
+		<size>128mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>798</id>
+	</game>
+	<game name="Shanghai Advance">
+		<region>Japan</region>
+		<publisher>Sunsoft</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>289</id>
+	</game>
+	<game name="Shark Tale">
+		<region>Japan</region>
+		<publisher>Taito</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1954</id>
+	</game>
+	<game name="Shikakui Atama wo Marukusuru Advance: Kanji Keisan">
+		<region>Japan</region>
+		<publisher>IE Institute</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2028</id>
+	</game>
+	<game name="Shikakui Atama wo Marukusuru Advance: Kokugo Sansu Rika Shakai">
+		<region>Japan</region>
+		<publisher>IE Institute</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2026</id>
+	</game>
+	<game name="Shimura Ken no Baka Tonosama: Bakushou Tenka Touitsu Game">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>928</id>
+	</game>
+	<game name="Shin Bokura no Taiyou: Gyakushuu no Sabata">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2069</id>
+	</game>
+	<game name="Shin Kisekae Monogatari">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1164</id>
+	</game>
+	<game name="Shin Megami Tensei Devil Children: Hikari no Sho">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>756</id>
+	</game>
+	<game name="Shin Megami Tensei Devil Children: Honoo no Sho">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1171</id>
+	</game>
+	<game name="Shin Megami Tensei Devil Children: Koori no Sho">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1170</id>
+	</game>
+	<game name="Shin Megami Tensei Devil Children: Messiah Riser">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1768</id>
+	</game>
+	<game name="Shin Megami Tensei Devil Children: Puzzle de Call!">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1124</id>
+	</game>
+	<game name="Shin Megami Tensei Devil Children: Yami no Sho">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>737</id>
+	</game>
+	<game name="Shin Megami Tensei II">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1189</id>
+	</game>
+	<game name="Shin Megami Tensei">
+		<region>Japan</region>
+		<publisher>Atlus</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>933</id>
+	</game>
+	<game name="Shin Nippon Pro Wrestling: Toukon Retsuden Advance">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>971</id>
+	</game>
+	<game name="Shin Sangoku Musou Advance">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1950</id>
+	</game>
+	<game name="Shingata Medarot: Kabuto Version">
+		<region>Japan</region>
+		<publisher>Imagineer</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1844</id>
+	</game>
+	<game name="Shingata Medarot: Kuwagata Version">
+		<region>Japan</region>
+		<publisher>Imagineer</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1845</id>
+	</game>
+	<game name="Shining Force: Kuroki Ryuu no Fukkatsu">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1603</id>
+	</game>
+	<game name="Shining Soul II">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1113</id>
+	</game>
+	<game name="Shining Soul">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>379</id>
+	</game>
+	<game name="Shinyaku Seiken Densetsu">
+		<region>Japan</region>
+		<publisher>Square Enix</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1136</id>
+	</game>
+	<game name="Shiren Monsters Netsal">
+		<region>Japan</region>
+		<publisher>ChunSoft</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>1472</id>
+	</game>
+	<game name="Silent Hill: Play Novel">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>19</id>
+	</game>
+	<game name="Silent Scope">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>767</id>
+	</game>
+	<game name="Silk to Cotton">
+		<region>Japan</region>
+		<publisher>KiKi Co Ltd</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>700</id>
+	</game>
+	<game name="Silvanian Family: Yousei no Stick to Fushigi no Ki - Marron-inu no Onna-no-ko">
+		<region>Japan</region>
+		<publisher>Epoch</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1339</id>
+	</game>
+	<game name="Simple 2960 Tomodachi Series Vol. 1: The Table Game Collection">
+		<region>Japan</region>
+		<publisher>D3</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>991</id>
+	</game>
+	<game name="Simple 2960 Tomodachi Series Vol. 2: The Block Kuzushi">
+		<region>Japan</region>
+		<publisher>D3</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>972</id>
+	</game>
+	<game name="Simple 2960 Tomodachi Series Vol. 4: The Trump - Minna de Asoberu 12 Shurui no Trump Game">
+		<region>Japan</region>
+		<publisher>D3</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1340</id>
+	</game>
+	<game name="Simple 2960: Vol. 3 The Itsudemo Puzzle">
+		<region>Japan</region>
+		<publisher>D3</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1429</id>
+	</game>
+	<game name="Sims, The">
+		<region>Japan</region>
+		<publisher>Electronic Arts</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1359</id>
+	</game>
+	<game name="Sister Princess: RePure">
+		<region>Japan</region>
+		<publisher>MMV</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>924</id>
+	</game>
+	<game name="Slime Morimori Dragon Quest: Shougeki no Shippo Dan">
+		<region>Japan</region>
+		<publisher>Square Enix</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1254</id>
+	</game>
+	<game name="Slot! Pro 2 Advance: GoGo Juggler &amp; New Tairyou">
+		<region>Japan</region>
+		<publisher>Telenet</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>962</id>
+	</game>
+	<game name="Slot! Pro Advance: Takarabune &amp; Ooedo Sakurafubuki 2">
+		<region>Japan</region>
+		<publisher>Telenet</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>370</id>
+	</game>
+	<game name="Snap Kid&quot;s">
+		<region>Japan</region>
+		<publisher>Enix</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>277</id>
+	</game>
+	<game name="Sonic Advance 2">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>128mb</size>
+		<type>Flash512_v130</type>
+		<language>English-French-German-Italian-Japanese-Spanish</language>
+		<id>815</id>
+	</game>
+	<game name="Sonic Advance 3">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>English-French-German-Italian-Japanese-Spanish</language>
+		<id>1536</id>
+	</game>
+	<game name="Sonic Advance">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>English-Japanese</language>
+		<id>252</id>
+	</game>
+	<game name="Sonic Battle">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>English-Japanese</language>
+		<id>1309</id>
+	</game>
+	<game name="Sonic Pinball Party">
+		<region>Japan</region>
+		<publisher>Sega</publisher>
+		<size>64mb</size>
+		<type>Flash512_v131</type>
+		<language>English-French-German-Italian-Japanese-Spanish</language>
+		<id>1103</id>
+	</game>
+	<game name="Space Hexcite: Maetel Legend EX">
+		<region>Japan</region>
+		<publisher>Jordan</publisher>
+		<size>32mb</size>
+		<type>Sram_v111</type>
+		<language>Japanese</language>
+		<id>69</id>
+	</game>
+	<game name="Space Invaders EX">
+		<region>Japan</region>
+		<publisher>Taito</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>526</id>
+	</game>
+	<game name="Spider-Man: Mysterio no Kyoui">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>408</id>
+	</game>
+	<game name="Spyro Advance">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>880</id>
+	</game>
+	<game name="Spyro Advance: Wakuwaku Tomodachi Daisakusen!">
+		<region>Japan</region>
+		<publisher>Vivendi</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1834</id>
+	</game>
+	<game name="Street Fighter Zero 3 Upper">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>608</id>
+	</game>
+	<game name="Summon Night: Craft Sword Monogatari 2">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1629</id>
+	</game>
+	<game name="Summon Night: Craft Sword Monogatari">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>980</id>
+	</game>
+	<game name="Super Black Bass Advance">
+		<region>Japan</region>
+		<publisher>Starfish</publisher>
+		<size>32mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>84</id>
+	</game>
+	<game name="Super Chinese Advance 1 &amp; 2">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1547</id>
+	</game>
+	<game name="Super Donkey Kong 2">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1559</id>
+	</game>
+	<game name="Super Donkey Kong">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1330</id>
+	</game>
+	<game name="Super Mario Advance 2">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>242</id>
+	</game>
+	<game name="Super Mario Advance 3">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>595</id>
+	</game>
+	<game name="Super Mario Advance 4">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Flash1M_v102</type>
+		<language>Japanese</language>
+		<id>1093</id>
+	</game>
+	<game name="Super Mario Advance">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v111</type>
+		<language>Japanese</language>
+		<id>2</id>
+	</game>
+	<game name="Super Mario Ball">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1630</id>
+	</game>
+	<game name="Super Puzzle Bobble Advance">
+		<region>Japan</region>
+		<publisher>Taito</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>English</language>
+		<id>369</id>
+	</game>
+	<game name="Super Real Mahjong Dousoukai">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1767</id>
+	</game>
+	<game name="Super Robot Taisen A">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Flash_v125</type>
+		<language>Japanese</language>
+		<id>111</id>
+	</game>
+	<game name="Super Robot Taisen D">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1120</id>
+	</game>
+	<game name="Super Robot Taisen R">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>514</id>
+	</game>
+	<game name="Super Robot Taisen">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>128mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>2125</id>
+	</game>
+	<game name="Super Robot Taisen: Original Generation 2">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>128mb</size>
+		<type>Flash512_v130</type>
+		<language>Japanese</language>
+		<id>1879</id>
+	</game>
+	<game name="Super Robot Taisen: Original Generation">
+		<region>Japan</region>
+		<publisher>Banpresto</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>747</id>
+	</game>
+	<game name="Super Street Fighter II X: Revival">
+		<region>Japan</region>
+		<publisher>Capcom</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v121</type>
+		<language>Japanese</language>
+		<id>62</id>
+	</game>
+	<game name="Sutakomi: Star Communicator">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>77</id>
+	</game>
+	<game name="Sweet Cookie Pie">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>416</id>
+	</game>
+	<game name="Sylvania Family: Fashion Designer Ninaritai!">
+		<region>Japan</region>
+		<publisher>Epoch</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1813</id>
+	</game>
+	<game name="Sylvanian Families 4: Meguru Kisetsu no Tapestry">
+		<region>Japan</region>
+		<publisher>Epoch</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>963</id>
+	</game>
+	<game name="Tactics Ogre Gaiden: The Knight of Lodis">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Flash_v124</type>
+		<language>Japanese</language>
+		<id>47</id>
+	</game>
+	<game name="Taiketsu! Ultra Hero">
+		<region>Japan</region>
+		<publisher>Jordan</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1404</id>
+	</game>
+	<game name="Tales of Phantasia">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1117</id>
+	</game>
+	<game name="Tales of the World: Narikiri Dungeon 2">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>689</id>
+	</game>
+	<game name="Tales of the World: Narikiri Dungeon 3">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1855</id>
+	</game>
+	<game name="Tales of the World: Summoner&quot;s Lineage">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>895</id>
+	</game>
+	<game name="Tanbi Musou: Meine Liebe">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v100</type>
+		<language>Japanese</language>
+		<id>85</id>
+	</game>
+	<game name="Tantei Gakuen Q: Kyukyoku Trick ni Idome">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1425</id>
+	</game>
+	<game name="Tantei Gakuen Q: Meitantei ha Kimi da!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1169</id>
+	</game>
+	<game name="Tantei Jinguuji Saburou: Shiroi Kage no Syoujyo">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1873</id>
+	</game>
+	<game name="Tekken Advance">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>Japanese</id>
+	</game>
+	<game name="Tennis no Ouji-sama 2003: Cool Blue">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>885</id>
+	</game>
+	<game name="Tennis no Ouji-sama 2003: Passion Red">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>884</id>
+	</game>
+	<game name="Tennis no Ouji-sama: Aim at the Victory!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>836</id>
+	</game>
+	<game name="Tennis no Ouji-sama: Genius Boys Academy">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>413</id>
+	</game>
+	<game name="Tetris Advance">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1336</id>
+	</game>
+	<game name="Tetris Worlds">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>32mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>407</id>
+	</game>
+	<game name="Tim Burton&quot;s The Nightmare Before Christmas: The Pumpkin King">
+		<region>Japan</region>
+		<publisher>D3</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2119</id>
+	</game>
+	<game name="Tokimeki Yume Series 1: Ohanaya-san ni Narou!">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>618</id>
+	</game>
+	<game name="Tokyo Majin Gakuen: Fuju Houroku">
+		<region>Japan</region>
+		<publisher>Victor</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1504</id>
+	</game>
+	<game name="Tomato Adventure">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>282</id>
+	</game>
+	<game name="Tomb Raider: The Prophecy">
+		<region>Japan</region>
+		<publisher>Ubi Soft</publisher>
+		<size>64mb</size>
+		<type>None</type>
+		<language>Japanese</language>
+		<id>974</id>
+	</game>
+	<game name="Top Gear Rally">
+		<region>Japan</region>
+		<publisher>Kemco</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1122</id>
+	</game>
+	<game name="Total Soccer Advance">
+		<region>Japan</region>
+		<publisher>Ubi Soft</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>886</id>
+	</game>
+	<game name="Tottoko Hamutarou 3: Love Love Daibouken Dechu">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>448</id>
+	</game>
+	<game name="Tottoko Hamutarou 4: Nijiiro Daikoushin Dechu">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1023</id>
+	</game>
+	<game name="Toukon Heat">
+		<region>Japan</region>
+		<publisher>Pacific Century</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>822</id>
+	</game>
+	<game name="Toyrobo Force">
+		<region>Japan</region>
+		<publisher>Global A</publisher>
+		<size>32mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>56</id>
+	</game>
+	<game name="Tweety no Hearty Party">
+		<region>Japan</region>
+		<publisher>Kemco</publisher>
+		<size>32mb</size>
+		<type>Sram_v110</type>
+		<language>Japanese</language>
+		<id>16</id>
+	</game>
+	<game name="Twin Series 2: Oshare Princess 4 + Sweet Life">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1731</id>
+	</game>
+	<game name="Twin Series 3: Insect Monster + Suchai Labyrinth">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2087</id>
+	</game>
+	<game name="Twin Series 4: Hamu Hamu Monster EX + F Puzzle Hamusuta">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2071</id>
+	</game>
+	<game name="Twin Series 5: Wanwan Meitantei EX + Manou no Kuni no Cake House">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2072</id>
+	</game>
+	<game name="Twin Series 6: Wannyan Idol Gakuen + Koinu to Issho">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2073</id>
+	</game>
+	<game name="Twin Series 7: Twin Puzzle - Kisekae Wanko Ex + Puzzle Rainbow Magic 2">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2088</id>
+	</game>
+	<game name="Uchuu Daisakusen Choco Vader: Uchuu Kara no Shinryakusha">
+		<region>Japan</region>
+		<publisher>Namco</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>821</id>
+	</game>
+	<game name="Uchuu no Stellvia">
+		<region>Japan</region>
+		<publisher>King Records</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1463</id>
+	</game>
+	<game name="Ui-Ire: World Soccer Winning Eleven">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>412</id>
+	</game>
+	<game name="Ultra Keibitai: Monster Attack">
+		<region>Japan</region>
+		<publisher>Smilesoft</publisher>
+		<size>64mb</size>
+		<type>Flash512_v131</type>
+		<language>Japanese</language>
+		<id>1608</id>
+	</game>
+	<game name="V-Master Cross">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>532</id>
+	</game>
+	<game name="V-Rally 3">
+		<region>Japan</region>
+		<publisher>Infogrames</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>English</language>
+		<id>560</id>
+	</game>
+	<game name="Vattroller X">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1868</id>
+	</game>
+	<game name="WTA Tour Tennis Pocket">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>301</id>
+	</game>
+	<game name="Wagamama Fairy Mirumo de Pon!: 8 Nin no Toki no Yousei">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1329</id>
+	</game>
+	<game name="Wagamama Fairy Mirumo de Pon!: Nazo no Kagi to Shinjitsu no Tobir">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1846</id>
+	</game>
+	<game name="Wagamama Fairy Mirumo de Pon!: Ougon Maracas no Densetsu">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>892</id>
+	</game>
+	<game name="Wagamama Fairy Mirumo de Pon!: Taisen Mahoudama">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1209</id>
+	</game>
+	<game name="Wagamama Fairy Mirumo de Pon!: Yume no Kakera">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1576</id>
+	</game>
+	<game name="Wan Nyan Doubutsu Byouin">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1130</id>
+	</game>
+	<game name="WanWan Meitantei">
+		<region>Japan</region>
+		<publisher>Culture Brain</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1341</id>
+	</game>
+	<game name="Wanko Mix: Chiwanko World">
+		<region>Japan</region>
+		<publisher>TDK</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>2003</id>
+	</game>
+	<game name="Wanko de Kururin! Wancle">
+		<region>Japan</region>
+		<publisher>MTO</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1737</id>
+	</game>
+	<game name="Wario Land Advance">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>90</id>
+	</game>
+	<game name="Watashi no Makesalon">
+		<region>Japan</region>
+		<publisher>Radikku</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>965</id>
+	</game>
+	<game name="Welcome to the Tower SP">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Flash512_v130</type>
+		<language>Japanese</language>
+		<id>1978</id>
+	</game>
+	<game name="Whistle!: Dai 37 Kai Tokyo-to Chuugakkou Sougou Taiiku Soccer Taikai">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>945</id>
+	</game>
+	<game name="Winning Post">
+		<region>Japan</region>
+		<publisher>Koei</publisher>
+		<size>32mb</size>
+		<type>Flash_v121</type>
+		<language>Japanese</language>
+		<id>18</id>
+	</game>
+	<game name="Wizardry Summoner">
+		<region>Japan</region>
+		<publisher>Media Rings</publisher>
+		<size>32mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>288</id>
+	</game>
+	<game name="Woody Woodpecker: Crazy Castle 5">
+		<region>Japan</region>
+		<publisher>Kemco</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>1028</id>
+	</game>
+	<game name="World Advance Soccer: Shouri heno Michi">
+		<region>Japan</region>
+		<publisher>Hands On</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>239</id>
+	</game>
+	<game name="Yakusoku no Chi Riviera">
+		<region>Japan</region>
+		<publisher>Bandai</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1803</id>
+	</game>
+	<game name="Yoshi no Banyu Inryoku">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1821</id>
+	</game>
+	<game name="Youkaidou">
+		<region>Japan</region>
+		<publisher>Fuuki</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>441</id>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 5 Expert 1">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>61</id>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 6 Expert 2">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>262</id>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 7: Kettou Toshi Densetsu">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v112</type>
+		<language>Japanese</language>
+		<id>493</id>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters 8: Hametsu no Daijashin">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>908</id>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters Expert 3">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>English-French-German-Italian-Japanese-Spanish</language>
+		<id>1366</id>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters: International Worldwide Edition 2">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v113</type>
+		<language>English-Japanese</language>
+		<id>1857</id>
+	</game>
+	<game name="Yu-Gi-Oh! Duel Monsters: International Worldwide Edition">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Sram_v112</type>
+		<language>English-French-German-Italian-Japanese-Spanish</language>
+		<id>1002</id>
+	</game>
+	<game name="Yu-Gi-Oh! Dungeon Dice Monsters">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Flash_v120</type>
+		<language>Japanese</language>
+		<id>20</id>
+	</game>
+	<game name="Yu-Gi-Oh! Sugoroku no Sugoroku">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1416</id>
+	</game>
+	<game name="Yuujou no Victory Goal 4v4 Arashi: Get the Goal!!">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>189</id>
+	</game>
+	<game name="Yuureiyashiki no Nijuuyojikan">
+		<region>Japan</region>
+		<publisher>Global A</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>330</id>
+	</game>
+	<game name="Z.O.E. 2173: Testament">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>122</id>
+	</game>
+	<game name="Zelda no Densetsu: Fushigi no Boushi">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1743</id>
+	</game>
+	<game name="Zelda no Densetsu: Kamigami no Triforce &amp; 4tsu no Tsurugi">
+		<region>Japan</region>
+		<publisher>Nintendo</publisher>
+		<size>64mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>900</id>
+	</game>
+	<game name="Zen-Nippon GT Senshuken">
+		<region>Japan</region>
+		<publisher>Kemco</publisher>
+		<size>32mb</size>
+		<type>Flash_v121</type>
+		<language>English</language>
+		<id>14</id>
+	</game>
+	<game name="Zen-Nippon Shounen Soccer Taikai 2: Mezase Nippon-ichi!">
+		<region>Japan</region>
+		<publisher>Activision</publisher>
+		<size>64mb</size>
+		<type>Flash_v126</type>
+		<language>Japanese</language>
+		<id>1038</id>
+	</game>
+	<game name="Zero One SP">
+		<region>Japan</region>
+		<publisher>Fuuki</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1594</id>
+	</game>
+	<game name="Zero One">
+		<region>Japan</region>
+		<publisher>Fuuki</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>989</id>
+	</game>
+	<game name="Zero-Tours">
+		<region>Japan</region>
+		<publisher>Media Rings</publisher>
+		<size>32mb</size>
+		<type>Flash_v124</type>
+		<language>Japanese</language>
+		<id>76</id>
+	</game>
+	<game name="Zettaizetsumei Dangerous Jiisan 3: Hateshinaki Mamonogatari">
+		<region>Japan</region>
+		<publisher>Kids Station</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1847</id>
+	</game>
+	<game name="Zettaizetsumei Dangerous Jiisan: Naki no Ikkai Zettai Fukujuu Violence Kouchou">
+		<region>Japan</region>
+		<publisher>Kids Station</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1462</id>
+	</game>
+	<game name="Zettaizetsumei Dangerous Jiisan: Shijou Saikyou no Dogeza">
+		<region>Japan</region>
+		<publisher>Kids Station</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1188</id>
+	</game>
+	<game name="Zettaizetsumei Dangerous Jiisan: Tsuu Ikari no Oshioki Blues">
+		<region>Japan</region>
+		<publisher>Kids Station</publisher>
+		<size>64mb</size>
+		<type>Sram_v113</type>
+		<language>Japanese</language>
+		<id>1572</id>
+	</game>
+	<game name="Zoids Saga II">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>968</id>
+	</game>
+	<game name="Zoids Saga">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v102</type>
+		<language>Japanese</language>
+		<id>259</id>
+	</game>
+	<game name="Zoids Saga: Fuzors">
+		<region>Japan</region>
+		<publisher>Tomy</publisher>
+		<size>64mb</size>
+		<type>Sram_F_v103</type>
+		<language>Japanese</language>
+		<id>1905</id>
+	</game>
+	<game name="Zoku Bokura no Taiyou: Taiyou Shounen Django">
+		<region>Japan</region>
+		<publisher>Konami</publisher>
+		<size>128mb</size>
+		<type>Eeprom_v124</type>
+		<language>Japanese</language>
+		<id>1585</id>
+	</game>
+	<game name="ZooCube">
+		<region>Japan</region>
+		<publisher>Acclaim</publisher>
+		<size>32mb</size>
+		<type>Eeprom_v122</type>
+		<language>Japanese</language>
+		<id>664</id>
+	</game>
+</database>

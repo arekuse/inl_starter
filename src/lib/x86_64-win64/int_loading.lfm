@@ -1,0 +1,18 @@
+object Form2: TForm2
+  Left = 753
+  Height = 27
+  Top = 207
+  Width = 589
+  Caption = 'Form2'
+  ClientHeight = 27
+  ClientWidth = 589
+  LCLVersion = '2.0.2.0'
+  object ProgressBar1: TProgressBar
+    Left = 0
+    Height = 27
+    Top = 0
+    Width = 589
+    Align = alClient
+    TabOrder = 0
+  end
+end

@@ -1,0 +1,1549 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<database version="1.0" conformance="strict" agent="SegaCartDB" author="arekuse">
+	<game name="007 Shitou: The Duel">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="2020 Nen Super Baseball">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="A Ressha de Ikou MD">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Aa Harimanada">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Advanced Busterhawk Gleylancer">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Advanced Daisenryaku: Deutsch Dengeki Sakusen">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Aero Blasters">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="After Burner II">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Air Diver">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Air Management: Oozora ni Kakeru">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Air Management II: Koukuuou o Mezase">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Aladdin">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Alex Kidd: Tenkuu Majou">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Alien 3">
+		<publisher>Acclaim</publisher>
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>	
+	<game name="Alien Soldier">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Alisia Dragoon">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Aoki Ookami to Shiroki Mejika: Genchou Hishi">
+		<region>Japan</region>
+		<size>1310720</size>
+	</game>
+	<game name="Arcus Odyssey">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Arrow Flash">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Atomic Robo-Kid">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Awesome Possum... ...Kicks Dr. Machino's Butt">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Ayrton Senna's Super Monaco GP II">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bad Omen">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Bahamut Senki">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ball Jacks">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Bare Knuckle II: Shitou e no Requiem ~ Streets of Rage II">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Bare Knuckle III">
+		<region>Japan</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Batman">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Battle Golfer Yui">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Battle Mania">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Battle Mania Daiginjou">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Beast Warriors">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bishoujo Senshi Sailor Moon">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Blue Almanac">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Bonanza Bros.">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Bonanza Bros.">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Boogie Woogie Bowling">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Burning Force">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Caesar no Yabou">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Caesar no Yabou II">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Captain Lang">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chameleon Kid">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chelnov">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chibi Maruko-chan: Wakuwaku Shopping">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Chiki Chiki Boys">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Chou Kyuukai Miracle Nine">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Chou Touryuu Retsuden: Dino Land">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Chuck Rock II">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Columns">
+		<region>Japan</region>
+		<size>128 KB</size>
+	</game>
+	<game name="Columns III: Taiketsu! Columns World">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Comix Zone">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Contra: The Hard Corps">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Cool Spot">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Crack Down">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Crayon Shin-chan: Arashi o Yobu Enji">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Crude Buster">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Crue Ball">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Crying: Aseimei Sensou">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Curse">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Cutie Suzuki no Ringside Angel">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Cyber Police: ESWAT">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Dahna: Megami Tanjou">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Daikoukai Jidai">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Daikoukai Jidai II">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Daimakaimura">
+		<region>Japan</region>
+		<size>64 KB</size>
+	</game>
+	<game name="Daisenpuu ~ Twin Hawk">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Dangerous Seed">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Darius II">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Darwin 4081">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="David Robinson Basketball">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Davis Cup Tennis">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Desert Strike: Wangan Sakusen ~ Desert Strike">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Devil Crash MD">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="DJ Boy">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Doraemon: Yume Dorobou to 7 Nin no Gozans">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Double Dragon II: The Revenge">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Dragon Ball Z: Buyuu Retsuden">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dragon Slayer: Eiyuu Densetsu">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dragon Slayer: Eiyuu Densetsu II">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dragon's Eye Plus: Shanghai III">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Dragon's Revenge">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dream Team USA">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dyna Brothers">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Dyna Brothers 2">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Dyna Brothers 2 Special">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Dynamite Headdy">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="EA Hockey">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ecco the Dolphin">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ecco the Dolphin II">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="El.Viento">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Elemental Master">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Eliminate Down">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Eternal Champions">
+		<region>Japan, Korea</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Europa Sensen">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ex-Ranza">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Exile: Toki no Hazama he">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="F-117 Stealth: Operation - Night Storm">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="F-22 Interceptor: Advanced Tactical Fighter">
+		<region>Japan</region>
+		<size>768 KB</size>
+	</game>
+	<game name="F1 Circus MD">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fastest 1">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fatman">
+		<region>Japan</region>
+		<size>64 KB</size>
+	</game>
+	<game name="FIFA International Soccer">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Fighting Masters">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Final Blow">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Fire Mustang">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Flashback">
+		<region>Japan</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Flintstones, The">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="From TV Animation Slam Dunk: Kyougou Makkou Taiketsu!">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Fushigi no Umi no Nadia">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="FZ Senki Axis ~ Final Zone">
+		<region>Japan, USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Gaiares">
+		<region>Japan, USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gain Ground">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Galaxy Force II">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gambler Jiko Chuushinha: Katayama Masayuki no Mahjong Doujou">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Garou Densetsu: Shukumei no Tatakai">
+		<region>Japan</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Garou Densetsu 2: Aratanaru Tatakai">
+		<region>Japan</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Gauntlet">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="General Chaos Daikonsen">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Go Net">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Gods">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Golden Axe III">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gouketsuji Ichizoku">
+		<region>Japan</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Granada">
+		<region>Japan, USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="GrandSlam: The Tennis Tournament '92">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Great Circus Mystery: Mickey to Minnie Magical Adventure 2">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Greatest Heavyweights">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Gunstar Heroes">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Gynoug">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Heavy Unit: Mega Drive Special">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Hellfire">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Herzog Zwei">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Hokuto no Ken: Shin Seikimatsu Kyuuseishu Densetsu">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Honoo no Toukyuuji: Dodge Danpei">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Hybrid Front, The">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Hyokkori Hyoutan-jima: Daitouryou wo Mezase!">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Hyper Dunk: The Playoff Edition">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="I Love Mickey and Donald: Fushigi na Magic Box">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="I Love Mickey Mouse: Fushigi no Oshiro Daibouken">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Insector X">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="J. League Champion Soccer">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="J. League Pro Striker">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="J. League Pro Striker 2">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="J. League Pro Striker Perfect">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="James Pond II">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Janou Touryuumon">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Jantei Monogatari">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Jashin Draxos">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Jewel Master">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="John Madden Football: Pro Football">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jordan vs Bird: One on One">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="JuJu Densetsu">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Junction">
+		<region>Japan, USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Jungle Strike: Uketsugareta Kyouki">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Jurassic Park">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Juuouki">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Juusou Kihei Leynos">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ka-Ge-Ki">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Kick Boxing, The">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Kidou Keisatsu Patlabor: 98-Shiki Kidou Seyo!">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Killing Game Show, The">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="King of the Monsters">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="King Salmon">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Kishi Densetsu">
+		<region>Japan</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Klax">
+		<publisher>Namco</publisher>
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Koutetsu Teikoku">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Kujaku Ou 2: Geneijou">
+		<region>Japan</region>
+		<size>384 KB</size>
+	</game>
+	<game name="Kuuga: Operation Code 'Vapor Trail'">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Kyuukai Douchuuki">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Kyuukyoku Tiger">
+		<region>Japan</region>
+		<size>64 KB</size>
+	</game>
+	<game name="Landstalker: Koutei no Zaihou">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Langrisser">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Langrisser II">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Lemmings">
+		<region>Japan, USA, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Lemmings">
+		<region>Japan, USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Lethal Enforcers">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="LHX Attack Chopper">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Light Crusader">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Lord Monarch: Tokoton Sentou Densetsu">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Madou Monogatari I">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Magical Hat no Buttobi Turbo! Daibouken">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Magical Taruruuto-kun">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mahjong Cop Ryuu: Shiro Ookami no Yabou">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Mamono Hunter Youko: Dai 7 no Keishou">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Maou Renjishi">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Marble Madness">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Marvel Land">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Master of Monsters">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Master of Weapon">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Maten no Soumetsu">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mazin Saga">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="McDonald's Treasure Land Adventure">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mega lo Mania">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="MegaPanel">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="MegaTrax">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Metal Fangs">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mickey Mania: The Timeless Adventures of Mickey Mouse">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Midnight Resistance">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Mig-29 Fighter Pilot">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Minato no Traysia">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Monster World IV">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Mugen Senshi Valis">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Musha Aleste: Full Metal Fighter Ellinor">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Mutant League Football">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Nakajima Satoru Kanshuu: F-1 Grand Prix">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Nakajima Satoru Kanshuu: F-1 Hero MD">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Nakajima Satoru Kanshuu: F-1 Super License">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="NBA Jam">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NBA Playoffs: Bulls vs Blazers">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="NBA Pro Basketball: Bulls vs Lakers and the NBA Playoffs">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="NBA Pro Basketball '94">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Nekketsu Koukou Dodgeball-bu: Soccer Hen MD">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="New 3D Golf Simulation: Devil's Course">
+		<region>Japan</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="New 3D Golf Simulation: Harukanaru Augusta">
+		<region>Japan</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="New 3D Golf Simulation: Pebble Beach no Hatou">
+		<region>Japan</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="New 3D Golf Simulation: Waialae no Kiseki">
+		<region>Japan</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="NewZealand Story, The">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="NFL Football '94">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NFL Pro Football '94">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="NHK Taiga Drama: Taiheiki">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Nikkan Sports Pro Yakyuu Van">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ninja Burai Densetsu">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Nobunaga no Yabou: Bushou Fuuunroku">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Nobunaga no Yabou: Haouden">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Nobunaga no Yabou: Zenkoku Ban">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Olympic Gold">
+		<region>Japan, USA, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Olympic Gold">
+		<region>Japan, USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ooze, The">
+		<region>Japan, USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Osomatsu-kun Hachamecha Gekijou">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="OutRun">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="OutRun 2019">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="OutRunners">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Ozaki Naomichi no Super Masters">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Pachinko Kuunyan">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Panorama Cotton">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Paperboy">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Party Quiz Mega Q">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pepenga Pengo">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="PGA Tour Golf II">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Phantasy Star: Sennenki no Owari ni">
+		<region>Japan</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Phantasy Star Fukkokuban">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Phantasy Star II: Kaerazaru Toki no Owari ni">
+		<region>Japan</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Phelios">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Populous">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Power Athlete">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Power Monger">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Pro Striker Final Stage">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Pro Yakyuu Super League '91">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Psy-O-Blade">
+		<region>Japan</region>
+		<size>64 KB</size>
+	</game>
+	<game name="Pulseman">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Puyo Puyo">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Puyo Puyo Tsuu">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Puzzle &amp; Action: Ichidanto-R">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Puzzle &amp; Action: Tanto-R">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="R.B.I. Baseball 4">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Raiden Densetsu ~ Raiden Trad ">
+		<region>Japan, USA</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rainbow Islands Extra">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Rampart">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ransei no Hasha">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rastan Saga II">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Rent a Hero">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ristar: The Shooting Star">
+		<region>Japan, Korea</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Road Rash">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Road Rash II">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="RoadBlasters">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="RoboCop versus The Terminator">
+		<region>Japan, Korea</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Rocket Knight Adventures">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Rockman: Mega World">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Rolling Thunder 2">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Royal Blood">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Runark">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ryuuko no Ken">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Saint Sword">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Same! Same! Same!">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Samurai Spirits">
+		<region>Japan</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Sangokushi II">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sangokushi III">
+		<region>Japan</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Sangokushi Retsuden: Ransei no Eiyuutachi">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sansan">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="SD Valis">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Shadow of the Beast: Mashou no Okite">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shijou Saidai no Soukoban">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Shikinjou">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Shin Souseiki Ragnacenty">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Shining and the Darkness">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Shining Force: Kamigami no Isan">
+		<region>Japan</region>
+		<size>1536 KB</size>
+	</game>
+	<game name="Shining Force II: Inishie no Fuuin">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Shiten Myouou">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Shougi no Hoshi">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Shura no Mon">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Side Pocket">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Slap Fight MD">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Slime World">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Snow Bros.: Nick &amp; Tom">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog">
+		<region>Japan, Korea</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Sonic &amp; Knuckles + Sonic The Hedgehog 3">
+		<region>Japan</region>
+		<size>4096 KB</size>
+	</game>
+	<game name="Sonic Spinball">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sonic The Hedgehog">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Sonic The Hedgehog 3">
+		<region>Japan, Korea</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sorcer Kingdom">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Sorcerian">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Space Funky B.O.B.">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Space Harrier II">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Space Invaders 90">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Sparkster: Rocket Knight Adventures 2">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Speedball 2">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Splatterhouse Part 2">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Splatterhouse Part 3">
+		<region>Japan, Korea</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Star Cruiser">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Steel Talons">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Stormlord">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Story of Thor, The: Hikari o Tsugumono">
+		<region>Japan</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Street Fighter II' Plus: Champion Edition">
+		<region>Japan, Korea, Asia</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Street Smart">
+		<region>Japan, USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Strider Hiryuu">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Super Airwolf">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Daisenryaku">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Fantasy Zone">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Super H.Q.">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Hydlide">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super League">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Monaco GP">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Monaco GP">
+		<region>Japan, USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Real Basketball">
+		<region>Japan, Korea</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Shinobi II, The">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Super Shinobi, The">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Street Fighter II: The New Challengers">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Thunder Blade">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Super Volley Ball">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Surging Aura">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Sword of Sodan">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="T2: The Arcade Game">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Taikou Risshiden">
+		<region>Japan</region>
+		<size>1310720</size>
+	</game>
+	<game name="Task Force Harrier EX">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tecmo Super Bowl">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tecmo Super Bowl II: Special Edition">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Tecmo Super NBA Basketball">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tecmo World Cup '92">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles: Return of the Shredder">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Teenage Mutant Ninja Turtles: Tournament Fighters">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Teitoku no Ketsudan">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tel-Tel Mahjong">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Tel-Tel Stadium">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Tetris">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Thunder Force II MD">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Thunder Force III">
+		<region>Japan, USA</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Thunder Force IV">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Thunder Fox">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Thunder Pro Wrestling Retsuden">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Time Dominator 1st">
+		<region>Japan, Korea</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="ToeJam &amp; Earl">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Toki no Keishousha: Phantasy Star III">
+		<region>Japan</region>
+		<size>768 KB</size>
+	</game>
+	<game name="Tom and Jerry: Frantic Antics">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Top Pro Golf">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Top Pro Golf 2">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Tougiou King Colossus">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Turbo OutRun">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Twinkle Tale">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Uchuu Senkan Gomora">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Ultraman">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Undead Line">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="V-V">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Valis III">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Vampire Killer">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Vermilion">
+		<region>Japan</region>
+		<size>64 KB</size>
+	</game>
+	<game name="Verytex">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Virtua Racing">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Vixen 357">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Volfied">
+		<region>Japan</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Wani Wani World">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Wardner no Mori Special">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Whip Rush: Wakusei Voltegas no Nazo">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Wimbledon Championship Tennis">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Winter Olympics">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Wizard of the Immortal">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Wonder Boy III: Monster Lair">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Wonder Boy V: Monster World III">
+		<region>Japan, Korea</region>
+		<size>64 KB</size>
+	</game>
+	<game name="World Cup Soccer ~ World Championship Soccer">
+		<region>Japan, USA</region>
+		<size>256 KB</size>
+	</game>
+	<game name="Wrestle War">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Wrestleball">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="XDR: X-Dazedly-Ray">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Ys: Wanderers from Ys">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Yu Yu Hakusho: Makyou Toitsusen">
+		<region>Japan</region>
+		<size>3072 KB</size>
+	</game>
+	<game name="Yu Yu Hakusho Gaiden">
+		<region>Japan</region>
+		<size>2048 KB</size>
+	</game>
+	<game name="Zan Yasha Enbukyoku">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+	<game name="Zero Wing">
+		<region>Japan</region>
+		<size>1024 KB</size>
+	</game>
+	<game name="Zou! Zou! Zou! Rescue Daisakusen">
+		<region>Japan</region>
+		<size>512 KB</size>
+	</game>
+</database>

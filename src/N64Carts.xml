@@ -1,0 +1,3163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<database version="1.0" conformance="strict" agent="N64CartDB" author="arekuse">
+	<game name="007: The World Is Not Enough">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="007: The World Is Not Enough">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="1080 TenEighty Snowboarding">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="1080 TenEighty Snowboarding">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="AeroFighters Assault">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="AeroFighters Assault">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="AeroGauge">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="AeroGauge">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Aidyn Chronicles: The First Mage">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Aidyn Chronicles: The First Mage">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Airboarder 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="All Star Tennis '99">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="All Star Tennis 99">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="All-Star Baseball 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="All-Star Baseball 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="All-Star Baseball 2001">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="All-Star Baseball 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="All-Star Baseball 99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Armorines: Project S.W.A.R.M.">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Armorines: Project S.W.A.R.M.">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Armorines: Project S.W.A.R.M.">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Army Men: Air Combat">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Army Men: Sarge's Heroes">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Army Men: Sarge's Heroes">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Army Men: Sarge's Heroes 2">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Asteroids Hyper 64">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Automobili Lamborghini">
+		<region>Europe</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Automobili Lamborghini">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Banjo-Kazooie">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Banjo-Kazooie">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Banjo-Tooie">
+		<region>Australia</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Banjo-Tooie">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Banjo-Tooie">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Bassmasters 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Batman Beyond: Return of the Joker">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Batman of the Future: Return of the Joker">
+		<region>Europe</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="BattleTanx">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="BattleTanx: Global Assault">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="BattleTanx: Global Assault">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Battlezone: Rise of the Black Dogs">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Beetle Adventure Racing!">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Beetle Adventure Racing!">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Big Mountain 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bio F.R.E.A.K.S.">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Bio F.R.E.A.K.S.">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Blast Corps">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Blast Corps">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Blues Brothers 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Blues Brothers 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Body Harvest">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Body Harvest">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bomberman 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Bomberman 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Bomberman 64: The Second Attack!">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Bomberman Hero">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bomberman Hero">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bottom of the 9th">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Brunswick Circuit Pro Bowling">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Buck Bumble">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Buck Bumble">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bug's Life, A">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bug's Life, A">
+		<region>France</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bug's Life, A">
+		<region>Germany</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bug's Life, A">
+		<region>Italy</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bug's Life, A">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Bust-A-Move '99">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Bust-A-Move 2: Arcade Edition">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Bust-A-Move 2: Arcade Edition">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Bust-A-Move 3 DX">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="California Speed">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Carmageddon 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Carmageddon 64">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Castlevania">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Castlevania">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Castlevania: Legacy of Darkness">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Castlevania: Legacy of Darkness">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Centre Court Tennis">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Chameleon Twist">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Chameleon Twist">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Chameleon Twist 2">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Chameleon Twist 2">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Charlie Blast's Territory">
+		<region>Europe</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Charlie Blast's Territory">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Chopper Attack">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Chopper Attack">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Clay Fighter: Sculptor's Cut">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Clay Fighter 63 1-3">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Clay Fighter 63 1-3">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Command &amp; Conquer">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Command &amp; Conquer">
+		<region>Germany</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Command &amp; Conquer">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Conker's Bad Fur Day">
+		<region>Europe</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Conker's Bad Fur Day">
+		<region>USA</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Cruis'n Exotica">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Cruis'n USA">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Cruis'n USA">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Cruis'n World">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Cruis'n World">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="CyberTiger">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="CyberTiger">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Daffy Duck Starring as Duck Dodgers">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Dark Rift">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Dark Rift">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Deadly Arts">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Defi au Tetris Magique">
+		<region>France</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Destruction Derby 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Destruction Derby 64">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Diddy Kong Racing">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Diddy Kong Racing">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Donald Duck: Goin' Quackers">
+		<region>USA</region>
+		<publisher/>
+		<size>20971520</size>
+	</game>
+	<game name="Donald Duck: Quack Attack">
+		<region>Europe</region>
+		<publisher/>
+		<size>20971520</size>
+	</game>
+	<game name="Dongwu Senlin">
+		<region>China</region>
+		<publisher/>
+		<size>16138240</size>
+	</game>
+	<game name="Donkey Kong 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Donkey Kong 64">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Doom 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Doom 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Dr. Mario 64">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Dragon Sword 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>9448848</size>
+	</game>
+	<game name="Dragon Sword 64">
+		<region>USA</region>
+		<publisher/>
+		<size>11891184</size>
+	</game>
+	<game name="Dual Heroes">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Dual Heroes">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Duck Dodgers Starring Daffy Duck">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Duke Nukem: Zero Hour">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Duke Nukem: Zero Hour">
+		<region>France</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Duke Nukem: Zero Hour">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Duke Nukem 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Duke Nukem 64">
+		<region>France</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Duke Nukem 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Earthworm Jim 3D">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Earthworm Jim 3D">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="ECW Hardcore Revolution">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="ECW Hardcore Revolution">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="ECW Hardcore Revolution">
+		<region>Germany</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Excitebike 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Excitebike 64">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Extreme-G">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Extreme-G">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Extreme-G XG2">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Extreme-G XG2">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="F-1 World Grand Prix">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="F-1 World Grand Prix">
+		<region>France</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="F-1 World Grand Prix">
+		<region>Germany</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="F-1 World Grand Prix">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="F-1 World Grand Prix II">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="F-Zero X">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="F-Zero X">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="F-Zero X: Weilai Saiche">
+		<region>China</region>
+		<publisher/>
+		<size>16334848</size>
+	</game>
+	<game name="F1 Pole Position 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="F1 Pole Position 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="F1 Racing Championship">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="F1 Racing Championship">
+		<region>Brazil</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="FIFA: Road to World Cup 98">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="FIFA: Road to World Cup 98">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="FIFA 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="FIFA 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="FIFA 99">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="FIFA Soccer 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Fighter Destiny 2">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Fighters Destiny">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Fighters Destiny">
+		<region>France</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Fighters Destiny">
+		<region>Germany</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Fighters Destiny">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Fighting Force 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Fighting Force 64">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Flying Dragon">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Flying Dragon">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Forsaken">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Forsaken">
+		<region>Germany</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Forsaken 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Fox Sports College Hoops '99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Frogger 2 (Proto)">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="G.A.S.P!! Fighters' NEXTream">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Gauntlet Legends">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Gauntlet Legends">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Gex 3: Deep Cover Gecko">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Gex 3: Deep Cover Gecko)">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Gex 3: Deep Cover Gecko">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Gex 64: Enter the Gecko">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Gex 64: Enter the Gecko">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Glover">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Glover">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Goemon's Great Adventure">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Golden Nugget 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="GoldenEye 007">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="GoldenEye 007">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="GT 64: Championship Edition">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="GT 64: Championship Edition">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Harvest Moon 64">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Hercules: The Legendary Journeys">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Hercules: The Legendary Journeys">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Hexen">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Hexen">
+		<region>France</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Hexen">
+		<region>Germany</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Hexen">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Hey You, Pikachu!">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Holy Magic Century">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Holy Magic Century">
+		<region>France</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Holy Magic Century">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Hot Wheels: Turbo Racing">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Hot Wheels: Turbo Racing">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="HSV Adventure Racing!">
+		<region>Australia</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Hybrid Heaven">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Hybrid Heaven">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Hydro Thunder">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Hydro Thunder">
+		<region>France</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Hydro Thunder">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Iggy's Reckin' Balls">
+		<region>Europe</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Iggy's Reckin' Balls">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="In-Fisherman: Bass Hunter 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="In-Fisherman: Bass Hunter 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Indiana Jones and the Infernal Machine">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Indiana Jones and the Infernal Machine (Proto)">
+		<region>Australia</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Indy Racing 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="International Superstar Soccer '98">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="International Superstar Soccer '98">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="International Superstar Soccer 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="International Superstar Soccer 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="International Superstar Soccer 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="International Superstar Soccer 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="International Track &amp; Field: Summer Games">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="International Track &amp; Field 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="iQue Club">
+		<region>China</region>
+		<publisher/>
+		<size>573440</size>
+	</game>
+	<game name="Jeopardy!">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Jeremy McGrath Supercross 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Jeremy McGrath Supercross 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Jet Force Gemini">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Jet Force Gemini">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="John Romero's Daikatana">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="John Romero's Daikatana">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Ken Griffey Jr.'s Slugfest">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Killer Instinct Gold">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Killer Instinct Gold">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Kirby 64: The Crystal Shards">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Kirby 64: The Crystal Shards">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Knife Edge: Nose Gunner">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Knife Edge: Nose Gunner">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Knockout Kings 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Knockout Kings 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Kobe Bryant in NBA Courtside">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Kobe Bryant in NBA Courtside">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="The Legend of Zelda: Majora's Mask">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="The Legend of Zelda: Majora's Mask">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="The Legend of Zelda: Majora's Mask (Collector's Edition)">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="The Legend of Zelda: Majora's Mask (Collector's Edition)">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="The Legend of Zelda: Ocarina of Time">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="The Legend of Zelda: Ocarina of Time">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="The Legend of Zelda: Ocarina of Time (Collector's Edition)">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="The Legend of Zelda: Ocarina of Time (Collector's Edition)">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="LEGO Racers">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="LEGO Racers">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Lode Runner 3-D">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Lode Runner 3-D">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Lylat Wars">
+		<region>Australia</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Lylat Wars">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mace: The Dark Age">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mace: The Dark Age">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Madden Football 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Madden Football 64">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Madden NFL 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Madden NFL 2001">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Madden NFL 2002">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Madden NFL 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Madden NFL 99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Magical Tetris Challenge">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Magical Tetris Challenge">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Magical Tetris Challenge">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Major League Baseball featuring Ken Griffey Jr.">
+		<region>Australia</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Major League Baseball featuring Ken Griffey Jr.">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mario Golf">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Golf">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Kadingche">
+		<region>China</region>
+		<publisher/>
+		<size>12533760</size>
+	</game>
+	<game name="Mario Kart 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mario Kart 64">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mario Party">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Party">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Party 2">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Party 2">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Party 3">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Party 3">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mario Tennis">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mario Tennis">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mario Yisheng">
+		<region>China</region>
+		<publisher/>
+		<size>3358720</size>
+	</game>
+	<game name="Mega Man 64">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mia Hamm Soccer 64">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Michael Owen's WLS 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mickey's Speedway USA">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Mickey's Speedway USA">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Micro Machines 64 Turbo">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Micro Machines 64 Turbo">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Midway's Greatest Arcade Hits: Volume 1">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Mike Piazza's Strike Zone">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Milo's Astro Lanes">
+		<region>Europe</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Milo's Astro Lanes">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Mischief Makers">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Mischief Makers">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Mission: Impossible">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mission: Impossible">
+		<region>France</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mission: Impossible">
+		<region>Germany</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mission: Impossible">
+		<region>Italy</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mission: Impossible">
+		<region>Spain</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mission: Impossible">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Monaco Grand Prix">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Monaco Grand Prix: Racing Simulation 2">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Monopoly">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Monster Truck Madness 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Monster Truck Madness 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Mortal Kombat 4">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mortal Kombat 4">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mortal Kombat Mythologies: Sub-Zero">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mortal Kombat Mythologies: Sub-Zero">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mortal Kombat Trilogy">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mortal Kombat Trilogy">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="MRC: Multi-Racing Championship">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="MRC: Multi-Racing Championship">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Ms. Pac-Man: Maze Madness">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Mystical Ninja 2 Starring Goemon">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mystical Ninja Starring Goemon">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Mystical Ninja Starring Goemon">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Nagano Winter Olympics '98">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Nagano Winter Olympics '98">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Namco Museum 64">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="NASCAR 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NASCAR 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NASCAR 99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA Courtside 2 featuring Kobe Bryant">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NBA Hangtime">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA Hangtime">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA in the Zone '98">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA in the Zone '99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA in the Zone 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NBA in the Zone 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NBA Jam 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NBA Jam 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NBA Jam 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA Jam 99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA Live 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NBA Live 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NBA Live 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NBA Live 99">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NBA Pro 98">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA Pro 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NBA Showtime: NBA on NBC">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="New Tetris, The">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="New Tetris, The">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NFL Blitz">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NFL Blitz: Special Edition">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NFL Blitz 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NFL Blitz 2001">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="NFL QB Club 2001">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NFL Quarterback Club 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NFL Quarterback Club 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NFL Quarterback Club 98">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="NFL Quarterback Club 98">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="NFL Quarterback Club 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NFL Quarterback Club 99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NHL 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NHL 99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NHL Blades of Steel '99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NHL Breakaway 98">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NHL Breakaway 98">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NHL Breakaway 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NHL Breakaway 99">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="NHL Pro 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Nightmare Creatures">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Nuclear Strike 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Nuclear Strike 64">
+		<region>Germany</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Nuclear Strike 64">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Off Road Challenge">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Off Road Challenge">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Ogre Battle 64: Person of Lordly Caliber">
+		<region>USA</region>
+		<publisher/>
+		<size>41943040</size>
+	</game>
+	<game name="Olympic Hockey 98">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Olympic Hockey 98">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Operation WinBack">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Paper Mario">
+		<region>Europe</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Paper Mario">
+		<region>USA</region>
+		<publisher/>
+		<size>41943040</size>
+	</game>
+	<game name="Paperboy">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Paperboy">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Penny Racers">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Penny Racers">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Perfect Dark">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Perfect Dark">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="PGA European Tour">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="PGA European Tour Golf">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pilotwings 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Pilotwings 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Pokemon Puzzle League">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Puzzle League">
+		<region>France</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Puzzle League">
+		<region>Germany</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Puzzle League">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Snap">
+		<region>Australia</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pokemon Snap">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pokemon Snap">
+		<region>France</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pokemon Snap">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pokemon Snap">
+		<region>Italy</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pokemon Snap">
+		<region>Spain</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pokemon Snap">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Pokemon Stadium">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Stadium">
+		<region>France</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Stadium">
+		<region>Germany</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Stadium">
+		<region>Italy</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Stadium">
+		<region>Spain</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Stadium">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Pokemon Stadium 2">
+		<region>Europe</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Pokemon Stadium 2">
+		<region>France</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Pokemon Stadium 2">
+		<region>Germany</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Pokemon Stadium 2">
+		<region>Italy</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Pokemon Stadium 2">
+		<region>Spain</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Pokemon Stadium 2">
+		<region>USA</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Polaris SnoCross">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Power Rangers: Lightspeed Rescue">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Power Rangers: Lightspeed Rescue">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="The Powerpuff Girls: Chemical X-Traction">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Premier Manager 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Quake">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Quake">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Quake II">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Quake II">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Quest 64">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Racing Simulation 2">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Rakugakids">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Rally Challenge 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Rampage: World Tour">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Rampage: World Tour">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Rampage 2: Universal Tour">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Rampage 2: Universal Tour">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Rat Attack">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Rat Attack!">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Rayman 2: The Great Escape">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Rayman 2: The Great Escape">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Les Razmoket: La Chasse aux Tresors">
+		<region>France</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Razor Freestyle Scooter">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Re-Volt">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Re-Volt">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Ready 2 Rumble Boxing">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Ready 2 Rumble Boxing">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Ready 2 Rumble Boxing: Round 2">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Rentiantang Mingxing: Daluan Dou">
+		<region>China</region>
+		<publisher/>
+		<size>16793600</size>
+	</game>
+	<game name="Resident Evil 2">
+		<region>Europe</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Resident Evil 2">
+		<region>USA</region>
+		<publisher/>
+		<size>67108864</size>
+	</game>
+	<game name="Road Rash 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Road Rash 64">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Roadsters">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Roadsters">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Robotron 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Robotron 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Rocket: Robot on Wheels">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Rocket: Robot on Wheels">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="RR64: Ridge Racer 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="RR64: Ridge Racer 64">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="RTL World League Soccer 2000">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Rugrats: Die grosse Schatzsuche">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Rugrats: Scavenger Hunt">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Rugrats: Treasure Hunt">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Rugrats in Paris: The Movie">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Rugrats in Paris: The Movie">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Rush 2: Extreme Racing USA">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Rush 2: Extreme Racing USA">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="S.C.A.R.S.">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="S.C.A.R.S.">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="San Francisco Rush: Extreme Racing">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="San Francisco Rush: Extreme Racing">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="San Francisco Rush 2049">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="San Francisco Rush 2049">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Scooby-Doo!: Classic Creep Capers">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Scooby-Doo!: Classic Creep Capers">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Sesame Street: Elmo's Letter Adventure">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Sesame Street: Elmo's Number Journey">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Shadow Man">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Shadow Man">
+		<region>France</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Shadow Man">
+		<region>Germany</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Shadow Man">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Shadow Man">
+		<region>Brazil</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Shadowgate 64: Trials of the Four Towers">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Shadowgate 64: Trials of the Four Towers">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Shen You Mario">
+		<region>China</region>
+		<publisher/>
+		<size>8060928</size>
+	</game>
+	<game name="Shuishang Motuo">
+		<region>China</region>
+		<publisher/>
+		<size>8159232</size>
+	</game>
+	<game name="Snowboard Kids">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Snowboard Kids">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Snowboard Kids 2">
+		<region>Australia</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Snowboard Kids 2">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="South Park">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="South Park">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="South Park">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="South Park">
+		<region>Brazil</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="South Park: Chef's Luv Shack">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="South Park: Chef's Luv Shack">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="South Park Rally">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="South Park Rally">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Space Invaders">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="SpaceStation Silicon Valley">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="SpaceStation Silicon Valley">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Spider-Man">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Star Fox 64">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Star Soldier: Vanishing Earth">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Star Wars: Rogue Squadron">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Star Wars: Rogue Squadron">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Star Wars: Shadows of the Empire">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Star Wars: Shadows of the Empire">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Star Wars Episode I: Battle for Naboo">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Star Wars Episode I: Battle for Naboo">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Star Wars Episode I: Racer">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Star Wars Episode I: Racer">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="StarCraft 64">
+		<region>Australia</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="StarCraft 64">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Starshot: Space Circus Fever">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Starshot: Space Circus Fever">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Stunt Racer 64">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Super Bowling">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Super Mario 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Super Mario 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Super Smash Bros.">
+		<region>Australia</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Super Smash Bros.">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Super Smash Bros.">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Supercross 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Supercross 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Superman">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Superman: The New Superman Aventures">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Tarzan">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tarzan">
+		<region>France</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tarzan">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tarzan">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Taz Express">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Telefoot Soccer 2000">
+		<region>France</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tetrisphere">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Tetrisphere">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="TG Rally 2">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Tigger's Honey Hunt">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tigger's Honey Hunt">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tom and Jerry in Fists of Furry">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Tom and Jerry in Fists of Furry">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Tom Clancy's Rainbow Six">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tom Clancy's Rainbow Six">
+		<region>France</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tom Clancy's Rainbow Six">
+		<region>Germany</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tom Clancy's Rainbow Six">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tonic Trouble">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tonic Trouble">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tony Hawk's Pro Skater">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Tony Hawk's Pro Skater 2">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tony Hawk's Pro Skater 2">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tony Hawk's Pro Skater 3">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Tony Hawk's Skateboarding">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Top Gear Hyper Bike">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Top Gear Hyper-Bike">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Top Gear Overdrive">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Top Gear Overdrive">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Top Gear Rally">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Top Gear Rally">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Top Gear Rally">
+		<region>Asia</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Top Gear Rally 2">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Top Gear Rally 2">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Top Gear Rally 2">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Toy Story 2: Buzz l'Eclair a la Rescousse!">
+		<region>France</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Toy Story 2: Buzz Lightyear to the Rescue!">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Toy Story 2: Buzz Lightyear to the Rescue!">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Toy Story 2: Captain Buzz Lightyear auf Rettungsmission!">
+		<region>Germany</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Transformers: Beast Wars Transmetals">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Triple Play 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Turok: Dinosaur Hunter">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Turok: Dinosaur Hunter">
+		<region>Germany</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Turok: Dinosaur Hunter">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Turok: Legenden des Verlorenen Landes">
+		<region>Germany</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Turok: Rage Wars">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Turok: Rage Wars">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Turok 2: Seeds of Evil">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Turok 2: Seeds of Evil">
+		<region>Germany</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Turok 2: Seeds of Evil">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Turok 3: Shadow of Oblivion">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Turok 3: Shadow of Oblivion">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Twisted Edge: Extreme Snowboarding">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Twisted Edge: Snowboarding">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="V-Rally Edition 99">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="V-Rally Edition 99">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Vigilante 8">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Vigilante 8">
+		<region>France</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Vigilante 8">
+		<region>Germany</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Vigilante 8">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Vigilante 8: 2nd Offense">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Vigilante 8: 2nd Offense">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Virtual Chess 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Virtual Chess 64">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Virtual Pool 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Virtual Pool 64">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="Waialae Country Club: True Golf Classics">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Waialae Country Club: True Golf Classics">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="War Gods">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="War Gods">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Wave Race 64: Kawasaki Jet Ski">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wave Race 64: Kawasaki Jet Ski">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wayne Gretzky's 3D Hockey">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wayne Gretzky's 3D Hockey">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wayne Gretzky's 3D Hockey '98">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wayne Gretzky's 3D Hockey '98">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="WCW Backstage Assault">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="WCW Mayhem">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="WCW Mayhem">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="WCW Nitro">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="WCW vs. nWo: World Tour">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="WCW vs. nWo: World Tour">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="WCW-nWo Revenge">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="WCW-nWo Revenge">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Wetrix">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wetrix">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wheel of Fortune">
+		<region>USA</region>
+		<publisher/>
+		<size>4194304</size>
+	</game>
+	<game name="WinBack: Covert Operations">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Wipeout 64">
+		<region>Europe</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="Wipeout 64">
+		<region>USA</region>
+		<publisher/>
+		<size>8388608</size>
+	</game>
+	<game name="World Cup 98">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="World Cup 98">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="World Driver Championship">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="World Driver Championship">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Worms Armageddon">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Worms Armageddon">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="WWF Attitude">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="WWF Attitude">
+		<region>Germany</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="WWF Attitude">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="WWF No Mercy">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="WWF No Mercy">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="WWF War Zone">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="WWF War Zone">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="WWF WrestleMania 2000">
+		<region>Europe</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="WWF WrestleMania 2000">
+		<region>USA</region>
+		<publisher/>
+		<size>33554432</size>
+	</game>
+	<game name="Xena - Warrior Princess: The Talisman of Fate">
+		<region>Europe</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Xena - Warrior Princess: The Talisman of Fate">
+		<region>USA</region>
+		<publisher/>
+		<size>12582912</size>
+	</game>
+	<game name="Xingji Huohu">
+		<region>China</region>
+		<publisher/>
+		<size>11829248</size>
+	</game>
+	<game name="Yaoxi Gushi">
+		<region>China</region>
+		<publisher/>
+		<size>16023552</size>
+	</game>
+	<game name="Yoshi's Story">
+		<region>Europe</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Yoshi's Story">
+		<region>USA</region>
+		<publisher/>
+		<size>16777216</size>
+	</game>
+	<game name="Yueye Motuo">
+		<region>China</region>
+		<publisher/>
+		<size>16072704</size>
+	</game>
+	<game name="Zelda Chuanshuo Shiguang Zhi Di">
+		<region>China</region>
+		<publisher/>
+		<size>29868032</size>
+	</game>
+	<game name="Zhi Pian Mario">
+		<region>iQue</region>
+		<publisher/>
+		<size>41943040</size>
+	</game>
+	<game name="Zuhe Jiqiren">
+		<region>China</region>
+		<publisher/>
+		<size>16793600</size>
+	</game>
+	<game name="Zui Yu Fa Diqiu De Jicheng Zhe">
+		<region>China</region>
+		<publisher/>
+		<size>33636352</size>
+	</game>
+</database>

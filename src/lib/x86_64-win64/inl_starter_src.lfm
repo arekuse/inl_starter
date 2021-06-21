@@ -1,0 +1,1164 @@
+object Form1: TForm1
+  Left = 336
+  Height = 586
+  Top = 220
+  Width = 1143
+  Align = alClient
+  BorderStyle = bsDialog
+  Caption = 'INL Dumper'
+  ClientHeight = 586
+  ClientWidth = 1143
+  DoubleBuffered = True
+  OnCreate = FormCreate
+  OnShow = FormShow
+  ParentDoubleBuffered = False
+  LCLVersion = '2.0.8.0'
+  object Panel1: TPanel
+    Left = 0
+    Height = 586
+    Top = 0
+    Width = 242
+    Align = alLeft
+    ClientHeight = 586
+    ClientWidth = 242
+    TabOrder = 0
+    object GroupBox1: TGroupBox
+      Left = 1
+      Height = 216
+      Top = 176
+      Width = 235
+      Align = alTop
+      BorderSpacing.Right = 5
+      Caption = 'NES ROM Size Settings'
+      ClientHeight = 196
+      ClientWidth = 231
+      TabOrder = 1
+      object Edit1: TEdit
+        Left = 5
+        Height = 23
+        Hint = 'Size of NES PRG-ROM in KByte'
+        Top = 25
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 0
+        Text = '128'
+      end
+      object Edit2: TEdit
+        Left = 5
+        Height = 23
+        Hint = 'Size of NES CHR-ROM in KByte'
+        Top = 73
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 1
+        Text = '128'
+      end
+      object Edit3: TEdit
+        Left = 5
+        Height = 23
+        Hint = 'Size of NES PRG-RAM/WRAM in KByte'
+        Top = 121
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 2
+        Text = '0'
+      end
+      object Label3: TLabel
+        Left = 5
+        Height = 15
+        Top = 5
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        Caption = 'PRG-ROM Size in KBytes (e.g. 32)'
+        ParentColor = False
+      end
+      object Label4: TLabel
+        Left = 5
+        Height = 15
+        Top = 53
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        Caption = 'CHR-ROM Size in KBytes (e.g. 8)'
+        ParentColor = False
+      end
+      object Label5: TLabel
+        Left = 5
+        Height = 15
+        Top = 101
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        Caption = 'PRG-RAM/WRAM Size in KBytes (e.g. 0)'
+        ParentColor = False
+      end
+      object ComboBox3: TComboBox
+        Left = 5
+        Height = 23
+        Top = 169
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        Enabled = False
+        ItemHeight = 15
+        ItemIndex = 0
+        Items.Strings = (
+          'nil'
+          'V'
+          'H'
+        )
+        TabOrder = 3
+        Text = 'nil'
+        Visible = False
+      end
+      object Label7: TLabel
+        Left = 5
+        Height = 15
+        Top = 149
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        Caption = 'Mirror'
+        ParentColor = False
+        Visible = False
+      end
+    end
+    object GroupBox2: TGroupBox
+      Left = 1
+      Height = 54
+      Top = 392
+      Width = 235
+      Align = alTop
+      BorderSpacing.Right = 5
+      Caption = 'Non NES ROM Size Settings (Kbyte)'
+      ClientHeight = 34
+      ClientWidth = 231
+      TabOrder = 2
+      object Edit4: TEdit
+        Left = 5
+        Height = 23
+        Hint = 'Size of ROM in kilobytes, used for non-NES consoles'
+        Top = 5
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        ParentShowHint = False
+        ShowHint = True
+        TabOrder = 0
+        Text = '512'
+      end
+    end
+    object GroupBox3: TGroupBox
+      Left = 1
+      Height = 175
+      Top = 1
+      Width = 235
+      Align = alTop
+      BorderSpacing.Right = 5
+      Caption = 'Mapper and Console'
+      ClientHeight = 155
+      ClientWidth = 231
+      TabOrder = 0
+      object ComboBox1: TComboBox
+        Left = 5
+        Height = 23
+        Top = 73
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        ItemHeight = 15
+        Items.Strings = (
+          'scripts.nes.nrom'
+          'scripts.nes.mmc1'
+          'scripts.nes.unrom'
+          'scripts.nes.cnrom'
+          'scripts.nes.mmc3'
+          'scripts.nes.mmc2'
+          'scripts.nes.mmc4'
+          'scripts.nes.mm2'
+          'scripts.nes.mapper30v2'
+          'scripts.nes.bnrom'
+          'scripts.nes.cdream'
+          'scripts.nes.cninja'
+          'scripts.nes.action53'
+          'scripts.nes.action53_tsop'
+          'scripts.nes.easyNSF'
+          'scripts.nes.fme7'
+          'scripts.nes.dualport'
+          'scripts.snes.v3'
+          'scripts.snes.lorom_5volt'
+          'scripts.snes.v2proto'
+          'scripts.snes.v2proto_hirom'
+          'scripts.sega.genesis_v1'
+          'scripts.sega.genesis_v2'
+          'scripts.gba.basic'
+          'scripts.n64.basic'
+          'scripts.gb.romonly'
+          'scripts.gb.mbc1'
+        )
+        Style = csDropDownList
+        TabOrder = 1
+      end
+      object Label1: TLabel
+        Left = 5
+        Height = 15
+        Top = 53
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        Caption = 'Cartridge Type'
+        ParentColor = False
+      end
+      object Label2: TLabel
+        Left = 5
+        Height = 15
+        Top = 5
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        Caption = 'Console Type'
+        ParentColor = False
+      end
+      object ComboBox2: TComboBox
+        Left = 5
+        Height = 23
+        Top = 25
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        ItemHeight = 15
+        Items.Strings = (
+          'NES'
+          'SNES'
+          'SEGA'
+          'N64'
+          'GBA'
+          'GB'
+        )
+        OnChange = ComboBox2Change
+        ParentShowHint = False
+        Style = csDropDownList
+        TabOrder = 0
+      end
+      object Label6: TLabel
+        Left = 5
+        Height = 15
+        Top = 101
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        Caption = 'Dump Name'
+        ParentColor = False
+      end
+      object Edit5: TEdit
+        Left = 5
+        Height = 23
+        Top = 121
+        Width = 221
+        Align = alTop
+        BorderSpacing.Around = 5
+        TabOrder = 2
+        Text = 'output\dump.bin'
+      end
+    end
+    object Button1: TButton
+      Left = 6
+      Height = 30
+      Top = 550
+      Width = 230
+      Align = alBottom
+      BorderSpacing.Around = 5
+      Caption = 'DUMP'
+      OnClick = Button1Click
+      TabOrder = 3
+    end
+    object GroupBox7: TGroupBox
+      Left = 6
+      Height = 94
+      Top = 451
+      Width = 230
+      Align = alClient
+      BorderSpacing.Around = 5
+      Caption = 'Options'
+      ClientHeight = 74
+      ClientWidth = 226
+      TabOrder = 4
+      Visible = False
+      object CheckBox1: TCheckBox
+        Left = 5
+        Height = 19
+        Top = 5
+        Width = 216
+        Align = alTop
+        BorderSpacing.Around = 5
+        Caption = 'Automatic Dumping (SNES)'
+        OnChange = CheckBox1Change
+        TabOrder = 0
+      end
+    end
+  end
+  object Memo1: TMemo
+    Left = 904
+    Height = 539
+    Top = 0
+    Width = 407
+    Lines.Strings = (
+      'function main ()'
+      #9'print("\n")'
+      #9'local dict = require "scripts.app.dict"'
+      #9'local cart = require "scripts.app.cart"'
+      #9'local nes = require "scripts.app.nes"'
+      #9'local snes = require "scripts.app.snes"'
+      #9'local dump = require "scripts.app.dump"'
+      #9'local erase = require "scripts.app.erase"'
+      #9'local flash = require "scripts.app.flash"'
+      #9'local swim = require "scripts.app.swim"'
+      #9'local jtag = require "scripts.app.jtag"'
+      #9'local ciccom = require "scripts.app.ciccom"'
+      #9'local fwupdate = require "scripts.app.fwupdate"'
+      #9'local files = require "scripts.app.files"'
+      ''
+      #9'local curcart = require "{%1}"'
+      #9'local cart_console = "{%2}"'
+      #9'local process_opts = {'
+      #9#9'test = false,'
+      #9#9'read = true,'
+      #9#9'erase = false,'
+      #9#9'program = false,'
+      #9#9'verify = false,'
+      #9#9'dumpram = false,'
+      #9#9'writeram = false,'
+      #9#9'dump_filename = "{%7}",'
+      #9#9'flash_filename = "ignore/flash.bin",'
+      #9#9'verify_filename = "ignore/verifyout.bin",'
+      #9#9'dumpram_filename = "ignore/ramdump.bin",'
+      #9#9'writeram_filename = "",'
+      #9'}'
+      #9'local console_opts = {'
+      #9#9'mirror = {%8},'
+      #9#9'prg_rom_size_kb = {%3},'
+      #9#9'chr_rom_size_kb = {%4},'
+      #9#9'wram_size_kb = {%5},'
+      #9#9'rom_size_kbyte = {%6},'
+      #9'}'
+      ''
+      #9'local force_cart = true'
+      ''
+      #9'if (force_cart or cart.detect_console(true)) then'
+      #9#9'if cart_console == "NES" or cart_console == "Famicom" then'
+      #9#9#9'dict.io("IO_RESET")'#9
+      #9#9#9'dict.io("NES_INIT")'#9
+      #9#9#9'curcart.process(process_opts, console_opts)'
+      #9#9#9'dict.io("IO_RESET")'#9
+      #9#9'elseif cart_console == "SNES" then'
+      #9#9#9'curcart.process(process_opts, console_opts)'
+      #9#9#9'dict.io("IO_RESET")'#9
+      #9#9'elseif cart_console == "SEGA" then'
+      #9#9#9'curcart.process(process_opts, console_opts)'
+      #9#9#9'dict.io("IO_RESET")'#9
+      #9#9'end'
+      #9'end'
+      'end'
+      'main ()'
+    )
+    ScrollBars = ssAutoBoth
+    TabOrder = 1
+    Visible = False
+    WordWrap = False
+  end
+  object Memo2: TMemo
+    Left = 304
+    Height = 361
+    Top = 64
+    Width = 206
+    Lines.Strings = (
+      'Memo2'
+    )
+    ScrollBars = ssAutoBoth
+    TabOrder = 2
+    Visible = False
+    WordWrap = False
+  end
+  object PageControl1: TPageControl
+    Left = 242
+    Height = 586
+    Top = 0
+    Width = 901
+    ActivePage = TabSheet1
+    Align = alClient
+    TabIndex = 0
+    TabOrder = 3
+    OnChange = PageControl1Change
+    object TabSheet1: TTabSheet
+      Caption = 'NES'
+      ClientHeight = 558
+      ClientWidth = 893
+      object GroupBox4: TGroupBox
+        Left = 5
+        Height = 525
+        Top = 0
+        Width = 888
+        Align = alClient
+        BorderSpacing.Left = 5
+        BorderSpacing.Bottom = 5
+        Caption = 'NES Games Information'
+        ClientHeight = 505
+        ClientWidth = 884
+        TabOrder = 0
+        object ListBox1: TListBox
+          Left = 5
+          Height = 467
+          Top = 33
+          Width = 400
+          Align = alLeft
+          BorderSpacing.Around = 5
+          ItemHeight = 0
+          OnKeyPress = Edit6KeyPress
+          OnSelectionChange = ListBox1SelectionChange
+          TabOrder = 0
+        end
+        object Edit6: TEdit
+          Left = 5
+          Height = 23
+          Top = 5
+          Width = 874
+          Align = alTop
+          BorderSpacing.Around = 5
+          OnChange = Edit6Change
+          OnKeyPress = Edit6KeyPress
+          TabOrder = 1
+        end
+        object Panel2: TPanel
+          Left = 410
+          Height = 467
+          Top = 33
+          Width = 469
+          Align = alClient
+          BorderSpacing.Around = 5
+          Caption = 'Panel2'
+          ClientHeight = 467
+          ClientWidth = 469
+          TabOrder = 2
+          object StringGrid1: TStringGrid
+            Left = 6
+            Height = 412
+            Top = 49
+            Width = 457
+            Align = alClient
+            BorderSpacing.Around = 5
+            ColCount = 2
+            FixedCols = 0
+            FixedRows = 0
+            RowCount = 15
+            ScrollBars = ssNone
+            TabOrder = 0
+            ColWidths = (
+              78
+              390
+            )
+            Cells = (
+              15
+              0
+              0
+              'Title'
+              0
+              1
+              'System'
+              0
+              2
+              'Alternative'
+              0
+              3
+              'Publisher'
+              0
+              4
+              'Developer'
+              0
+              5
+              'Region'
+              0
+              6
+              'Date'
+              0
+              7
+              'Board Type'
+              0
+              8
+              'Mapper'
+              0
+              9
+              'Chip Type'
+              0
+              10
+              'PRG'
+              0
+              11
+              'CHR'
+              0
+              12
+              'VRAM'
+              0
+              13
+              'H Mirror'
+              0
+              14
+              'V Mirror'
+            )
+          end
+          object ComboBox4: TComboBox
+            Left = 6
+            Height = 23
+            Top = 21
+            Width = 457
+            Align = alTop
+            BorderSpacing.Around = 5
+            ItemHeight = 15
+            OnChange = ComboBox4Change
+            Style = csDropDownList
+            TabOrder = 1
+          end
+          object ProgressBar1: TProgressBar
+            Left = 6
+            Height = 10
+            Top = 6
+            Width = 457
+            Align = alTop
+            BorderSpacing.Around = 5
+            TabOrder = 2
+          end
+        end
+      end
+      object StatusBar1: TStatusBar
+        Left = 5
+        Height = 23
+        Top = 530
+        Width = 883
+        BorderSpacing.Around = 5
+        Panels = <>
+      end
+    end
+    object TabSheet2: TTabSheet
+      Caption = 'SNES'
+      ClientHeight = 558
+      ClientWidth = 893
+      object GroupBox5: TGroupBox
+        Left = 5
+        Height = 553
+        Top = 0
+        Width = 888
+        Align = alClient
+        BorderSpacing.Left = 5
+        BorderSpacing.Bottom = 5
+        Caption = 'SNES Games Information'
+        ClientHeight = 533
+        ClientWidth = 884
+        TabOrder = 0
+        object Edit7: TEdit
+          Left = 5
+          Height = 23
+          Top = 5
+          Width = 874
+          Align = alTop
+          BorderSpacing.Around = 5
+          OnChange = Edit7Change
+          OnKeyPress = Edit7KeyPress
+          TabOrder = 0
+        end
+        object ListBox2: TListBox
+          Left = 5
+          Height = 472
+          Top = 33
+          Width = 400
+          Align = alLeft
+          BorderSpacing.Around = 5
+          ItemHeight = 0
+          OnKeyPress = ListBox2KeyPress
+          OnSelectionChange = ListBox2SelectionChange
+          TabOrder = 1
+        end
+        object Panel3: TPanel
+          Left = 410
+          Height = 472
+          Top = 33
+          Width = 469
+          Align = alClient
+          BorderSpacing.Around = 5
+          ClientHeight = 472
+          ClientWidth = 469
+          TabOrder = 2
+          object ProgressBar2: TProgressBar
+            Left = 6
+            Height = 10
+            Top = 6
+            Width = 457
+            Align = alTop
+            BorderSpacing.Around = 5
+            TabOrder = 0
+          end
+          object ComboBox5: TComboBox
+            Left = 6
+            Height = 23
+            Top = 21
+            Width = 457
+            Align = alTop
+            BorderSpacing.Around = 5
+            ItemHeight = 15
+            OnChange = ComboBox5Change
+            Style = csDropDownList
+            TabOrder = 1
+          end
+          object StringGrid2: TStringGrid
+            Left = 6
+            Height = 417
+            Top = 49
+            Width = 457
+            Align = alClient
+            BorderSpacing.Around = 5
+            ColCount = 2
+            FixedCols = 0
+            FixedRows = 0
+            RowCount = 9
+            ScrollBars = ssNone
+            TabOrder = 2
+            ColWidths = (
+              85
+              369
+            )
+            Cells = (
+              9
+              0
+              0
+              'Title'
+              0
+              1
+              'Internal name'
+              0
+              2
+              'Bank'
+              0
+              3
+              'SRAM'
+              0
+              4
+              'Chips'
+              0
+              5
+              'Size'
+              0
+              6
+              'Video'
+              0
+              7
+              'Region'
+              0
+              8
+              'Speed'
+            )
+          end
+        end
+        object StatusBar2: TStatusBar
+          Left = 0
+          Height = 23
+          Top = 510
+          Width = 884
+          Panels = <>
+        end
+      end
+    end
+    object TabSheet3: TTabSheet
+      Caption = 'SEGA'
+      ClientHeight = 558
+      ClientWidth = 893
+      object GroupBox6: TGroupBox
+        Left = 5
+        Height = 553
+        Top = 0
+        Width = 888
+        Align = alClient
+        BorderSpacing.Left = 5
+        BorderSpacing.Bottom = 5
+        Caption = 'Sega Games Information'
+        ClientHeight = 533
+        ClientWidth = 884
+        TabOrder = 0
+        object Edit8: TEdit
+          Left = 5
+          Height = 23
+          Top = 5
+          Width = 874
+          Align = alTop
+          BorderSpacing.Around = 5
+          OnChange = Edit8Change
+          OnKeyPress = Edit8KeyPress
+          TabOrder = 0
+        end
+        object ListBox3: TListBox
+          Left = 5
+          Height = 472
+          Top = 33
+          Width = 400
+          Align = alLeft
+          BorderSpacing.Around = 5
+          ItemHeight = 0
+          OnKeyPress = ListBox3KeyPress
+          OnSelectionChange = ListBox3SelectionChange
+          TabOrder = 1
+        end
+        object Panel4: TPanel
+          Left = 410
+          Height = 472
+          Top = 33
+          Width = 469
+          Align = alClient
+          BorderSpacing.Around = 5
+          ClientHeight = 472
+          ClientWidth = 469
+          TabOrder = 2
+          object ProgressBar3: TProgressBar
+            Left = 6
+            Height = 10
+            Top = 6
+            Width = 457
+            Align = alTop
+            BorderSpacing.Around = 5
+            TabOrder = 0
+          end
+          object ComboBox6: TComboBox
+            Left = 6
+            Height = 23
+            Top = 21
+            Width = 457
+            Align = alTop
+            BorderSpacing.Around = 5
+            ItemHeight = 15
+            OnChange = ComboBox6Change
+            Style = csDropDownList
+            TabOrder = 1
+          end
+          object StringGrid3: TStringGrid
+            Left = 6
+            Height = 417
+            Top = 49
+            Width = 457
+            Align = alClient
+            BorderSpacing.Around = 5
+            ColCount = 2
+            FixedCols = 0
+            FixedRows = 0
+            RowCount = 6
+            ScrollBars = ssNone
+            TabOrder = 2
+            ColWidths = (
+              85
+              369
+            )
+            Cells = (
+              6
+              0
+              0
+              'Title'
+              0
+              1
+              'Publisher'
+              0
+              2
+              'Developer'
+              0
+              3
+              'Release'
+              0
+              4
+              'Region'
+              0
+              5
+              'Size'
+            )
+          end
+        end
+        object StatusBar3: TStatusBar
+          Left = 0
+          Height = 23
+          Top = 510
+          Width = 884
+          Panels = <>
+        end
+      end
+    end
+    object TabSheet4: TTabSheet
+      Caption = 'N64'
+      ClientHeight = 558
+      ClientWidth = 893
+      object GroupBox8: TGroupBox
+        Left = 5
+        Height = 553
+        Top = 0
+        Width = 888
+        Align = alClient
+        BorderSpacing.Left = 5
+        BorderSpacing.Bottom = 5
+        Caption = 'N64 Information'
+        ClientHeight = 533
+        ClientWidth = 884
+        TabOrder = 0
+        object Edit9: TEdit
+          Left = 5
+          Height = 23
+          Top = 5
+          Width = 874
+          Align = alTop
+          BorderSpacing.Around = 5
+          OnChange = Edit9Change
+          OnKeyPress = Edit9KeyPress
+          TabOrder = 0
+        end
+        object ListBox4: TListBox
+          Left = 5
+          Height = 472
+          Top = 33
+          Width = 292
+          Align = alLeft
+          BorderSpacing.Around = 5
+          ItemHeight = 0
+          OnKeyPress = ListBox4KeyPress
+          OnSelectionChange = ListBox4SelectionChange
+          TabOrder = 1
+        end
+        object Panel5: TPanel
+          Left = 302
+          Height = 472
+          Top = 33
+          Width = 577
+          Align = alClient
+          BorderSpacing.Around = 5
+          ClientHeight = 472
+          ClientWidth = 577
+          TabOrder = 2
+          object ProgressBar4: TProgressBar
+            Left = 6
+            Height = 10
+            Top = 6
+            Width = 565
+            Align = alTop
+            BorderSpacing.Around = 5
+            TabOrder = 0
+          end
+          object ComboBox7: TComboBox
+            Left = 6
+            Height = 23
+            Top = 21
+            Width = 565
+            Align = alTop
+            BorderSpacing.Around = 5
+            ItemHeight = 15
+            OnChange = ComboBox7Change
+            Style = csDropDownList
+            TabOrder = 1
+          end
+          object StringGrid4: TStringGrid
+            Left = 6
+            Height = 417
+            Top = 49
+            Width = 565
+            Align = alClient
+            BorderSpacing.Around = 5
+            ColCount = 2
+            FixedCols = 0
+            FixedRows = 0
+            RowCount = 6
+            ScrollBars = ssNone
+            TabOrder = 2
+            ColWidths = (
+              85
+              369
+            )
+            Cells = (
+              6
+              0
+              0
+              'Title'
+              0
+              1
+              'Publisher'
+              0
+              2
+              'Developer'
+              0
+              3
+              'Release'
+              0
+              4
+              'Region'
+              0
+              5
+              'Size'
+            )
+          end
+        end
+        object StatusBar4: TStatusBar
+          Left = 0
+          Height = 23
+          Top = 510
+          Width = 884
+          Panels = <>
+        end
+      end
+    end
+    object TabSheet5: TTabSheet
+      Caption = 'GBA'
+      ClientHeight = 558
+      ClientWidth = 893
+      object GroupBox9: TGroupBox
+        Left = 5
+        Height = 553
+        Top = 0
+        Width = 888
+        Align = alClient
+        BorderSpacing.Left = 5
+        BorderSpacing.Bottom = 5
+        Caption = 'GBA Information'
+        ClientHeight = 533
+        ClientWidth = 884
+        TabOrder = 0
+        object Edit10: TEdit
+          Left = 5
+          Height = 23
+          Top = 5
+          Width = 874
+          Align = alTop
+          BorderSpacing.Around = 5
+          OnChange = Edit10Change
+          OnKeyPress = Edit10KeyPress
+          TabOrder = 0
+        end
+        object ListBox5: TListBox
+          Left = 5
+          Height = 472
+          Top = 33
+          Width = 292
+          Align = alLeft
+          BorderSpacing.Around = 5
+          ItemHeight = 0
+          OnKeyPress = ListBox5KeyPress
+          OnSelectionChange = ListBox5SelectionChange
+          TabOrder = 1
+        end
+        object Panel6: TPanel
+          Left = 302
+          Height = 472
+          Top = 33
+          Width = 577
+          Align = alClient
+          BorderSpacing.Around = 5
+          ClientHeight = 472
+          ClientWidth = 577
+          TabOrder = 2
+          object ProgressBar5: TProgressBar
+            Left = 6
+            Height = 10
+            Top = 6
+            Width = 565
+            Align = alTop
+            BorderSpacing.Around = 5
+            TabOrder = 0
+          end
+          object ComboBox8: TComboBox
+            Left = 6
+            Height = 23
+            Top = 21
+            Width = 565
+            Align = alTop
+            BorderSpacing.Around = 5
+            ItemHeight = 15
+            OnChange = ComboBox8Change
+            Style = csDropDownList
+            TabOrder = 1
+          end
+          object StringGrid5: TStringGrid
+            Left = 6
+            Height = 417
+            Top = 49
+            Width = 565
+            Align = alClient
+            BorderSpacing.Around = 5
+            ColCount = 2
+            FixedCols = 0
+            FixedRows = 0
+            RowCount = 8
+            ScrollBars = ssNone
+            TabOrder = 2
+            ColWidths = (
+              85
+              369
+            )
+            Cells = (
+              8
+              0
+              0
+              'Title'
+              0
+              1
+              'Publisher'
+              0
+              2
+              'Developer'
+              0
+              3
+              'Release'
+              0
+              4
+              'Region'
+              0
+              5
+              'Size'
+              0
+              6
+              'Save Type'
+              0
+              7
+              'Community ID'
+            )
+          end
+        end
+        object StatusBar5: TStatusBar
+          Left = 0
+          Height = 23
+          Top = 510
+          Width = 884
+          Panels = <>
+        end
+      end
+    end
+    object TabSheet6: TTabSheet
+      Caption = 'GB'
+      ClientHeight = 558
+      ClientWidth = 893
+      object GroupBox10: TGroupBox
+        Left = 5
+        Height = 553
+        Top = 0
+        Width = 888
+        Align = alClient
+        BorderSpacing.Left = 5
+        BorderSpacing.Bottom = 5
+        Caption = 'GBA Information'
+        ClientHeight = 533
+        ClientWidth = 884
+        TabOrder = 0
+        object Edit11: TEdit
+          Left = 5
+          Height = 23
+          Top = 5
+          Width = 874
+          Align = alTop
+          BorderSpacing.Around = 5
+          OnChange = Edit11Change
+          OnKeyPress = Edit10KeyPress
+          TabOrder = 0
+        end
+        object ListBox6: TListBox
+          Left = 5
+          Height = 472
+          Top = 33
+          Width = 292
+          Align = alLeft
+          BorderSpacing.Around = 5
+          ItemHeight = 0
+          OnKeyPress = ListBox6KeyPress
+          OnSelectionChange = ListBox6SelectionChange
+          TabOrder = 1
+        end
+        object Panel7: TPanel
+          Left = 302
+          Height = 472
+          Top = 33
+          Width = 577
+          Align = alClient
+          BorderSpacing.Around = 5
+          ClientHeight = 472
+          ClientWidth = 577
+          TabOrder = 2
+          object ProgressBar6: TProgressBar
+            Left = 6
+            Height = 10
+            Top = 6
+            Width = 565
+            Align = alTop
+            BorderSpacing.Around = 5
+            TabOrder = 0
+          end
+          object ComboBox9: TComboBox
+            Left = 6
+            Height = 23
+            Top = 21
+            Width = 565
+            Align = alTop
+            BorderSpacing.Around = 5
+            ItemHeight = 15
+            OnChange = ComboBox9Change
+            Style = csDropDownList
+            TabOrder = 1
+          end
+          object StringGrid6: TStringGrid
+            Left = 6
+            Height = 417
+            Top = 49
+            Width = 565
+            Align = alClient
+            BorderSpacing.Around = 5
+            ColCount = 2
+            FixedCols = 0
+            FixedRows = 0
+            RowCount = 7
+            ScrollBars = ssNone
+            TabOrder = 2
+            ColWidths = (
+              85
+              369
+            )
+            Cells = (
+              7
+              0
+              0
+              'Title'
+              0
+              1
+              'Internal Name'
+              0
+              2
+              'Publisher'
+              0
+              3
+              'ROM size'
+              0
+              4
+              'RAM size'
+              0
+              5
+              'Type'
+              0
+              6
+              'Region'
+            )
+          end
+        end
+        object StatusBar6: TStatusBar
+          Left = 0
+          Height = 23
+          Top = 510
+          Width = 884
+          Panels = <>
+        end
+      end
+    end
+  end
+end
